@@ -15,8 +15,7 @@ subtitle:
     .div-1 {
         background-color: #EBEBEB;
        background-size: cover;
-         min-height: 600px;
-     height: 100%;
+        with: 100%;
     }
     
     .div-2 {
