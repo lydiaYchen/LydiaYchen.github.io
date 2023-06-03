@@ -97,11 +97,10 @@ C.Hong@tudelft.nl
 <td style="border: none;">
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="150"/>
 <pre>
-Jeroen Galjaard
-J.M.Galjaard-1@tudelft.nl
+Bart Cox
+b.a.cox@tudelft.nl
 </pre>
 </td>
-
 
 
 <td style="border: none;">
@@ -119,14 +118,21 @@ J.Huang-4@tudelft.nl
 <td style="border: none;">
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="150"/>
 <pre>
-Bart Cox
-b.a.cox@tudelft.nl
+Jeroen Galjaard
+J.M.Galjaard-1@tudelft.nl
 (with Jeremie decouchant)
 </pre>
 </td>
 </tr>	
 
-
+<td style="border: none;">
+<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/jiyue.jpg?raw=true" title="phd" width="100" height="150"/>
+<pre>
+Chaoyi Zhu
+c.zhu-7@tudelft.nl
+</pre>
+</td>
+</tr
 
 </table>
 
