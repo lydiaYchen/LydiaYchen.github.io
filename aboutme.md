@@ -9,7 +9,7 @@ subtitle:
 - [Service](#service)
 
 
-# Short Bio
+# Short Bio<a name="Bio"></a> 
 
 Lydia Y. Chen is an Associate Professor in the Department of Computer Science at the Delft University of Technology in the Netherlands. Prior to joining TU Delft, she was a research staff member at the IBM Research Zurich Lab from 2007 to 2018. She holds a PhD from Pennsylvania State University and a BA from National Taiwan University. Her research interests are distributed machine learning,  dependability management,  large-scale data processing systems and services. More specifically, her work focuses on developing machine learning and stochastic models, and applying these techniques to application domains, such as data centers and AI systems. 
 
@@ -21,10 +21,46 @@ She has published more than 100 papers in peer-reviewed journals, including IEE
  </a>
 </figure>
 
-# Services
 
-- Associate editor, IEEE transactions on Distributed and Parallel Computing 
-- Associate editor, IEEE Transactions on Dependable and Secure  Computing
+# Services<a name="service"></a> 
+
+- Associate editor, IEEE transactions on Distributed and Parallel Computing, 2018- now
+- Associate editor, IEEE Transactions on Dependable and Secure  Computing, 2019- now
+
+
+## Conference Chairing <a name="ConfChair"></a> 
+
+
+## Conference TPC <a name="ConfChair"></a> 
+**Acronym**|**Conference**|**Years**
+:-----|:-----|:-----
+SIGCOM| ACM SIGCOM Conference| 23
+ICML| International Conference on Machine Learning| 23   
+Eurosys |  ACM Eurosys  |18, 23
+SigMetrics| ACM International Conference on Measurement and Modeling of Computer Systems| 21, 22, 23
+SoCC| ACM Symposium on Cloud Computing | 20, 21, 22
+WWW |  The Web Conference  | 20
+IJCAI |  International Joint Conferences on Artificial Intelligence  | 20
+IPDPS |  IEEE International Parallel \& Distributed Processing Symposium  | 19, 20
+DSN |  IEEE/IFIP International Conference on Dependable Systems and Networks  |13,  17,  18,  19,  |20
+ICDCS |  IEEE International Conference on Distributed Computing Systems  |16,  17,  |18
+Middleware |   ACM/Usenix Middleware  |15,  16,  17,  19,  20,  21,  23
+INFOCOM |  IEEE International Conference on Computer Communications  |10,  11,  19,  20
+OPODIS |  International Conference on Principles of Distributed Systems  | 18
+SecDev |  IEEE Security Development Conference  |18
+SRDS |  IEEE International Symposium on Reliable Distributed Systems  |18,  21
+HotCloud |  USENIX Workshop on Hot Topics in Cloud Computing  |18,  19
+ ICAC |   IEEE International Conference on Autonomic Computing  |14,  15,  16,  17
+ CCGrid |   IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing  |19
+ IC2E |  IEEE International Conference on Cloud Engineering  |16,  18
+ MASCOTS |  IEEE International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems  |14,  15,  16,  17,  18
+ ICPE |  ACM/SPEC International Conference on Performance Engineering  |13,  16,  17
+ GreenMetrics | ACM Sigmetrics Workshop on GreenMetrics  |16,  17
+ ICPP |  International Conference on Parallel Processing  |14
+ Globecom |  IEEE Global Communications Conference  |09,  10,  11,  14
+ ICC |  IEEE International Conference on Communications  |09,  10,  11,  12,  16,  17
+ ICCCN |  IEEE International Conference on Computer Communication and Networks  |12,  13,  14,  15,  17
+ IPCC |  International Performance Computing and Communications Conference  |10,  11
 <figure>
  <a href="#top">
   <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="22">
