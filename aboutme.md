@@ -20,7 +20,7 @@ She has published more than 100 papers in peer-reviewed journals, including IEE
 
 <figure>
  <a href="#top">
-  <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="22">
+  <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="25">
  </a>
 </figure>
 
@@ -53,11 +53,16 @@ She has published more than 100 papers in peer-reviewed journals, including IEE
 2020| Doctoral symposium co-chair of  ACM Eurosys
 2018| Workshop co-chair of ACM Eurosys
 2018| Award co-chair of IEEE/SPEC International Conference on Performance Engineering 
- 2017|  Workshop co-chair of  ACM/Usenix Middleware
+2017|  Workshop co-chair of  ACM/Usenix Middleware
 2016 | Workshop chair of IEEE International Conference on Autonomic Computing
 2015| Session chair of INFORMS Annual Meeting
 2016 | Session chair of INFORMS Annual Meeting
 
+<figure>
+ <a href="#top">
+  <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="25">
+ </a>
+</figure>
 
 ## Conference TPC <a name="TPC"></a> 
 **Acronym**|**Conference**|**Years**
@@ -95,3 +100,8 @@ HotCloud |  USENIX Workshop on Hot Topics in Cloud Computing  |18,  19
  </a>
 </figure>
 
+<figure>
+ <a href="#top">
+  <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="25">
+ </a>
+</figure>
