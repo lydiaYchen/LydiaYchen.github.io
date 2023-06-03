@@ -13,9 +13,9 @@ author: Lydia Y. Chen
 
 navbar-links:
   About Me: "aboutme"
-  My Lab: "team"
+  My Team: "team"
   Publication: "publication"
-  Author's home: "https://lydiaychen.com"
+ # Author's home: "https://lydiaychen.com"
 
 # --- Logo --- #
 
