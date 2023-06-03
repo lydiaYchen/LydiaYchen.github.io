@@ -32,8 +32,6 @@ She has published more than 100 papers in peer-reviewed journals, including IEE
 **Year**|**Conference**
 :-----|:-----
 
-**Acronym**|**Conference**|**Years**
-:-----|:-----|:-----
 2022| Track co-chair of IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid)
 2021| Program co-chair of IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (BDCAT) 
 2019|  Program co-chair of  IEEE International Conference on Autonomic Computing (ICAC)
