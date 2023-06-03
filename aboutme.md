@@ -10,8 +10,8 @@ I returned to academia, after a decade of industry experience at the IBM Researc
 Over the years, I have worked on  performance modeling and resource management problems of various computing systems, such as web services, cloud data centers, and big data processing systems. My recent focus on distributed machine learning algorithms and  systems  leads me to address exciting areas.
  
 
-# Privacy-preserving learning systems by synthetic data: how to maximize the knowledge of  while maintaining data privacy ? I am exploring the deep generative models to synthesize data. 
+#Privacy-preserving learning systems by synthetic data: how to maximize the knowledge of  while maintaining data privacy ? I am exploring the deep generative models to synthesize data. 
 
-# Robust learning systems: how to make learning algorithms robust against adversaries that maliciously manipulate data input? I am designing practical strategies and theories against attackers, e.g., free riders, and thief.
+#Robust learning systems: how to make learning algorithms robust against adversaries that maliciously manipulate data input? I am designing practical strategies and theories against attackers, e.g., free riders, and thief.
  
-# Federated machine learning systems: how to decentralizedly learn deep learning models on heterogeneous clients who contentiously encounter new learning tasks and data domain shift? I am working on domain adaptation, and continual learning in FL.
+#Federated machine learning systems: how to decentralizedly learn deep learning models on heterogeneous clients who contentiously encounter new learning tasks and data domain shift? I am working on domain adaptation, and continual learning in FL.
