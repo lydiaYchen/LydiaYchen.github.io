@@ -1,16 +1,17 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I returned to academia, after a decade of industry experience at the IBM Research Zurich Lab.  I am currently a professor at University of Neuchatel and TU Delft. I am the director of Distributed Learning Systems Lab. My research interests lie in the distinct areas of deep machine learning, big data systems,  performance modeling and privacy enhancing technology. My research is supported by the Swiss National Science Foundation, Dutch National Science Foundation the European Union, IBM Research,  ABB, and TU Delft. 
 
-What else do you need?
+Over the years, I have worked on  performance modeling and resource management problems of various computing systems, such as web services, cloud data centers, and big data processing systems. My recent focus on distributed machine learning algorithms and  systems  leads me to address exciting areas.
+ 
 
-### my history
+# Privacy-preserving learning systems by synthetic data: how to maximize the knowledge of  while maintaining data privacy ? I am exploring the deep generative models to synthesize data. 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+# Robust learning systems: how to make learning algorithms robust against adversaries that maliciously manipulate data input? I am designing practical strategies and theories against attackers, e.g., free riders, and thief.
+ 
+# Federated machine learning systems: how to decentralizedly learn deep learning models on heterogeneous clients who contentiously encounter new learning tasks and data domain shift? I am working on domain adaptation, and continual learning in FL.
