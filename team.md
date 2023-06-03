@@ -42,29 +42,7 @@ lydiaychen@ieee.org
 	<p>Associate Professor</p>
   <p>Y.Chen-10@tudelft.nl</p>  </tr> </table> -->
 
-## Postdocs
 
-<!-- <table>
-<tr>
-<td style="border: none;">
-<img src="https://github.com/Team-TUD/DIS/blob/master/images/zhao.jpg?raw=true" title="phd" width="100" height="150"/>  <pre>
-<a href="https://www.linkedin.com/in/zilong-zhao/">Zilong ZHAO</a>
-<p> zilong.zhao@gipsa-lab.fr </p>
-</pre>
-</td>
-</tr>
-</table> -->
-<table>
-<tr>
-<td style="border: none;">
-<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/zhao.jpg?raw=true" title="phd" width="100" height="150"/>
-<pre>
-<a href="https://www.linkedin.com/in/zilong-zhao/">Zilong Zhao</a>
-Z.Zhao-8@tudelft.nl
-</pre>
-</td>
-</tr>
-</table>
 
 
 ## Ph.D. Students
@@ -99,6 +77,7 @@ C.Hong@tudelft.nl
 <pre>
 Bart Cox
 b.a.cox@tudelft.nl
+(With Jeremie Decouchant)
 </pre>
 </td>
 
@@ -132,6 +111,19 @@ c.zhu-7@tudelft.nl
 </tr></table>
 
 
+<table>
+<tr>
+<td style="border: none;">
+<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="150"/>
+<pre>
+Aditya Shankar
+A.shankar-3@tudelft.nl
+(With Rihan He)
+</pre>
+</td>
+</tr></table>
+
+
 
 
 <br>
@@ -143,8 +135,10 @@ c.zhu-7@tudelft.nl
 
 **Name**|**Master/Intern**|**Thesis/Project**
 :-----|:-----|:-----
-Miruna Betianu|Master 23| Auto ML
-Aditya Shankar|Master 23| Continual federated learning
+Abel Mălan| Master 23 | Vertical FL for Bayesian learning
+Mohamed Rashad | Master 23 | Vertical federated learning for classifier
+Miruna Betianu|Master 23| Domain adapation using pre-trained models
+Aditya Shankar|Master 23| Vertical federated learning for time series 
 Chaoyi Zhu|Master 23| Transferrability of adversarial examples
 Yijun Zhu|Master 22| Permutation invariant tabular data synthesizer
 Jeroen Galjaard|Master 22| Meta learrning 
