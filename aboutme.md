@@ -29,7 +29,7 @@ She has published more than 100 papers in peer-reviewed journals, including IEE
 
 <figure>
  <a href="#top">
-  <img src="../assets/img/up.png" alt="top" style="float: right;" width="30" height="22">
+  <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="22">
  </a>
 </figure>
 
@@ -39,7 +39,7 @@ She has published more than 100 papers in peer-reviewed journals, including IEE
 - Associate editor, IEEE Transactions on Dependable and Secure  Computing
 <figure>
  <a href="#top">
-  <img src="../assets/img/up.png" alt="top" style="float: right;" width="30" height="22">
+  <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="22">
  </a>
 </figure>
 
