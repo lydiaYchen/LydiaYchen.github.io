@@ -26,12 +26,12 @@ She has published more than 100 papers in peer-reviewed journals, including IEE
 
 - Associate editor, IEEE transactions on Distributed and Parallel Computing, 2018- now
 - Associate editor, IEEE Transactions on Dependable and Secure  Computing, 2019- now
-
+- Associate editor, IEEE transactions on Network Service and Managment, 2018- 2023
+- Associate editor, IEEE transactions on Service Computing, 2019- 2023
 
 ## Conference Chairing <a name="ConfChair"></a> 
 **Year**|**Conference**
 :-----|:-----
-
 2022| Track co-chair of IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid)
 2021| Program co-chair of IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (BDCAT) 
 2019|  Program co-chair of  IEEE International Conference on Autonomic Computing (ICAC)
@@ -43,6 +43,17 @@ She has published more than 100 papers in peer-reviewed journals, including IEE
 2013,14|  Symposium co-chair of IEEE International Conference on Computing, Networking and Communications (ICNC), Communications QoS and System Modeling Symposium
 2011,13| Program co-chair of International Workshop on Data Center Performance (DCPerf), co-located with IEEE International Conference on Distributed Computing Systems
 
+
+## Conference Organization <a name="ConfOrg"></a> 
+**Year**|**Conference & Role**
+:-----|:-----
+2020| Doctoral symposium co-chair of  ACM Eurosys
+2018| Workshop co-chair of ACM Eurosys
+2018| Award co-chair of IEEE/SPEC International Conference on Performance Engineering 
+ 2017|  Workshop co-chair of  ACM/Usenix Middleware
+2016 | Workshop chair of IEEE International Conference on Autonomic Computing
+2015| Session chair of INFORMS Annual Meeting
+2016 | Session chair of INFORMS Annual Meeting
 
 
 ## Conference TPC <a name="TPC"></a> 
