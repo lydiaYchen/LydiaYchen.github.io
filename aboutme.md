@@ -71,6 +71,7 @@ She has published more than 100 papers in peer-reviewed journals, including IEE
  </a>
 </figure>
 
+
 ## Conference TPC <a name="TPC"></a> 
 
 **Acronym**|**Conference**|**Years**
@@ -103,10 +104,7 @@ HotCloud |  USENIX Workshop on Hot Topics in Cloud Computing  |18,  19
  ICCCN |  IEEE International Conference on Computer Communication and Networks  |12,  13,  14,  15,  17
  IPCC |  International Performance Computing and Communications Conference  |10,  11
 <figure>
- <a href="#top">
-  <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="22">
- </a>
-</figure>
+
 
 <figure>
  <a href="#top">
