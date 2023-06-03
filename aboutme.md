@@ -16,6 +16,8 @@ subtitle:
         background-color: #EBEBEB;
        background-size: cover;
         with: 100%;
+       margin-side: 0px;
+  min-width: 600px;
     }
     
     .div-2 {
