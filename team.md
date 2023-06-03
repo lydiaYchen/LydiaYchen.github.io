@@ -119,7 +119,6 @@ J.Huang-4@tudelft.nl
 <pre>
 Jeroen Galjaard
 J.M.Galjaard-1@tudelft.nl
-(with Jeremie decouchant)
 </pre>
 </td>
 
