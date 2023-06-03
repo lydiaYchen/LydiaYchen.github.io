@@ -15,7 +15,7 @@ navbar-links:
   About Me: "aboutme"
   My Lab: "DML_Lab"
   Publication: "publication"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://lydiaychen.com"
 
 # --- Logo --- #
 
@@ -36,8 +36,8 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
-social-network-links:
-  email: "someone@example.com"
+# social-network-links:
+#  email: "someone@example.com"
 
 #  reddit: yourname
 #  linkedin: daattali
@@ -90,7 +90,7 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-#navbar-img: "/assets/img/banner.jpg"
+navbar-img: "/assets/img/banner.jpg"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
 
@@ -100,15 +100,15 @@ footer-link-col: "#404040"
 #gtag: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+# google_analytics: ""
 
 # Google Tag Manager ID
-#gtm: ""
+# gtm: ""
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
 # whether or not you want to allow users to opt out of tracking.
-#matomo:
+# matomo:
 #  site_id: "9"
 #  uri: "demo.wiki.pro"
 #  opt-out: true
@@ -161,7 +161,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
+timezone: "Europe/Switzerland"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
