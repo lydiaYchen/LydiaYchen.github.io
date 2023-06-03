@@ -13,7 +13,7 @@ subtitle:
 
 <style>
 body {
-  background-color: PeachPuff;
+  background-color: lightblue;
 }
 </style>
 <body>
