@@ -29,9 +29,25 @@ She has published more than 100 papers in peer-reviewed journals, including IEE
 
 
 ## Conference Chairing <a name="ConfChair"></a> 
+**Year**|**Conference**
+:-----|:-----
+
+**Acronym**|**Conference**|**Years**
+:-----|:-----|:-----
+2022| Track co-chair of IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid)
+2021| Program co-chair of IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (BDCAT) 
+2019|  Program co-chair of  IEEE International Conference on Autonomic Computing (ICAC)
+2018| Workshop co-chair of Women in Big Data, Swiss National Science Foundation% initiative
+2018| ndustrial track co-chair of IFIP/IEEE Middleware
+2018| Track vice-chair of IEEE International Conference on Distributed Computing Systems (ICDCS)
+2017| Program co-chair of International Conference on Distributed Applications and Interoperable Systems (DAIS), co-located with International Federated Conference on Distributed Computing Techniques 
+2016| Program co-chair of International Workshop on Big Data and Cloud Performance, co-located with IEEE International Conference on Distributed Computing Systems 
+2013,14|  Symposium co-chair of IEEE International Conference on Computing, Networking and Communications (ICNC), Communications QoS and System Modeling Symposium
+2011,13| Program co-chair of International Workshop on Data Center Performance (DCPerf), co-located with IEEE International Conference on Distributed Computing Systems
 
 
-## Conference TPC <a name="ConfChair"></a> 
+
+## Conference TPC <a name="TPC"></a> 
 **Acronym**|**Conference**|**Years**
 :-----|:-----|:-----
 SIGCOM| ACM SIGCOM Conference| 23
