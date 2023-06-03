@@ -7,6 +7,9 @@ subtitle:
 {::options parse_block_html="true" /}<a name="top"></a> 
 - [Short Bio](#Bio)
 - [Service](#service)
+  - [Journal editor](#service)
+  - [Conference chairing](#ConfChair)
+  - [Conference TPC](#TPC)
 
 
 # Short Bio<a name="Bio"></a> 
