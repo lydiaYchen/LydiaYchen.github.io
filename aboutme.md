@@ -13,8 +13,7 @@ subtitle:
 
 <style>
     .div-1 {
-       background-color: #FAFAFA;
-        
+       background-color: #FAFAFA;       
     }
     
     .div-2 {
