@@ -50,15 +50,14 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
 <div class="div-2">
   
 <h1>Services<a name="service"></a> </h1>
-
   
-- Associate editor, IEEE transactions on Distributed and Parallel Computing, 2018- now
+<li>Associate editor, IEEE transactions on Distributed and Parallel Computing, 2018- now</li>
   
-- Associate editor, IEEE Transactions on Dependable and Secure  Computing, 2019- now
+<li>Associate editor, IEEE Transactions on Dependable and Secure  Computing, 2019- now</li>
   
-- Associate editor, IEEE transactions on Network Service and Managment, 2018- 2023
+<li>Associate editor, IEEE transactions on Network Service and Managment, 2018- 2023</li>
   
-- Associate editor, IEEE transactions on Service Computing, 2019- 2023
+<li>Associate editor, IEEE transactions on Service Computing, 2019- 2023</li>
   
 </div>
 
