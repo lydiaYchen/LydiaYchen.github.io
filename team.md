@@ -11,7 +11,7 @@ subtitle: Who we are
 <table>
 <tr>
 <td style="border: none;">
-<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/chen.jpg?raw=true" title="Associate Professor" width="100" height="150" alt="centered image"/>
+<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/chen.jpg?raw=true" title="Associate Professor" width="100" height="120" alt="centered image"/>
 <pre>
 Associate Professor
 <a href="https://lydiaychen.com/">Lydia Y. Chen</a>
@@ -122,6 +122,22 @@ A.shankar-3@tudelft.nl
 </pre>
 </td>
 </tr></table>
+
+
+<br>
+
+## Collaborators
+
+**Name**|**First employment**
+:-----|:-----
+Robert Birke| Assistant professor at University of Torino, Italy
+Han Rui | Bejin Technology University, China
+Marten Van Dijk| CWI, the Netherlands
+Juan Perez | Los Anders Univeresity, Columbia
+Pin-yu Chen | IBM Research, USA
+De-Nian Yang| Academia Sinica, Taiwan
+
+
 
 
 <br>
