@@ -19,7 +19,7 @@ subtitle:
     }
     
     .div-2 {
-    	background-color: green;
+    	background-color: lightblue;
        background-size: contain
     }
   
