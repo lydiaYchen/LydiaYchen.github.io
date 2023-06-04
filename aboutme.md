@@ -12,7 +12,7 @@ subtitle:
   - [Conference TPC](#TPC)
 
 <style>
-    .sect-1 {
+    .sec-1 {
        background-color: #FAFAFA;
         display: block;
        background-size: contain;
@@ -25,7 +25,7 @@ subtitle:
   
 </style>
 
-<section>
+<section class="sec-1>
 # Short Bio<a name="Bio"></a> 
 
 
