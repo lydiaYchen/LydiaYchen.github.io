@@ -13,7 +13,6 @@ subtitle: Current and past projects
     }
     
     .div-2 {
-        max-width:100%;
     	background-color: rgba(0, 128, 0, 0.1);
         width: 100px;
   height: 100px;
