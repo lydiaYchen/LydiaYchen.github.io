@@ -25,7 +25,7 @@ subtitle:
   
 </style>
 
-<section class="sec-1>
+<section class="sec-1">
 # Short Bio<a name="Bio"></a> 
 
 
