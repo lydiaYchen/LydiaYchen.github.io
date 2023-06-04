@@ -6,6 +6,7 @@ subtitle:
 
 {::options parse_block_html="true" /}<a name="top"></a> 
 - [Short Bio](#Bio)
+- [Awards](#awards)
 - [Projects](#Project)
 - [Service](#service)
   - [Journal editor](#service)
