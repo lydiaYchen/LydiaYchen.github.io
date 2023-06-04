@@ -14,6 +14,7 @@ subtitle:
 <style>
     .div-1 {
        background-color: #FAFAFA; 
+   position: absolute;
   max-width:200%;
   left: 0px;
   right: 0px;
@@ -21,7 +22,7 @@ subtitle:
     }
     
     .div-2 {
-    	background-color: lightblue;
+    	background-color: rgba(0, 128, 0, 0.1);
        background-size: contain
     }
   
