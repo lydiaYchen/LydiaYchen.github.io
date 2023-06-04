@@ -15,7 +15,7 @@ subtitle:
     .sec-1 {
        background-color: #FAFAFA;
         display: block;
-     width: 600 px
+     width: 10000 px
     }
     
     .sec-2 {
