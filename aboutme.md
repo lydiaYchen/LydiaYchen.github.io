@@ -15,9 +15,6 @@ subtitle:
     .div-1 {
        background-color: #FAFAFA;
   position: absolute;
-  left: 0px;
-  right: 0px;
-  top: 0px;
     }
     
     .div-2 {
