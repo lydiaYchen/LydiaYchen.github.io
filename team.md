@@ -113,7 +113,7 @@ c.zhu-7@tudelft.nl
 <table>
 <tr>
 <td style="border: none;">
-<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="150"/>
+<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
 <pre>
 Aditya Shankar
 A.shankar-3@tudelft.nl
