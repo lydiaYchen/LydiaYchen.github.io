@@ -13,16 +13,16 @@ subtitle:
 
 <style>
     .div-1 {
-        background-color: #EBEBEB;
+        background-color: #FAFAFA;
        background-size: contain;
         with: 100%;
        margin-side: 0px;
-  min-width: 600px;
+      min-width: 600px;
     }
     
     .div-2 {
-    	background-color: #ABBAEA;
-       background-size: cover
+    	background-color: #FFFFFF;
+       background-size: contain
     }
   
 </style>
