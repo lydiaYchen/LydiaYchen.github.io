@@ -15,6 +15,7 @@ subtitle:
     .sec-1 {
        background-color: #FAFAFA;
         display: block;
+   margin: 0;
    width: 100%;
     }
     
