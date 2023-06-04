@@ -15,6 +15,7 @@ subtitle:
     .div-1 {
        background-color: #FAFAFA;
    width: 100%;
+  margin: 0pt
     }
     
     .div-2 {
