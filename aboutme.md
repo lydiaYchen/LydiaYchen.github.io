@@ -47,7 +47,7 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
 
 <section class="sec-2">
   
-<h1> Services<a name="service"></a> </h1>
+<h1>Services<a name="service"></a> </h1>
 
   
 - Associate editor, IEEE transactions on Distributed and Parallel Computing, 2018- now
@@ -57,7 +57,8 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
 - Associate editor, IEEE transactions on Network Service and Managment, 2018- 2023
   
 - Associate editor, IEEE transactions on Service Computing, 2019- 2023
-</div>
+  
+</section>
 
 <br>
 
