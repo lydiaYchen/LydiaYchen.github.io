@@ -13,7 +13,11 @@ subtitle:
 
 <style>
     .div-1 {
-       background-color: #FAFAFA;       
+       background-color: #FAFAFA; 
+   text-align: center;
+  left: 0px;
+  right: 0px;
+  top: 0px;
     }
     
     .div-2 {
