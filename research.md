@@ -9,6 +9,7 @@ subtitle: Current and past projects
   width: 100px;
   height: 100px;
   padding: 5px;
+        display: block
     }
     
     .div-2 {
@@ -17,7 +18,7 @@ subtitle: Current and past projects
         width: 100px;
   height: 100px;
   padding: 5px;
-           
+  display: block         
     }
   
 </style>
