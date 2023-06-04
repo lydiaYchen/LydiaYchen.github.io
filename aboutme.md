@@ -31,7 +31,7 @@ subtitle:
   
 <h1>Short Bio<a name="Bio"></a> </h1>
 
-Lydia Y. Chen is an  Professor in the Department of Computer Science at the University of Neuchatel in Switzerland and  Delft University of Technology in the Netherlands. Prior to joining TU Delft, she was a research staff member at the IBM Research Zurich Lab from 2007 to 2018. She holds a PhD from Pennsylvania State University and a BA from National Taiwan University. Her research interests are distributed machine learning,  dependability management,  large-scale data processing systems and services. More specifically, her work focuses on developing machine learning and stochastic models, and applying these techniques to application domains, such as data centers and AI systems. 
+Lydia Y. Chen is a Professor in the Department of Computer Science at the University of Neuchatel in Switzerland and  Delft University of Technology in the Netherlands. Prior to joining TU Delft, she was a research staff member at the IBM Research Zurich Lab from 2007 to 2018. She holds a PhD from Pennsylvania State University and a BA from National Taiwan University. Her research interests are distributed machine learning,  dependability management,  large-scale data processing systems and services. More specifically, her work focuses on developing machine learning and stochastic models, and applying these techniques to application domains, such as data centers and AI systems. 
 
  <br>
  <br>
