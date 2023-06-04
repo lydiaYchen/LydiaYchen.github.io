@@ -14,8 +14,8 @@ subtitle:
 <style>
     .sec-1 {
        background-color: #FAFAFA;
-        display: inline-block;
-   min-width: 100%;
+        display: block;
+   width: 100%;
     }
     
     .sec-2 {
@@ -44,7 +44,7 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
 
 <br>
 
-<section class="sec-1">
+<section class="sec-2">
   
 <h1> Services<a name="service"></a> </h1>
 
