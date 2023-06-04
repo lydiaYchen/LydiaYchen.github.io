@@ -14,7 +14,7 @@ subtitle:
 <style>
     .sec-1 {
        background-color: #FAFAFA;
-        display: block;
+        display: inline-block;
    min-width: 100%;
     }
     
