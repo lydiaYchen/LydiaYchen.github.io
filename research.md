@@ -6,16 +6,18 @@ subtitle: Current and past projects
 <style>
     .div-1 {
        background-color: #FAFAFA; 
-  max-width:100%;
-  left: 0px;
-  right: 0px;
-  top: 0px;
+  width: 100px;
+  height: 100px;
+  padding: 5px;
     }
     
     .div-2 {
         max-width:100%;
     	background-color: rgba(0, 128, 0, 0.1);
-       background-size: contain
+        width: 100px;
+  height: 100px;
+  padding: 5px;
+           
     }
   
 </style>
