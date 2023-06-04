@@ -13,7 +13,7 @@ subtitle: Who we are
 <td style="border: none;">
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/chen.jpg?raw=true" title="Associate Professor" width="100" height="120" alt="centered image"/>
 <pre>
-Associate Professor
+Professor
 <a href="https://lydiaychen.com/">Lydia Y. Chen</a>
 lydiaychen@ieee.org
 <!-- Lydia Y. Chen
@@ -145,7 +145,7 @@ De-Nian Yang| Academia Sinica, Taiwan
 
 **Name**|**First employment**
 :-----|:-----
-Hao Li| Assitant professor at Central South University, China
+Hao Li| Assistant professor at Central South University, China
 
 <br>
 
