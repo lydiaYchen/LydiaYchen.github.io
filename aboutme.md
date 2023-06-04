@@ -14,7 +14,7 @@ subtitle:
 <style>
     .div-1 {
         background-color: #EBEBEB;
-       background-size: cover;
+       background-size: contain;
         with: 100%;
        margin-side: 0px;
   min-width: 600px;
