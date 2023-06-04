@@ -14,8 +14,11 @@ subtitle:
 <style>
     .div-1 {
        background-color: #FAFAFA;
-   width: 100%;
-  margin: 0pt
+   width: 200%;
+  position: absolute;
+  left: 0px;
+  right: 0px;
+  top: 0px;
     }
     
     .div-2 {
