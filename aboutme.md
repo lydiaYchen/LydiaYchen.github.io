@@ -13,10 +13,15 @@ subtitle:
   - [Conference chairing](#ConfChair)
   - [Conference TPC](#TPC)
 
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
 <style>
     .div-1 {
        background-color: #FAFAFA; 
-  max-width:800px;
+  max-width:200%;
   left: 0px;
   right: 0px;
   margin: 0px;
