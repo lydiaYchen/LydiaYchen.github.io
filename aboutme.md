@@ -134,7 +134,7 @@ WWW |  The Web Conference  | 20
 IJCAI |  International Joint Conferences on Artificial Intelligence  | 20
 IPDPS |  IEEE International Parallel \& Distributed Processing Symposium  | 19, 20
 DSN |  IEEE/IFIP International Conference on Dependable Systems and Networks  |13,  17,  18,  19,  |20
-ICDCS |  IEEE International Conference on Distributed Computing Systems  |16,  17,  |18
+ICDCS |  IEEE International Conference on Distributed Computing Systems  |16,  17,  18
 Middleware |   ACM/Usenix Middleware  |15,  16,  17,  19,  20,  21,  23
 INFOCOM |  IEEE International Conference on Computer Communications  |10,  11,  19,  20
 OPODIS |  International Conference on Principles of Distributed Systems  | 18
