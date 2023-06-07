@@ -71,9 +71,12 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
 <br>
 
 
+
 <h2>Conference Chairing <a name="ConfChair"></a> </h2>
 
+
  <br>   
+ 
  
 **Year**|**Conference**
 :-----|:-----
@@ -89,7 +92,7 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
 2011,13| Program co-chair of International Workshop on Data Center Performance (DCPerf), co-located with IEEE International Conference on Distributed Computing Systems
 <br>
 
-h2>Conference Organization <a name="ConfOrg"></a> </h2>
+<h2>Conference Organization <a name="ConfOrg"></a> </h2>
 
  <br>   
  
