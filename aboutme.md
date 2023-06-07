@@ -24,9 +24,8 @@ html, body {
   max-width:200%;
 margin: 0 auto; width: 960px;    }
     
-    .div-2 {
+    .section-2 {
     	background-color: rgba(0, 128, 0, 0.1);
-       background-size: contain
     }
   
 </style>
@@ -57,8 +56,8 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
 </section>
 <br>
 
- <section>
-<div class="div-2">
+ <section id="section-2">
+
   
 <h1>Services<a name="service"></a> </h1>
   
@@ -73,7 +72,7 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
 </div>
 
 <br>
-
+<\section>
 
 ## Conference Chairing <a name="ConfChair"></a> 
 
