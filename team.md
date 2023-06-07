@@ -149,7 +149,7 @@ Hao Li| Assistant professor at Central South University, China
 
 <br>
 
-## Master Thesis Students and Interns
+## Master Thesis Students 
 
 **Name**|**Master/Intern**|**Thesis/Project**
 :-----|:-----|:-----
@@ -168,9 +168,6 @@ Aditya Kunar|Master 21| GAN-based synthetic tabular data generator
 Zhiyue Zhang|Master 21| Disparity seeding for maximizing information spread on social networks
 Bart Cox|Master 20| Efficient multiple DNNs inference on edge devices
 Shikhar Deve|Master 20| Multi-fidelity hyper-parameter tuning for machine learning algorithms
-Victor Wernet|Intern 20| Distributed generative adversarial networks
-Jeroen Galjaard|Intern 20| Scheduling algorithms for multiple DNNs inference on edges
-Hans Brouwer|Intern 20| Pipetuning hyper- and system parameters for DNN clusters
 
 <br>
 ## Bachelor Thesis Students
