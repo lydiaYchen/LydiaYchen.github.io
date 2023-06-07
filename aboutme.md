@@ -13,22 +13,7 @@ subtitle:
   - [Conference chairing](#ConfChair)
   - [Conference TPC](#TPC)
 
-html, body {
-  margin: 0;
-  padding: 0;
-  height: 100%;
-}
-<style>
-    .div-1 {
-       background-color: #FAFAFA; 
-  max-width:200%;
-margin: 0 auto; width: 960px;    }
-    
-    .section-2 {
-    	background-color: #FFFAFA;
-    }
-  
-</style>
+
 
 <section id="mysection"
          style=" background-color: #F5FCFF;
