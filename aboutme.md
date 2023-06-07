@@ -74,7 +74,8 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
 
 
 ## Conference Chairing <a name="ConfChair"></a> 
-  
+
+ <br>  
   
 **Year**|**Conference**
 :-----|:-----
@@ -96,9 +97,7 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
 
 <h2>Conference Organization <a name="ConfOrg"></a> </h2>
   
-
  <br>  
-  
   
 **Year**|**Conference & Role**
 :-----|:-----
@@ -133,7 +132,7 @@ SoCC| ACM Symposium on Cloud Computing | 20, 21, 22
 WWW |  The Web Conference  | 20
 IJCAI |  International Joint Conferences on Artificial Intelligence  | 20
 IPDPS |  IEEE International Parallel \& Distributed Processing Symposium  | 19, 20
-DSN |  IEEE/IFIP International Conference on Dependable Systems and Networks  |13,  17,  18,  19,  |20
+DSN |  IEEE/IFIP International Conference on Dependable Systems and Networks  |13,  17,  18,  19,  20
 ICDCS |  IEEE International Conference on Distributed Computing Systems  |16,  17,  18
 Middleware |   ACM/Usenix Middleware  |15,  16,  17,  19,  20,  21,  23
 INFOCOM |  IEEE International Conference on Computer Communications  |10,  11,  19,  20
