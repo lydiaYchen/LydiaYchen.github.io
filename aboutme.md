@@ -25,7 +25,7 @@ html, body {
 margin: 0 auto; width: 960px;    }
     
     .section-2 {
-    	background-color: rgba(0, 128, 0, 0.1);
+    	background-color: red;
     }
   
 </style>
