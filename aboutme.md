@@ -16,7 +16,7 @@ subtitle:
 <style>
     .div-1 {
        background-color: #FAFAFA; 
-  max-width:200%;
+  max-width:400px;
   left: 0px;
   right: 0px;
   top: 0px;
