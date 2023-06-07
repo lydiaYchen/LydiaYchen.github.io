@@ -60,7 +60,7 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
   
 <h1>Services<a name="service"></a> </h1>
 
-## Journal Editorial Board
+<h2> Journal Editorial Board</h2>
   
 <li>Associate editor, IEEE transactions on Distributed and Parallel Computing, 2018- now</li>
   
@@ -75,7 +75,7 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
 <br>
 
 
-<h1>Conference Chairing <a name="ConfChair"></a> </h1>
+<h2>Conference Chairing <a name="ConfChair"></a> </h2>
 
 **Year**|**Conference**
 :-----|:-----
@@ -94,7 +94,7 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
 
 
 
-<h1>Conference Organization <a name="ConfOrg"></a> </h1>
+<h2>Conference Organization <a name="ConfOrg"></a> </h2>
 
 **Year**|**Conference & Role**
 :-----|:-----
@@ -113,7 +113,7 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
 </figure>
 
 
-<h1> Conference TPC <a name="TPC"></a></h1>
+<h2> Conference TPC <a name="TPC"></a></h2>
 
 **Acronym**|**Conference**|**Years**
 :-----|:-----|:-----
