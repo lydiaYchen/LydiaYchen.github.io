@@ -16,10 +16,10 @@ subtitle:
 <style>
     .div-1 {
        background-color: #FAFAFA; 
-  max-width:400px;
+  max-width:800px;
   left: 0px;
   right: 0px;
-  top: 0px;
+  margin: 0px;
     }
     
     .div-2 {
