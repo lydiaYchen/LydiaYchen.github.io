@@ -72,7 +72,9 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
 
 
 <h2>Conference Chairing <a name="ConfChair"></a> </h2>
+
  <br>   
+ 
 **Year**|**Conference**
 :-----|:-----
 2022| Track co-chair of IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid)
@@ -88,7 +90,9 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
 <br>
 
 h2>Conference Organization <a name="ConfOrg"></a> </h2>
+
  <br>   
+ 
 **Year**|**Conference & Role**
 :-----|:-----
 2020| Doctoral symposium co-chair of  ACM Eurosys
@@ -106,7 +110,9 @@ h2>Conference Organization <a name="ConfOrg"></a> </h2>
 </figure>
 
 <h2> Conference TPC <a name="TPC"></a></h2>
+
  <br> 
+ 
 **Acronym**|**Conference**|**Years**
 :-----|:-----|:-----
 SIGCOM| ACM SIGCOM Conference| 23
