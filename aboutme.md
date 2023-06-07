@@ -76,8 +76,13 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
 
 
 <h2>Conference Chairing <a name="ConfChair"></a> </h2>
+  
+  
 
  <br>
+  
+  
+  
   
 **Year**|**Conference**
 :-----|:-----
@@ -92,13 +97,16 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
 2013,14|  Symposium co-chair of IEEE International Conference on Computing, Networking and Communications (ICNC), Communications QoS and System Modeling Symposium
 2011,13| Program co-chair of International Workshop on Data Center Performance (DCPerf), co-located with IEEE International Conference on Distributed Computing Systems
 
+  
 <br>
 
 
 
 <h2>Conference Organization <a name="ConfOrg"></a> </h2>
+  
 
  <br>  
+  
   
 **Year**|**Conference & Role**
 :-----|:-----
@@ -150,7 +158,7 @@ HotCloud |  USENIX Workshop on Hot Topics in Cloud Computing  |18,  19
  ICC |  IEEE International Conference on Communications  |09,  10,  11,  12,  16,  17
  ICCCN |  IEEE International Conference on Computer Communication and Networks  |12,  13,  14,  15,  17
  IPCC |  International Performance Computing and Communications Conference  |10,  11
-<figure>
+
 
 
 <figure>
