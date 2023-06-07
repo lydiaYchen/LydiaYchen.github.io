@@ -35,8 +35,8 @@ margin: 0 auto; width: 960px;    }
                 padding: 20px;
                 max-width: 200 %;
                 position: absolute;
-                top: 0;width: 100%;
-                margin: 0">
+                top: 0;
+                margin: 1">
 
   
 <h1>Short Bio<a name="Bio"></a> </h1>
