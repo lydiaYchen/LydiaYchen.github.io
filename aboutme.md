@@ -53,11 +53,9 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
  </a>
 </figure>
  
-
 </section>
 
 <section>
-  
 <h1>Services<a name="service"></a> </h1>
 
 <h2> Journal Editorial Board</h2>
