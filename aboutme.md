@@ -31,7 +31,7 @@ margin: 0 auto; width: 960px;    }
 </style>
 
 <section id="mysection"
-         style=" background-color: #FAFAFA;
+         style=" background-color: #DBF3FA;
                 padding: 20px;
                 max-width: 200 %;
                 position: relative;
@@ -68,15 +68,11 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
   
 <li>Associate editor, IEEE transactions on Service Computing, 2019- 2023</li>
   
-
-
 <br>
 
 
 <h2>Conference Chairing <a name="ConfChair"></a> </h2>
-
- <br>  
-  
+ <br>   
 **Year**|**Conference**
 :-----|:-----
 2022| Track co-chair of IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid)
@@ -89,16 +85,10 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
 2016| Program co-chair of International Workshop on Big Data and Cloud Performance, co-located with IEEE International Conference on Distributed Computing Systems 
 2013,14| Symposium co-chair of IEEE International Conference on Computing, Networking and Communications (ICNC), Communications QoS and System Modeling Symposium
 2011,13| Program co-chair of International Workshop on Data Center Performance (DCPerf), co-located with IEEE International Conference on Distributed Computing Systems
-
-  
 <br>
 
-
-
-<h2>Conference Organization <a name="ConfOrg"></a> </h2>
-  
- <br>  
-  
+h2>Conference Organization <a name="ConfOrg"></a> </h2>
+ <br>   
 **Year**|**Conference & Role**
 :-----|:-----
 2020| Doctoral symposium co-chair of  ACM Eurosys
@@ -115,13 +105,8 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
  </a>
 </figure>
 
-
-
-
 <h2> Conference TPC <a name="TPC"></a></h2>
-
  <br> 
-  
 **Acronym**|**Conference**|**Years**
 :-----|:-----|:-----
 SIGCOM| ACM SIGCOM Conference| 23
