@@ -34,7 +34,7 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
 
 <figure>
  <a href="#top">
-  <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="25">
+  <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="30">
  </a>
 </figure>
  
@@ -94,7 +94,7 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
 
 <figure>
  <a href="#top">
-  <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="25">
+  <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="30">
  </a>
 </figure>
 
@@ -136,7 +136,7 @@ ICAC |   IEEE International Conference on Autonomic Computing  |14,  15,  16,  1
 
 <figure>
  <a href="#top">
-  <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="25">
+  <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="30">
  </a>
 </figure>
   
