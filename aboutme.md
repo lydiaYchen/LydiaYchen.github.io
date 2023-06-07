@@ -31,9 +31,10 @@ margin: 0 auto; width: 960px;    }
 </style>
 
 <section id="mysection"
-         style="background: papayawhip;
+         style=" background-color: #FAFAFA;
                 padding: 20px;
                 max-width: 200 %;
+                position: relative;
                 margin: 1">
 
   
@@ -55,10 +56,11 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
 
 </section>
 
- <section id="section-2"
-           style="background: lightgreen">
+<section>
   
 <h1>Services<a name="service"></a> </h1>
+
+## Journal Editorial Board
   
 <li>Associate editor, IEEE transactions on Distributed and Parallel Computing, 2018- now</li>
   
@@ -71,7 +73,7 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
 
 
 <br>
-</section>
+
 
 ## Conference Chairing <a name="ConfChair"></a> 
 
@@ -150,3 +152,5 @@ HotCloud |  USENIX Workshop on Hot Topics in Cloud Computing  |18,  19
   <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="25">
  </a>
 </figure>
+
+ </section> 
