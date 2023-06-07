@@ -75,7 +75,7 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
 <br>
 
 
-## Conference Chairing <a name="ConfChair"></a> 
+<h1>Conference Chairing <a name="ConfChair"></a> </h1>
 
 **Year**|**Conference**
 :-----|:-----
@@ -94,7 +94,7 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
 
 
 
-## Conference Organization <a name="ConfOrg"></a> 
+<h1>Conference Organization <a name="ConfOrg"></a> </h1>
 
 **Year**|**Conference & Role**
 :-----|:-----
@@ -113,7 +113,7 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
 </figure>
 
 
-## Conference TPC <a name="TPC"></a> 
+<h1> Conference TPC <a name="TPC"></a></h1>
 
 **Acronym**|**Conference**|**Years**
 :-----|:-----|:-----
