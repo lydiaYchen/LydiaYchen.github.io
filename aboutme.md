@@ -25,7 +25,7 @@ html, body {
 margin: 0 auto; width: 960px;    }
     
     .section-2 {
-    	background-color: red;
+    	background-color: #FFFAFA;
     }
   
 </style>
@@ -69,10 +69,10 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
   
 <li>Associate editor, IEEE transactions on Service Computing, 2019- 2023</li>
   
-</div>
+
 
 <br>
-<\section>
+</section>
 
 ## Conference Chairing <a name="ConfChair"></a> 
 
