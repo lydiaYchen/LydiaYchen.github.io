@@ -31,7 +31,12 @@ margin: 0 auto; width: 960px;    }
   
 </style>
 
-<div class="div-1">
+<section id="mysection"
+         style="background: papayawhip;
+                padding: 20px;
+                width: 500px;
+                line-height: 1.7em;">
+
   
 <h1>Short Bio<a name="Bio"></a> </h1>
 
@@ -48,10 +53,11 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
  </a>
 </figure>
  
-</div>
 
+</section>
 <br>
 
+ <section>
 <div class="div-2">
   
 <h1>Services<a name="service"></a> </h1>
