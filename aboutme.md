@@ -68,11 +68,12 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
   
 <li>Associate editor, IEEE transactions on Service Computing, 2019- 2023</li>
   
-
+</section>
 
 <br>
 
 
+<section>
 <h2>Conference Chairing <a name="ConfChair"></a> </h2>
   
   
@@ -86,20 +87,20 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
 :-----|:-----
 2022| Track co-chair of IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid)
 2021| Program co-chair of IEEE/ACM International Conference on Big Data Computing, Applications and Technologies (BDCAT) 
-2019|  Program co-chair of  IEEE International Conference on Autonomic Computing (ICAC)
+2019| Program co-chair of  IEEE International Conference on Autonomic Computing (ICAC)
 2018| Workshop co-chair of Women in Big Data, Swiss National Science Foundation% initiative
 2018| ndustrial track co-chair of IFIP/IEEE Middleware
 2018| Track vice-chair of IEEE International Conference on Distributed Computing Systems (ICDCS)
 2017| Program co-chair of International Conference on Distributed Applications and Interoperable Systems (DAIS), co-located with International Federated Conference on Distributed Computing Techniques 
 2016| Program co-chair of International Workshop on Big Data and Cloud Performance, co-located with IEEE International Conference on Distributed Computing Systems 
-2013,14|  Symposium co-chair of IEEE International Conference on Computing, Networking and Communications (ICNC), Communications QoS and System Modeling Symposium
+2013,14| Symposium co-chair of IEEE International Conference on Computing, Networking and Communications (ICNC), Communications QoS and System Modeling Symposium
 2011,13| Program co-chair of International Workshop on Data Center Performance (DCPerf), co-located with IEEE International Conference on Distributed Computing Systems
-
+</section>
   
 <br>
 
 
-
+</ection>
 <h2>Conference Organization <a name="ConfOrg"></a> </h2>
   
 
@@ -112,9 +113,9 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
 2018| Workshop co-chair of ACM Eurosys
 2018| Award co-chair of IEEE/SPEC International Conference on Performance Engineering 
 2017|  Workshop co-chair of  ACM/Usenix Middleware
-2016 | Workshop chair of IEEE International Conference on Autonomic Computing
+2016| Workshop chair of IEEE International Conference on Autonomic Computing
 2015| Session chair of INFORMS Annual Meeting
-2016 | Session chair of INFORMS Annual Meeting
+2016| Session chair of INFORMS Annual Meeting
 
 <figure>
  <a href="#top">
@@ -122,7 +123,9 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
  </a>
 </figure>
 
+</section>
 
+<section>
 <h2> Conference TPC <a name="TPC"></a></h2>
 
  <br> 
@@ -131,7 +134,7 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
 :-----|:-----|:-----
 SIGCOM| ACM SIGCOM Conference| 23
 ICML| International Conference on Machine Learning| 23   
-Eurosys |  ACM Eurosys  |18, 23
+Eurosys|  ACM Eurosys  |18, 23
 SigMetrics| ACM International Conference on Measurement and Modeling of Computer Systems| 21, 22, 23
 SoCC| ACM Symposium on Cloud Computing | 20, 21, 22
 WWW |  The Web Conference  | 20
@@ -145,7 +148,7 @@ OPODIS |  International Conference on Principles of Distributed Systems  | 18
 SecDev |  IEEE Security Development Conference  |18
 SRDS |  IEEE International Symposium on Reliable Distributed Systems  |18,  21
 HotCloud |  USENIX Workshop on Hot Topics in Cloud Computing  |18,  19
- ICAC |   IEEE International Conference on Autonomic Computing  |14,  15,  16,  17
+ICAC |   IEEE International Conference on Autonomic Computing  |14,  15,  16,  17
  CCGrid |   IEEE/ACM International Symposium on Cluster, Cloud and Grid Computing  |19
  IC2E |  IEEE International Conference on Cloud Engineering  |16,  18
  MASCOTS |  IEEE International Symposium on the Modeling, Analysis, and Simulation of Computer and Telecommunication Systems  |14,  15,  16,  17,  18
