@@ -31,7 +31,7 @@ margin: 0 auto; width: 960px;    }
   
 </style>
 
-<div class="div-1">
+<div class="container-md">">
   
 <h1>Short Bio<a name="Bio"></a> </h1>
 
