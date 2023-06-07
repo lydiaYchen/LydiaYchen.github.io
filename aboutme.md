@@ -56,8 +56,8 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
 </section>
 <br>
 
- <section id="section-2">
-
+ <section id="section-2"
+           style="background: red;>
   
 <h1>Services<a name="service"></a> </h1>
   
