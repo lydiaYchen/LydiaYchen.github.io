@@ -34,7 +34,7 @@ margin: 0 auto; width: 960px;    }
 <section id="mysection"
          style="background: papayawhip;
                 padding: 20px;
-                width: 500px;
+                max-width: 200 %;
                 line-height: 1.7em;">
 
   
