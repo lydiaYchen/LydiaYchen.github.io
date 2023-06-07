@@ -127,7 +127,7 @@ A.shankar-3@tudelft.nl
 
 ## Collaborators
 
-**Name**|**First employment**
+**Name**|**Affiliation**
 :-----|:-----
 Robert Birke| Assistant professor at University of Torino, Italy
 Han Rui | Bejin Technology University, China
