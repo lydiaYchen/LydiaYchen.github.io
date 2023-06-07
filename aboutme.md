@@ -31,7 +31,7 @@ margin: 0 auto; width: 960px;    }
 </style>
 
 <section id="mysection"
-         style=" background-color: #DBF3FA;
+         style=" background-color: #F5FCFF;
                 padding: 20px;
                 max-width: 200 %;
                 position: relative;
