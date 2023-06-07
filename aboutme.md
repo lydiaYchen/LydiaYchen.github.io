@@ -55,7 +55,7 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
  
 </section>
 
-<section>
+
 <h1>Services<a name="service"></a> </h1>
 
 <h2> Journal Editorial Board</h2>
@@ -68,12 +68,12 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
   
 <li>Associate editor, IEEE transactions on Service Computing, 2019- 2023</li>
   
-</section>
+
 
 <br>
 
 
-<section>
+
 <h2>Conference Chairing <a name="ConfChair"></a> </h2>
   
   
@@ -100,7 +100,7 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
 <br>
 
 
-</ection>
+
 <h2>Conference Organization <a name="ConfOrg"></a> </h2>
   
 
@@ -123,9 +123,9 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
  </a>
 </figure>
 
-</section>
 
-<section>
+
+
 <h2> Conference TPC <a name="TPC"></a></h2>
 
  <br> 
@@ -168,4 +168,4 @@ ICAC |   IEEE International Conference on Autonomic Computing  |14,  15,  16,  1
  </a>
 </figure>
   
- </section> 
+
