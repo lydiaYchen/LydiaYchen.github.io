@@ -22,10 +22,7 @@ html, body {
     .div-1 {
        background-color: #FAFAFA; 
   max-width:200%;
-  left: 0px;
-  right: 0px;
-  margin: 0px;
-    }
+margin: 0 auto; width: 960px;    }
     
     .div-2 {
     	background-color: rgba(0, 128, 0, 0.1);
