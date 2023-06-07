@@ -73,14 +73,7 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
 <br>
 
 
-
-<h2>Conference Chairing <a name="ConfChair"></a> </h2>
-  
-  
-
- <br>
-  
-  
+## Conference Chairing <a name="ConfChair"></a> 
   
   
 **Year**|**Conference**
