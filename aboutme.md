@@ -16,7 +16,7 @@ subtitle:
 
 
 <section id="mysection"
-         style=" background-color: #F5FCFF;
+         style=" background-color: F9FCF7;
                 padding: 20px;
                 max-width: 200 %;
                 position: relative;
