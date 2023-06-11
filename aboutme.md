@@ -104,7 +104,7 @@ She has published more than 100 papers in peer-reviewed journals, including IEEE
  
 **Acronym**|**Conference**|**Years**
 :-----|:-----|:-----
-SIGCOM| ACM SIGCOM Conference| 23
+SIGCOMM| ACM SIGCOMM Conference| 23
 ICML| International Conference on Machine Learning| 23   
 Eurosys|  ACM Eurosys  |18, 23
 SigMetrics| ACM International Conference on Measurement and Modeling of Computer Systems| 21, 22, 23
