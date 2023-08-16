@@ -9,7 +9,7 @@ subtitle: Who we are
 <table>
 <tr>
 <td style="border: none;">
-<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/chen.jpg?raw=true" title="Associate Professor" width="100" height="120" alt="centered image"/>
+<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/chen.jpg?raw=true" title="Associate Professor" width="110" height="140" alt="centered image"/>
 <pre>
 Professor
 <a href="https://lydiaychen.com/">Lydia Y. Chen</a>
