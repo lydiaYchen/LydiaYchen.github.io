@@ -4,9 +4,7 @@ title: About us
 subtitle: Who we are
 ---
 
-## Lead
-
-
+## Chair
 
 <table>
 <tr>
@@ -16,32 +14,8 @@ subtitle: Who we are
 Professor
 <a href="https://lydiaychen.com/">Lydia Y. Chen</a>
 lydiaychen@ieee.org
-<!-- Lydia Y. Chen
-<a href="https://lydiaychen.com/">Personal Website</a> -->
-</pre>
-</td>
 </tr>
 </table>
-<!-- <table>
-<tr>
-<td style="border: none;">
-<img src="https://github.com/Team-TUD/DIS/blob/master/images/zhao.jpg?raw=true" title="phd" width="100" height="120" />  
-<div class="container">
-<a href="https://www.linkedin.com/in/zilong-zhao/">Zilong ZHAO</a>
-<p style="text-align:right;"> zilong.zhao@gipsa-lab.fr </p>
-</div>
-</td>
-</tr>
-</table> -->
-
-<!-- <table style="border-collapse: collapse; border: none;"> -->
-<!-- <table>
-<tr>
- <img src="https://github.com/Team-TUD/DIS/blob/master/images/chen.jpg?raw=true" title="phd" width="100" height="120"/>  <div class="container">
-	<a href="https://lydiaychen.com/">Lydia Y. Chen</a>
-	<p>Associate Professor</p>
-  <p>Y.Chen-10@tudelft.nl</p>  </tr> </table> -->
-
 
 
 
@@ -58,7 +32,7 @@ lydiaychen@ieee.org
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/hongchi.jpg?raw=true" title="phd" width="100" height="120"/>
 <pre>
 <a href="mailto:c.hong@tudelft.nl">
-Chi Hong 
+Chi Hong </a>
 </pre>
 </td>
 </tr>
@@ -70,7 +44,7 @@ Chi Hong
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/jiyue.jpg?raw=true" title="phd" width="100" height="120"/>
 <pre>
 <a href="mailto:J.Huang-4@tudelft.nl">
-Jiyue Huang
+Jiyue Huang</a>
 (With S. Roos)
 </pre>
 </td>
@@ -79,7 +53,7 @@ Jiyue Huang
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
 <pre>
 <a href="mailto:b.a.cox@tudelft.nl">
-Bart Cox
+Bart Cox</a>
 (With J. Decouchant)
 </pre>
 </td>
@@ -92,14 +66,14 @@ Bart Cox
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
 <pre>
 <a href="mailto:J.M.Galjaard-1@tudelft.nl">
-Jeroen Galjaard
+Jeroen Galjaard</a>
 </pre>
 </td>
 <td style="border: none;">
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
 <pre>
 <a href="mailto:c.zhu-7@tudelft.nl">
-Chaoyi Zhu
+Chaoyi Zhu</a>
 </pre>
 </td>
 </tr>
@@ -111,7 +85,7 @@ Chaoyi Zhu
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
 <pre>
 <a href="A.shankar-3@tudelft.nl">
-Aditya Shankar
+Aditya Shankar</a>
 (With R. He)
 </pre>
 </td>
@@ -119,7 +93,7 @@ Aditya Shankar
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
 <pre>
 <a href="A.M.Malan@student.tudelft.nl">
-Abel Malan
+Abel Malan</a>
 </pre>
 </td>
 </tr>
