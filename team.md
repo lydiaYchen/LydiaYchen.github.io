@@ -14,6 +14,8 @@ subtitle: Who we are
 Professor
 <a href="https://lydiaychen.com/">Lydia Y. Chen</a>
 lydiaychen@ieee.org
+</pre>
+</td>
 </tr>
 </table>
 
@@ -146,11 +148,12 @@ Hao Li| Assistant professor at Central South University, China
 
 **Name**|**Master/Intern**|**Thesis/Project**
 :-----|:-----|:-----
-Abel Mălan| Master 23 | Vertical FL for Bayesian learning
+Aditya Shankar|Master 23| Vertical federated learning for time series 
+Chaoyi Zhu|Master 23| LeadFL: Client side defense for backdoor attacks in federated learning
+Abel Mălan| Master 23 | Confidential federated Bayesian inference
+Jiamin Xu| Master 23 | Federated latent diffusion learning for tabular synthesis
 Mohamed Rashad | Master 23 | Vertical federated learning for classifier
 Miruna Betianu|Master 23| Domain adapation using pre-trained models
-Aditya Shankar|Master 23| Vertical federated learning for time series 
-Chaoyi Zhu|Master 23| Transferrability of adversarial examples
 Yijun Zhu|Master 22| Permutation invariant tabular data synthesizer
 Jeroen Galjaard|Master 22| Noisy fewshots learrning 
 Erwin van Thiel|Master 22| Adversarial example for multi-label problems
