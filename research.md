@@ -14,7 +14,7 @@ Our research themes span in the following areas.
 - [Resourcement managment for deep neural networks systems](#resource)
 
 
-# Robust, and Private Learning<a name="Generative"></a>
+# Generative Models<a name="Generative"></a>
 
 We are exploring a wide range of generative models for synthesizing tabular data, ranging from Generative Adversarial Networks (GANs), latent difussion, flow models, and large language models.
 
