@@ -51,8 +51,7 @@ lydiaychen@ieee.org
 <td style="border: none;">
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/ghiassi.jpg?raw=true" title="phd" width="100" height="120"/>
 <pre>
-<a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/people/masoud-ghiassi/">Masoud Ghiassi</a>
-S.Ghiassi@tudelft.nl
+<a href="mailto:S.Ghiassi@tudelft.nl">Masoud Ghiassi</a>
 </pre>
 </td>
 
@@ -61,8 +60,9 @@ S.Ghiassi@tudelft.nl
 <td style="border: none;">
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/hongchi.jpg?raw=true" title="phd" width="100" height="120"/>
 <pre>
+<a href="mailto:c.hong@tudelft.nl">
 Chi Hong
-C.Hong@tudelft.nl  
+  
 </pre>
 </td>
 </tr>
@@ -73,9 +73,9 @@ C.Hong@tudelft.nl
 <td style="border: none;">
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/jiyue.jpg?raw=true" title="phd" width="100" height="120"/>
 <pre>
+<a href="mailto:J.Huang-4@tudelft.nl">
 Jiyue Huang
-J.Huang-4@tudelft.nl
-(With Stefanie Roos)
+(With S. Roos)
 </pre>
 </td>
 
@@ -85,9 +85,9 @@ J.Huang-4@tudelft.nl
 <td style="border: none;">
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
 <pre>
+<a href="mailto:b.a.cox@tudelft.nl">
 Bart Cox
-b.a.cox@tudelft.nl
-(With Jeremie Decouchant)
+(With J. Decouchant)
 </pre>
 </td>
 </tr>
@@ -98,16 +98,17 @@ b.a.cox@tudelft.nl
 <td style="border: none;">
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
 <pre>
+<a href="mailto:J.M.Galjaard-1@tudelft.nl">
 Jeroen Galjaard
-J.M.Galjaard-1@tudelft.nl
 </pre>
 </td>
 
 <td style="border: none;">
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
 <pre>
+<a href="mailto:c.zhu-7@tudelft.nl">
 Chaoyi Zhu
-c.zhu-7@tudelft.nl
+
 </pre>
 </td>
 </tr>
@@ -118,17 +119,18 @@ c.zhu-7@tudelft.nl
 <td style="border: none;">
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
 <pre>
+<a href="A.shankar-3@tudelft.nl">
 Aditya Shankar
-A.shankar-3@tudelft.nl
-(With Rihan He)
+(With R. He)
 </pre>
 </td>
 
 <td style="border: none;">
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
 <pre>
+<a href="A.M.Malan@student.tudelft.nl">
 Abel Malan
-A.M.Malan@student.tudelft.nl
+
 </pre>
 </td>
 </tr>
@@ -153,6 +155,7 @@ A.M.Malan@student.tudelft.nl
 
 **Name**|**Affiliation**
 :-----|:-----
+Stefanie Roos| Professor at University of Kaiserslautern
 Robert Birke| Assistant professor at University of Torino, Italy
 Han Rui | Bejin Technology University, China
 Marten Van Dijk| CWI, the Netherlands
@@ -169,6 +172,7 @@ De-Nian Yang| Academia Sinica, Taiwan
 
 **Name**|**First employment**
 :-----|:-----
+Zilong Zhao| Postdoc, TUM Germany
 Hao Li| Assistant professor at Central South University, China
 
 <br>
@@ -183,7 +187,7 @@ Miruna Betianu|Master 23| Domain adapation using pre-trained models
 Aditya Shankar|Master 23| Vertical federated learning for time series 
 Chaoyi Zhu|Master 23| Transferrability of adversarial examples
 Yijun Zhu|Master 22| Permutation invariant tabular data synthesizer
-Jeroen Galjaard|Master 22| Meta learrning 
+Jeroen Galjaard|Master 22| Noisy fewshots learrning 
 Erwin van Thiel|Master 22| Adversarial example for multi-label problems
 Hans Brouwer|Master 22| Self-supervised Audio-Reactive Music Video Synthesiss
 Jin Xu|Master 22| AGIC: Approximate Gradient Inversion Attack on Federated Learning
