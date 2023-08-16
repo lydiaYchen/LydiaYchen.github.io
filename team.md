@@ -54,15 +54,11 @@ lydiaychen@ieee.org
 <a href="mailto:S.Ghiassi@tudelft.nl">Masoud Ghiassi</a>
 </pre>
 </td>
-
-
-
 <td style="border: none;">
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/hongchi.jpg?raw=true" title="phd" width="100" height="120"/>
 <pre>
 <a href="mailto:c.hong@tudelft.nl">
-Chi Hong
-  
+Chi Hong 
 </pre>
 </td>
 </tr>
@@ -78,9 +74,6 @@ Jiyue Huang
 (With S. Roos)
 </pre>
 </td>
-
-
-
 
 <td style="border: none;">
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
@@ -102,13 +95,11 @@ Bart Cox
 Jeroen Galjaard
 </pre>
 </td>
-
 <td style="border: none;">
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
 <pre>
 <a href="mailto:c.zhu-7@tudelft.nl">
 Chaoyi Zhu
-
 </pre>
 </td>
 </tr>
@@ -124,13 +115,11 @@ Aditya Shankar
 (With R. He)
 </pre>
 </td>
-
 <td style="border: none;">
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
 <pre>
 <a href="A.M.Malan@student.tudelft.nl">
 Abel Malan
-
 </pre>
 </td>
 </tr>
