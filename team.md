@@ -65,8 +65,11 @@ Chi Hong
 C.Hong@tudelft.nl  
 </pre>
 </td>
+</tr>
+</table>
 
-
+<table>
+<tr>
 <td style="border: none;">
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/jiyue.jpg?raw=true" title="phd" width="100" height="120"/>
 <pre>
@@ -75,14 +78,10 @@ J.Huang-4@tudelft.nl
 (With Stefanie Roos)
 </pre>
 </td>
-</tr>
-</table>
 
 
 
 
-<table>
-<tr>
 <td style="border: none;">
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
 <pre>
@@ -91,7 +90,11 @@ b.a.cox@tudelft.nl
 (With Jeremie Decouchant)
 </pre>
 </td>
+</tr>
+</table>
 
+<table>
+<tr>
 <td style="border: none;">
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
 <pre>
@@ -107,8 +110,8 @@ Chaoyi Zhu
 c.zhu-7@tudelft.nl
 </pre>
 </td>
-</tr></table>
-
+</tr>
+</table>
 
 <table>
 <tr>
@@ -120,7 +123,28 @@ A.shankar-3@tudelft.nl
 (With Rihan He)
 </pre>
 </td>
-</tr></table>
+
+<td style="border: none;">
+<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
+<pre>
+Abel Malan
+A.M.Malan@student.tudelft.nl
+</pre>
+</td>
+</tr>
+</table>
+
+## Researcher
+<table>
+<tr>
+<td style="border: none;">
+<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
+<pre>
+<a href="">Hans Brouwer
+</pre>
+</td>
+</tr>
+</table>
 
 
 <br>
@@ -161,7 +185,7 @@ Chaoyi Zhu|Master 23| Transferrability of adversarial examples
 Yijun Zhu|Master 22| Permutation invariant tabular data synthesizer
 Jeroen Galjaard|Master 22| Meta learrning 
 Erwin van Thiel|Master 22| Adversarial example for multi-label problems
-Hasn Brouwer|Master 22| Self-supervised Audio-Reactive Music Video Synthesiss
+Hans Brouwer|Master 22| Self-supervised Audio-Reactive Music Video Synthesiss
 Jin Xu|Master 22| AGIC: Approximate Gradient Inversion Attack on Federated Learning
 Izaak Cornelis|Master 21| Federated learrning on non-IID data
 Aditya Kunar|Master 21| GAN-based synthetic tabular data generator
