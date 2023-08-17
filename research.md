@@ -8,7 +8,7 @@ title: Research
 
 Our research themes span in the following areas. 
 
-- [Generative Models](#Generative)
+- [Generative models](#Generative)
 - [Robust, and private learning](#RPFlearning)
 - [Edge federated learning](#eLInf)
 - [Resourcement managment for deep neural networks systems](#resource)
@@ -16,7 +16,9 @@ Our research themes span in the following areas.
 
 # Generative Models<a name="Generative"></a>
 
-We are exploring a wide range of generative models for synthesizing tabular data, ranging from Generative Adversarial Networks (GANs), latent difussion, flow models, and large language models.
+We are exploring a wide range of generative models for synthesizing tabular data, ranging from Generative Adversarial Networks (GANs), latent difussion, flow models, and large language models. 
+
+We are actively collaborating with various industrial partners to explore synthetic data as a privacy-preserving data sharing solution, such as major European energy companies, and finacial companies. 
 
 # Robust, and Private Learning<a name="RPFlearning"></a> 
 
@@ -24,7 +26,7 @@ Artificial intelligence (AI) and machine learning (ML) are ubiquitous in our dai
 
 In this line of research, we are designing robust, privacy-preserving and fair learning algorithms. Topics include:
 - [Robust and Adversarial Machine Learning](#Robust): designing learning algorithms that are robust to dirty data inputs.
-- [Adversarial Attacks] (#Attack): designing adversarial attacks and defense mechanisms for deployed deep models.
+- [Adversarial Attacks](#Attack): designing adversarial attacks and defense mechanisms for deployed deep models.
 - [Fair Information Maximization on Social Media](#FairIM) designing learning algorithms that can be debiased, for example in terms of gender or race, via data selection and objective modification of learning algorithms.
 - Differential private (deep) learning: designing effective differential private ML models with precise accuracy accounting.
 
@@ -39,8 +41,8 @@ Data is constantly generated and collected by edge devices (of the network) to p
 
 In this line of research, we are designing learning algorithms and prototyping system solutions for ML training and inference on distributed edge devices. Topics include:
 
-- [Confidential Vertical Learning for Manufacturer]: collaborating with the world leading material manufacturers to design confidential vertical fedearated learning on variety of machine learning models
-- [ Attacks and Defenses in Federated Learning]: designing data free model poinsoning attacks, gradient inversion attacks, and freerider attacks for various federated learning systems
+- [Confidential Vertical Learning for Manufacturer](#manu): collaborating with the world leading material manufacturers to design confidential vertical fedearated learning on variety of machine learning models
+- [Attacks and Defenses in Federated Learning](#attacks): designing data free model poinsoning attacks, gradient inversion attacks, and freerider attacks for various federated learning systems
 - [Horizontal Federated Learning Systems](#Federated): designing efficient communication protocols and incentive mechanisms for edge learners.
 - [Deep Model Inferences on Edge Devices](#EdgeInf): designing and prototyping an inference engine that can search for optimal models and configurations for edge devices at scale.
 
@@ -56,11 +58,17 @@ In this line of research, we are designing learning algorithms and prototyping s
 
 
 # System and Data Management for Deep Learning <a name="resource"></a> 
-There is a surging number of deep training/inference jobs, e.g., convolutionary networks to classify images, and the Bert language model to classify text running on cloud datacenters. Such learning jobs form a unique class of workloads that have a large number of tuning parameters and repetitive computation routines in iterations, and they rely on the acceleration of specialized computing units such as GPU. The resulting computational time and energy computation can be daunting. This raises questions about how to design resource management policies for such clusters such that running deep network training/inference jobs is truly accessible, sustainable, and affordable for the public. 
+There is a surging number of deep training/inference jobs, e.g., convolutionary networks to classify images, and the large language models to generate text, running on cloud datacenters and edge devices. Their dounting computation overhead raises questions about how to design resource management policies for such clusters such that running deep network training/inference jobs is truly accessible, sustainable, and affordable for the public. 
 
-In this line of research, we are seeking novel resource management solutions for such deep neural network clusters ranging from building a systematic understanding of workloads to developing specific scheduling policies to minimize their resource dependency without sacrificing metrics of interest, such as accuracy, at the job level. Topics include:
+ 
+
+
+In this line of research, we are seeking novel model training and resource management solutions for such deep neural network systems, paritularly at the edge device.
+
+Topics include:
+-  Lego DNN: dynamically scale the network sizes and hyperparameters in response to the changes of learning tasks and domain shifts.
+
 -	[Hyperparameter and system tuning](#Tune): jointly tuning network hyperparameters, mini-batch sizes, and system parameters such as parallel threads.
-- [Tucker Tensor Decomposition](#Tucker): learning the lower-rank representation of data inputs to accelereate the computation efficiency.
 -	SlimML: exploring different data subsampling strategies to search for an optimal tradeoff between learning accuracy and resource efficiency.
 
 <figure>
@@ -68,6 +76,7 @@ In this line of research, we are seeking novel resource management solutions for
   <img src="../images/up.png" alt="top" style="float: right;" width="30" height="22">
  </a>
 </figure>
+
 
 
 
@@ -84,6 +93,7 @@ We are working on noise resilient learning frameworks, leveraging adversarial ex
   <img src="../images/up.png" alt="top" style="float: right;" width="30" height="22">
  </a>
 </figure>
+
 
 <br>
 
@@ -102,6 +112,7 @@ We are working on accelerating processing strategies that only execute critical 
  </a>
 </figure>
 
+
 <br>
 
 ## Deep Model Inferences on Edge Devices<a name="EdgeInf"></a> 
@@ -117,6 +128,7 @@ We are working on various scheduling and model selection algorithms to adaptivel
   <img src="../images/up.png" alt="top" style="float: right;" width="30" height="22">
  </a>
 </figure>
+
 
 <br>
 
@@ -134,6 +146,7 @@ We are working on various synthetic generation methods for table and image data,
  </a>
 </figure>
 
+
 <br>
 
 
@@ -147,23 +160,18 @@ We are designing incentive mechanisms and defense strategies against backdoor at
 
 <figure>
  <a href="#top">
-  <img src="../images/up.png" alt="top" style="float: right;" width="30" height="22">
+  <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="30">
  </a>
 </figure>
 
 <br>
 
-## Sparse Tucker Decomposition <a name="Tucker"></a> 
------
-**Research questions**: Sparse Tucker decomposition (sTD) is widely used in low-rank representation learning for sparse big data analysis. Due to the entanglement problem  of  core  tensor  and  factor  matrices,  the  computational process  for  STD  faces  the challenge of   intermediate  variables  explosion. How to design an efficient optimization algorithm for STD without degrading approximation accuracy?
 
-{: .box-note}
-We are working on various optimization techniques to accelerate the sparse matrix factorization, particularly for tucker tensor decomposition.
 
 
 <figure>
  <a href="#top">
-  <img src="../images/up.png" alt="top" style="float: right;" width="30" height="22">
+  <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="30">
  </a>
 </figure>
 
@@ -179,10 +187,18 @@ We are trying to answer how gender differences and similarities can impact the i
 
 <figure>
  <a href="#top">
-  <img src="../images/up.png" alt="top" style="float: right;" width="30" height="22">
+  <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="30">
  </a>
 </figure>
 
 <br>
 
+
+<!--(## Sparse Tucker Decomposition <a name="Tucker"></a> 
+-----
+**Research questions**: Sparse Tucker decomposition (sTD) is widely used in low-rank representation learning for sparse big data analysis. Due to the entanglement problem  of  core  tensor  and  factor  matrices,  the  computational process  for  STD  faces  the challenge of   intermediate  variables  explosion. How to design an efficient optimization algorithm for STD without degrading approximation accuracy?
+
+{: .box-note}
+We are working on various optimization techniques to accelerate the sparse matrix factorization, particularly for tucker tensor decomposition.)
+-->
 
