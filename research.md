@@ -16,9 +16,10 @@ Our research themes span in the following areas.
 
 # Generative Models<a name="Generative"></a>
 
-We are exploring a wide range of generative models for synthesizing tabular data, ranging from Generative Adversarial Networks (GANs), latent difussion, flow models, and large language models. 
+While big data is powering up the deep learning models, it is costly and inevitably intrudes privacy to curate such data. Synthetically generated data not only alleviates the cost of collecting data but also overcome the privacy concerns and legislation boundary. How to generate synthetic data that fulfilll the requirements of data similarity, analysis utility, privacy and generalization?
 
-We are actively collaborating with various industrial partners to explore synthetic data as a privacy-preserving data sharing solution, such as major European energy companies, and finacial companies. 
+We are exploring a wide range of generative models for synthesizing tabular data, ranging from Generative Adversarial Networks (GANs), latent difussion, flow models, and large language models. 
+We are also actively collaborating with various industrial partners to explore synthetic data as a privacy-preserving data sharing solution, such as major European energy companies, and finacial companies. 
 
 # Robust, and Private Learning<a name="RPFlearning"></a> 
 
@@ -27,9 +28,9 @@ Artificial intelligence (AI) and machine learning (ML) are ubiquitous in our dai
 In this line of research, we are designing robust, privacy-preserving and fair learning algorithms. Topics include:
 - [Robust and Adversarial Machine Learning](#Robust): designing learning algorithms that are robust to dirty data inputs.
 - [Adversarial Attacks](#Attack): designing adversarial attacks and defense mechanisms for deployed deep models.
-- [Fair Information Maximization on Social Media](#FairIM) designing learning algorithms that can be debiased, for example in terms of gender or race, via data selection and objective modification of learning algorithms.
 - Differential private (deep) learning: designing effective differential private ML models with precise accuracy accounting.
 
+- [Fair Information Maximization on Social Media](#FairIM) designing learning algorithms that can be debiased, for example in terms of gender or race, via data selection and objective modification of learning algorithms.
 <figure>
  <a href="#top">
   <img src="../images/up.png" alt="top" style="float: right;" width="30" height="22">
@@ -132,6 +133,7 @@ We are working on various scheduling and model selection algorithms to adaptivel
 
 <br>
 
+<!--
 ## Synthetic Data Generator<a name="GAN"></a> 
 -----
 **Research questions**: While big data is powering up the deep learning models, it is costly and inevitably intrudes privacy to curate such data. Synthetically generated data not only alleviates the cost of collecting data but also overcome the privacy concerns and legislation boundary. How to generate synthetic data that fulfilll the requirements of data similarity, analysis utility, privacy and generalization?
@@ -146,7 +148,7 @@ We are working on various synthetic generation methods for table and image data,
  </a>
 </figure>
 
-
+-->
 <br>
 
 
