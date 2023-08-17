@@ -29,11 +29,12 @@ In this line of research, we are designing robust, privacy-preserving and fair l
 - [Robust and Adversarial Machine Learning](#Robust): designing learning algorithms that are robust to dirty data inputs.
 - [Adversarial Attacks](#Attack): designing adversarial attacks and defense mechanisms for deployed deep models.
 - Differential private (deep) learning: designing effective differential private ML models with precise accuracy accounting.
-
+<!--
 - [Fair Information Maximization on Social Media](#FairIM) designing learning algorithms that can be debiased, for example in terms of gender or race, via data selection and objective modification of learning algorithms.
+  -->
 <figure>
  <a href="#top">
-  <img src="../images/up.png" alt="top" style="float: right;" width="30" height="22">
+  <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="30">
  </a>
 </figure>
 
@@ -42,42 +43,33 @@ Data is constantly generated and collected by edge devices (of the network) to p
 
 In this line of research, we are designing learning algorithms and prototyping system solutions for ML training and inference on distributed edge devices. Topics include:
 
-- [Confidential Vertical Learning for Manufacturer](#manu): collaborating with the world leading material manufacturers to design confidential vertical fedearated learning on variety of machine learning models
+- [Confidential Vertical Learning for Manufacturer](#Federated): collaborating with the world leading material manufacturers to design confidential vertical fedearated learning on variety of machine learning models
 - [Attacks and Defenses in Federated Learning](#attacks): designing data free model poinsoning attacks, gradient inversion attacks, and freerider attacks for various federated learning systems
-- [Horizontal Federated Learning Systems](#Federated): designing efficient communication protocols and incentive mechanisms for edge learners.
 - [Deep Model Inferences on Edge Devices](#EdgeInf): designing and prototyping an inference engine that can search for optimal models and configurations for edge devices at scale.
-
 
 <figure>
  <a href="#top">
-  <img src="../images/up.png" alt="top" style="float: right;" width="30" height="22">
+  <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="30">
  </a>
 </figure>
 
 
-
-
-
 # System and Data Management for Deep Learning <a name="resource"></a> 
 There is a surging number of deep training/inference jobs, e.g., convolutionary networks to classify images, and the large language models to generate text, running on cloud datacenters and edge devices. Their dounting computation overhead raises questions about how to design resource management policies for such clusters such that running deep network training/inference jobs is truly accessible, sustainable, and affordable for the public. 
-
- 
 
 
 In this line of research, we are seeking novel model training and resource management solutions for such deep neural network systems, paritularly at the edge device.
 
 Topics include:
 -  Lego DNN: dynamically scale the network sizes and hyperparameters in response to the changes of learning tasks and domain shifts.
-
 -	[Hyperparameter and system tuning](#Tune): jointly tuning network hyperparameters, mini-batch sizes, and system parameters such as parallel threads.
 -	SlimML: exploring different data subsampling strategies to search for an optimal tradeoff between learning accuracy and resource efficiency.
 
 <figure>
  <a href="#top">
-  <img src="../images/up.png" alt="top" style="float: right;" width="30" height="22">
+  <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="30">
  </a>
 </figure>
-
 
 
 
@@ -88,13 +80,11 @@ Topics include:
 {: .box-note}
 We are working on noise resilient learning frameworks, leveraging adversarial examples, expert judgement, and robust loss functions.
 
-
 <figure>
  <a href="#top">
-  <img src="../images/up.png" alt="top" style="float: right;" width="30" height="22">
+  <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="30">
  </a>
 </figure>
-
 
 <br>
 
@@ -109,7 +99,7 @@ We are working on accelerating processing strategies that only execute critical 
 
 <figure>
  <a href="#top">
-  <img src="../images/up.png" alt="top" style="float: right;" width="30" height="22">
+  <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="30">
  </a>
 </figure>
 
@@ -126,7 +116,7 @@ We are working on various scheduling and model selection algorithms to adaptivel
 
 <figure>
  <a href="#top">
-  <img src="../images/up.png" alt="top" style="float: right;" width="30" height="22">
+  <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="30">
  </a>
 </figure>
 
@@ -168,14 +158,6 @@ We are designing incentive mechanisms and defense strategies against backdoor at
 
 <br>
 
-
-
-
-<figure>
- <a href="#top">
-  <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="30">
- </a>
-</figure>
 
 <br>
 
