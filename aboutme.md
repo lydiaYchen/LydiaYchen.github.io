@@ -1,8 +1,10 @@
 ---
 layout: page
+cover-img: assets/img/Banner.jpg
 title: About me
-subtitle: 
+subtitle: Distributed Machine Learning Lab
 ---
+
 
 {::options parse_block_html="true" /}<a name="top"></a> 
 - [Short Bio](#Bio)
