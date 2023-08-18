@@ -1,3 +1,8 @@
+---
+layout: page
+title: News Arxiv
+subtitle: 
+---
 
  <h2>News Arxiv</h2>
 
