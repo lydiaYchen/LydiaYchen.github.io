@@ -2,7 +2,6 @@
 layout: page
 cover-img: assets/img/Banner.jpg
 title: About me
-subtitle: Distributed Machine Learning Lab
 ---
 
 
