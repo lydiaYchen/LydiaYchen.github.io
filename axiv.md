@@ -14,7 +14,7 @@ subtitle:
 <li>[06/22] Our paper, <a href="https://arxiv.org/pdf/2204.13784.pdf">  “AGIC: Approximate Gradient Inversion Attack on Federated Learning" </a>, is accpted in <a href="//"> SRDS22</a></li>
 <li>[06/22] Our paper, <a href="">  “Performance Modeling for Short-Term Cache Allocation" </a>, is accepted at ACM ICPP 2022</a></li>
 
-<li>[04/22] Lydia will serve TPC <a href="https://fcrlab.unime.it/ccgrid22/">SoCC 22</a>. 
+<li>[04/22] Lydia will serve TPC <a href="https://fcrlab.unime.it/ccgrid22/">SoCC 22</a> </li>
 <li>[04/22] Our paper, <a href="https://arxiv.org/abs/2112.09852">  “LegoDN" </a> , is awareded with Runner-up Community Award at MobiCom</a></li>
 <li>[03/22] Our paper, <a href="https://dl.acm.org/doi/10.1145/3528535.3533273">  “EdggeTune:Inference-Aware Multi-Parameter Tuning" </a> , is accepted at ACM Middlewareware22</a></li>
 <li>[12/21] Our paper, <a href="https://ieeexplore.ieee.org/document/9665270">  “Lightweight and Accurate DNN-based Anomaly Detection at Edge" </a> , is accpted in IEEE Transactions on Parallel and Distribution Computing</a></li>
