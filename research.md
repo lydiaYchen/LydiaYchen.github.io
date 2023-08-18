@@ -10,8 +10,8 @@ Our research themes span in the following areas.
 
 - [Generative models](#Generative)
 - [Robust, and private learning](#RPFlearning)
-- [Edge federated learning](#eLInf)
-<-!- [Resourcement managment for deep neural networks systems](#resource)-->
+- [Federated learning systems](#eLInf)
+<!--- [Resourcement managment for deep neural networks systems](#resource)-->
 
 
 
@@ -27,8 +27,8 @@ We are also actively collaborating with various industrial partners to explore s
 Artificial intelligence (AI) and machine learning (ML) are ubiquitous in our daily lives in the form of search engines, machine translation, self-driving cars and much more. The prevailing assumptions of existing ML algorithms are that data is neutral and can be freely accessed (without breaching privacy). As a result, the existing algorithms fall short of addressing challenges in realistic scenarios, i.e., against adversarial examples, dirty data, and unreliable execution environments while still preserving data privacy. These issues are further exacerbated by large and distributed learning problems, the data for which is collected over multiple sources and must be computed on distributed nodes.
 
 In this line of research, we are designing robust, privacy-preserving and fair learning algorithms. Topics include:
-- [Robust and Adversarial Machine Learning](#Robust): designing learning algorithms that are robust to dirty data inputs.
-- [Adversarial Attacks](#Attack): designing adversarial attacks and defense mechanisms for deployed deep models.
+- [Robust Machine Learning](#Robust): designing learning algorithms that are robust to dirty data inputs.
+- [Adversarial Attacks and Defenses](#Attack): designing adversarial attacks and defense mechanisms for deployed deep models.
 - Differential private (deep) learning: designing effective differential private ML models with precise accuracy accounting.
 <!--
 - [Fair Information Maximization on Social Media](#FairIM) designing learning algorithms that can be debiased, for example in terms of gender or race, via data selection and objective modification of learning algorithms.
@@ -46,6 +46,7 @@ In this line of research, we are designing learning algorithms and prototyping s
 
 - [Confidential Vertical Learning for Manufacturer](#Federated): collaborating with the world leading material manufacturers to design confidential vertical fedearated learning on variety of machine learning models
 - [Attacks and Defenses in Federated Learning](#attacks): designing data free model poinsoning attacks, gradient inversion attacks, and freerider attacks for various federated learning systems
+- [Continue Fedearated Learning and Domain Adaptation](#CLDA): designing federated learning systems that tackle two foundemntal challenges in real life: data continitously evovles through different domains and learning tasks also change over time. 
 - [Deep Model Inferences on Edge Devices](#EdgeInf): designing and prototyping an inference engine that can search for optimal models and configurations for edge devices at scale.
 
 <figure>
@@ -55,7 +56,7 @@ In this line of research, we are designing learning algorithms and prototyping s
 </figure>
 
 
-# System and Data Management for Deep Learning <a name="resource"></a> 
+<!--# System and Data Management for Deep Learning <a name="resource"></a> 
 There is a surging number of deep training/inference jobs, e.g., convolutionary networks to classify images, and the large language models to generate text, running on cloud datacenters and edge devices. Their dounting computation overhead raises questions about how to design resource management policies for such clusters such that running deep network training/inference jobs is truly accessible, sustainable, and affordable for the public. 
 
 
@@ -71,7 +72,7 @@ Topics include:
   <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="30">
  </a>
 </figure>
-
+-->
 
 
 ## Robust and Adversarial Machine Learning<a name="Robust"></a> 
@@ -90,39 +91,12 @@ We are working on noise resilient learning frameworks, leveraging adversarial ex
 <br>
 
 
-## Optimization for Machine Learning Services and Clusters<a name="Tune"></a> 
------
-**Research questions**: Training deep models consumes tremendous computing time and resources; however tuning the hyperparameter of deep models is even multiple fold higher. Can one design efficient and accurate tuning framework for deep neural networks such that the optimal parameters can be found at minimum computational resources?
 
-{: .box-note}
-We are working on accelerating processing strategies that only execute critical data and leverage the workload similarities when tuning hyperparameters and training a wide range of ML models.  
-
-
-<figure>
- <a href="#top">
-  <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="30">
- </a>
-</figure>
 
 
 <br>
 
-## Deep Model Inferences on Edge Devices<a name="EdgeInf"></a> 
-----
-**Research questions**: How to choose suitable trained models from the plethoral of existing ones and deploy at the edge devices? How to optimize the performance of deep models on the edge devices? Can today's edge devices efficiently execute multiple DNNs at the same time, e,.g., extracting information of people, aged and gender from images?
 
-{: .box-note}
-We are working on various scheduling and model selection algorithms to adaptively run multiple DNNs on resource limited edge devices, in fulfilling various users’ requirements. 
- 
-
-<figure>
- <a href="#top">
-  <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="30">
- </a>
-</figure>
-
-
-<br>
 
 <!--
 ## Synthetic Data Generator<a name="GAN"></a> 
@@ -159,6 +133,37 @@ We are designing incentive mechanisms and defense strategies against backdoor at
 
 <br>
 
+## Deep Model Inferences on Edge Devices<a name="EdgeInf"></a> 
+----
+**Research questions**: How to choose suitable trained models from the plethoral of existing ones and deploy at the edge devices? How to optimize the performance of deep models on the edge devices? Can today's edge devices efficiently execute multiple DNNs at the same time, e,.g., extracting information of people, aged and gender from images?
+
+{: .box-note}
+We are working on various scheduling and model selection algorithms to adaptively run multiple DNNs on resource limited edge devices, in fulfilling various users’ requirements. 
+ 
+
+<figure>
+ <a href="#top">
+  <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="30">
+ </a>
+</figure>
+
+
+<br>
+
+
+## Optimization for Machine Learning Services and Clusters<a name="Tune"></a> 
+-----
+**Research questions**: Training deep models consumes tremendous computing time and resources; however tuning the hyperparameter of deep models is even multiple fold higher. Can one design efficient and accurate tuning framework for deep neural networks such that the optimal parameters can be found at minimum computational resources?
+
+{: .box-note}
+We are working on accelerating processing strategies that only execute critical data and leverage the workload similarities when tuning hyperparameters and training a wide range of ML models.  
+
+
+<figure>
+ <a href="#top">
+  <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="30">
+ </a>
+</figure>
 
 <br>
 
