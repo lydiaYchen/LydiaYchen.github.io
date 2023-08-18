@@ -11,7 +11,8 @@ Our research themes span in the following areas.
 - [Generative models](#Generative)
 - [Robust, and private learning](#RPFlearning)
 - [Edge federated learning](#eLInf)
-- [Resourcement managment for deep neural networks systems](#resource)
+<-!- [Resourcement managment for deep neural networks systems](#resource)-->
+
 
 
 # Generative Models<a name="Generative"></a>
