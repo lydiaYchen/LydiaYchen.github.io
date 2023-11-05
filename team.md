@@ -113,6 +113,13 @@ Abel Malan</a>
 <a href="mailto:hans@bluegen.ai">Hans Brouwer</a>
 </pre>
 </td>
+<td style="border: none;">
+<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
+<pre>
+<a href="">
+Dan Andreescu</a>
+</pre>
+</td>
 </tr>
 </table>
 
@@ -125,7 +132,7 @@ Abel Malan</a>
 :-----|:-----
 Stefanie Roos| Professor at University of Kaiserslautern
 Robert Birke| Assistant professor at University of Torino, Italy
-Han Rui | Bejin Technology University, China
+Han Rui | Beijin Technology University, China
 Marten Van Dijk| CWI, the Netherlands
 Juan Perez | Los Anders Univeresity, Columbia
 Pin-yu Chen | IBM Research, USA
@@ -149,12 +156,16 @@ Hao Li| Assistant professor at Central South University, China
 
 **Name**|**Master/Intern**|**Thesis/Project**
 :-----|:-----|:-----
+ Gijs Paardekooper |Master 24| Source free domain adapttion for TableGPT
+Julio Sanchez|Master 24| Vertical multi-modality federated learning 
+Casper Meijer|Master 24| Attacks and defense for time series generative models 
+Jiayi Tang|Master 24| Privcacy preserving generative AI
 Aditya Shankar|Master 23| Vertical federated learning for time series 
 Chaoyi Zhu|Master 23| LeadFL: Client side defense for backdoor attacks in federated learning
 Abel Mălan| Master 23 | Confidential federated Bayesian inference
 Jiamin Xu| Master 23 | Federated latent diffusion learning for tabular synthesis
 Mohamed Rashad | Master 23 | Vertical federated learning for classifier
-Miruna Betianu|Master 23| Domain adapation using pre-trained models
+Miruna Betianu|Master 23| Domain adapation for large language models
 Yijun Zhu|Master 22| Permutation invariant tabular data synthesizer
 Jeroen Galjaard|Master 22| Noisy fewshots learrning 
 Erwin van Thiel|Master 22| Adversarial example for multi-label problems
