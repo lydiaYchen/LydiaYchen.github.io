@@ -117,7 +117,7 @@ Abel Malan</a>
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
 <pre>
 <a href="">
-Dan Andreescu</a>
+Roland Kromes</a>
 </pre>
 </td>
 </tr>
