@@ -34,7 +34,7 @@ Lydia Y. Chen is a Professor in the Department of Computer Science at the Univer
  <br>
  <br>
                         
-She has published more than 100 papers in peer-reviewed journals, including IEEE Transactions on Distributed Systems and IEEE Transactions on Service Computing, and in conference proceedings, including INFOCOM, SIGMETRICS, DSN, and EUROSYS. She was a co-recipient of the best paper awards at CCGrid’15 and eEnergy’15. She received TU Delft technology fellowship in 2018.  She was program co-chair for IEEE IC2E 21, IEEE ICAC 2019, Middleware Industry track 2018, track vice-chair for ICDCS 2018, and DIAS 2017. She serves on the editorial boards of IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Parallel and Distributed Systems, IEEE Transactions on Service Computing and IEEE Transactions on Network and Service Management. She is an IEEE senior member.
+She has published more than 100 papers in peer-reviewed journals, including IEEE Transactions on Distributed Systems and IEEE Transactions on Service Computing, and in conference proceedings, including ICML, ICDE, MobiCom, DSN, and EUROSYS. She was a co-recipient of the best paper awards at CCGrid’15 and eEnergy’15. She received TU Delft technology fellowship in 2018.  She was program co-chair for IEEE IC2E 21, IEEE ICAC 2019, Middleware Industry track 2018, track vice-chair for ICDCS 2018, and DIAS 2017. She serves on the editorial boards of IEEE Transactions on Dependable and Secure Computing, IEEE Transactions on Parallel and Distributed Systems, IEEE Transactions on Service Computing and IEEE Transactions on Network and Service Management. She is an IEEE senior member.
 
 <figure>
  <a href="#top">
