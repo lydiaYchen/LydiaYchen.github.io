@@ -101,6 +101,26 @@ Abel Malan</a>
 </tr>
 </table>
 
+<table>
+<tr>
+<td style="border: none;">
+<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
+<pre>
+<a href="">
+Basial Lewandowski</a>
+
+</pre>
+</td>
+<td style="border: none;">
+<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
+<pre>
+<a href="">
+</a>
+</pre>
+</td>
+</tr>
+</table>
+
 <br>
 
 ## Researcher
@@ -113,13 +133,7 @@ Abel Malan</a>
 <a href="mailto:hans@bluegen.ai">Hans Brouwer</a>
 </pre>
 </td>
-<td style="border: none;">
-<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
-<pre>
-<a href="">
-Dan Andreescu</a>
-</pre>
-</td>
+
 </tr>
 </table>
 
