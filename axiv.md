@@ -5,6 +5,12 @@ subtitle:
 ---
 
  <h2>News Arxiv</h2>
+<li>[03/23] Our paper, <a href="">  “Fabricated Flips: Poisoning Federated Learning without Data" </a> , is accepted in <a href="//"> DSN 23</a></li>
+<li>[02/23] Our paper, <a href="">  “Maverick Matters: Client Contribution and Selection in Federated Learning" </a> , is accepted in <a href="//"> PAKDD 23</a></li>
+<li>[01/23] Our paper, <a href="">  “Defending Against Free-Riders Attacks in Distributed Generative Adversarial Networks" </a> , is accepted in <a href="//"> Financial Crypto 23</a></li>
+<li>[12/22] Our paper, <a href="">  “Robust Learning via Golden Symmetric Loss of (un)Trusted Labels
+" </a> , is accepted in <a href="//"> SIAM SDM 23</a></li>
+<li>[10/22] Our paper, <a href="">  “FedKNow:Federated Continual Learning with Signature Task Knowledge Integration at Edge" </a> , is accepted in <a href="//"> IEEE ICDE 23</a></li>
 
 <li>[10/22] Our paper, <a href="">  “Permutation-Invariant Tabular Data Synthesis " </a>, is accpted in <a href="//"> IEEE Bigdata 22</a></li>
 <li>[09/22] Our paper, <a href="">  “Trusted Loss Correction for Noisy Multi-Label Learning" </a>, is accpted in <a href="//"> ACML 22</a></li>
