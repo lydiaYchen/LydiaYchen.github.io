@@ -171,8 +171,10 @@ Hao Li| Assistant professor at Central South University, China
 :-----|:-----|:-----
  Gijs Paardekooper |Master 24| Source free domain adapttion for TableGPT
 Julio Sanchez|Master 24| Vertical multi-modality federated learning 
-Casper Meijer|Master 24| Attacks and defense for time series generative models 
-Jiayi Tang|Master 24| Privcacy preserving generative AI
+Roberto Gheda|Master 24| Confidential preserving Bayesian Networks
+Nikolay Blagoev|Master 24| Decentralised training of large language models
+Casper Meijer|Master 24| Inversion attacks for time series generative models 
+Jiayi Tang|Master 24| Watermarking Tabular Generative Models
 Aditya Shankar|Master 23| Vertical federated learning for time series 
 Chaoyi Zhu|Master 23| LeadFL: Client side defense for backdoor attacks in federated learning
 Abel Mălan| Master 23 | Confidential federated Bayesian inference
