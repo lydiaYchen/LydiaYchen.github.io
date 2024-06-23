@@ -27,7 +27,7 @@ lydiaychen@ieee.org
 <table>
 <tr>
 <td style="border: none;">
-<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
+<img style="float:left" src="../assets/img/Jeroen.jpeg" title="phd" width="100" height="120"/>
 <pre>
 <a href="mailto:J.M.Galjaard-1@tudelft.nl">
 Jeroen Galjaard</a>
@@ -67,7 +67,7 @@ Abel Malan</a>
 <table>
 <tr>
 <td style="border: none;">
-<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
+<img style="float:left" src="../assets/img/bart.jpeg"  title="phd" width="100" height="120"/>
 <pre>
 <a href="mailto:b.a.cox@tudelft.nl">
 Bart Cox</a>
