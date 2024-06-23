@@ -26,7 +26,7 @@ lydiaychen@ieee.org
 <table>
 <tr>
 <td style="border: none;">
-<img style="float:left"  <img src="../assets/img/Aditya.png" title="phd" width="100" height="120"/>
+<img style="float:left" src="../assets/img/aditya.png" title="phd" width="100" height="120"/>
 <pre>
 <a href="A.shankar-3@tudelft.nl">
 Aditya Shankar</a>
@@ -34,7 +34,7 @@ Aditya Shankar</a>
 </pre>
 </td>
 <td style="border: none;">
-<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
+<img style="float:left" src="../assets/img/Abel.png"  title="phd" width="100" height="120"/>
 <pre>
 <a href="A.M.Malan@student.tudelft.nl">
 Abel Malan</a>
@@ -53,7 +53,7 @@ Jeroen Galjaard</a>
 </pre>
 </td>
 <td style="border: none;">
-<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
+<img style="float:left" src="../assets/img/chaoyi.png" title="phd" width="100" height="120"/>
 <pre>
 <a href="mailto:c.zhu-7@tudelft.nl">
 Chaoyi Zhu</a>
