@@ -11,7 +11,6 @@ Our research themes span in the following areas.
 - [Generative Models](#generative-models)
 - [Robust, and Private Learning](#robust-and-private-learning)
 - [Federated Learning ](#federated-learning-)
-  - [Robust and Adversarial Machine Learning](#robust-and-adversarial-machine-learning)
   
 
 
@@ -54,23 +53,4 @@ In this line of research, we are designing learning algorithms and prototyping s
   <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="30">
  </a>
 </figure>
-
-
-
-## Robust and Adversarial Machine Learning<a name="Robust"></a> 
-
-**Research questions**: Can today's deep neural networks handle noisy data sets, namely corrupted inputs and labels? How to design novel learning algorithms to distill the data quality and enhance the robustness of learning models when encountering noisy and adversarial input? 
-
-{: .box-note}
-We are working on noise resilient learning frameworks, leveraging adversarial examples, expert judgement, and robust loss functions.
-
-<figure>
- <a href="#top">
-  <img src="../assets/img/top.png" alt="top" style="float: right;" width="30" height="30">
- </a>
-</figure>
-
-<br>
-
-
 
