@@ -109,9 +109,9 @@ Chi Hong </a>
 <table>
 <tr>
 <td style="border: none;">
-<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/ghiassi.jpg?raw=true" title="phd" width="100" height="120"/>
+<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
 <pre>
-<a href="mailto:S.Ghiassi@tudelft.nl">Masoud Ghiassi</a>
+<a href="">Fouad Abiad</a>
 </pre>
 </td>
 </tr>
@@ -129,7 +129,7 @@ Chi Hong </a>
 <td style="border: none;">
 <img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
 <pre>
-<a href="mailto:hans@bluegen.ai">Hans Brouwer</a>
+<a href="mailto:hans@bluegen.ai">Nikolay Blagoev</a>
 </pre>
 </td>
 
@@ -160,6 +160,7 @@ De-Nian Yang| Academia Sinica, Taiwan
 
 **Name**|**First employment**
 :-----|:-----
+Masoud Ghiasse| Shell Research, the Netherlands
 Zilong Zhao| Postdoc, TUM Germany
 Hao Li| Assistant professor at Central South University, China
 
