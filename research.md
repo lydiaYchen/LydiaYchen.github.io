@@ -29,8 +29,8 @@ We are also actively collaborating with various industrial partners to explore s
 Artificial intelligence (AI) and machine learning (ML) are ubiquitous in our daily lives in the form of search engines, machine translation, self-driving cars and much more. The prevailing assumptions of existing ML algorithms are that data is neutral and can be freely accessed (without breaching privacy). As a result, the existing algorithms fall short of addressing challenges in realistic scenarios, i.e., against adversarial examples, dirty data, and unreliable execution environments while still preserving data privacy. These issues are further exacerbated by large and distributed learning problems, the data for which is collected over multiple sources and must be computed on distributed nodes.
 
 In this line of research, we are designing robust, privacy-preserving and fair learning algorithms. Topics include:
-- [Robust Machine Learning](#Robust): designing learning algorithms that are robust to dirty data inputs.
-- [Adversarial Attacks and Defenses](#Attack): designing adversarial attacks and defense mechanisms for deployed deep models.
+- [Robust Machine Learning]: designing learning algorithms that are robust to dirty data inputs.
+- [Adversarial Attacks and Defenses]: designing adversarial attacks and defense mechanisms for deployed deep models.
 - Differential private (deep) learning: designing effective differential private ML models with precise accuracy accounting.
 
 <figure>
