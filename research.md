@@ -17,7 +17,7 @@ Our research themes span in the following areas.
 
 # Generative Models<a name="Generative"></a>
 
-While big data is powering up the deep learning models, it is costly and inevitably intrudes privacy to curate such data. Synthetically generated data not only alleviates the cost of collecting data but also overcome the privacy concerns and legislation boundary. How to generate synthetic data that fulfilll the requirements of data similarity, analysis utility, privacy and generalization?
+While big data is powering up the deep learning models, it is costly and inevitably intrudes privacy to curate such data. Synthetically generated data not only alleviates the cost of collecting data but also overcome the privacy concerns and legislation boundary. How to generate synthetic data that fulfill the requirements of data similarity, analysis utility, privacy and generalization?
 
 We are exploring a wide range of generative models for synthesizing tabular data, ranging from Generative Adversarial Networks (GANs), latent difussion, flow models, and large language models. 
 We are also actively collaborating with various industrial partners to explore synthetic data as a privacy-preserving data sharing solution, such as major European energy companies, and finacial companies. 
@@ -44,10 +44,10 @@ Data is constantly generated and collected by edge devices (of the network) to p
 
 In this line of research, we are designing learning algorithms and prototyping system solutions for ML training and inference on distributed edge devices. Topics include:
 
-- [Confidential Vertical Learning for Manufacturer]: collaborating with the world leading material manufacturers to design confidential vertical fedearated learning on variety of machine learning models
-- [Attacks and Defenses in Federated Learning]: designing data free model poisoning attacks, gradient inversion attacks, and freerider attacks for various federated learning systems
-- [Continue Fedearated Learning and Domain Adaptation]: designing federated learning systems that tackle two foundemntal challenges in real life: data continitously evovles through different domains and learning tasks also change over time. 
-- [Deep Model Inferences on Edge Devices]: designing and prototyping an inference engine that can search for optimal models and configurations for edge devices at scale.
+- Confidential Vertical Learning for Manufacturer: collaborating with the world leading material manufacturers to design confidential vertical federated learning on variety of machine learning models
+- Attacks and Defenses in Federated Learning: designing data free model poisoning attacks, gradient inversion attacks, and freerider attacks for various federated learning systems
+- Continue Federated Learning and Domain Adaptation: designing federated learning systems that tackle two foundemntal challenges in real life: data continitously evolves through different domains and learning tasks also change over time. 
+- Deep Model Inferences on Edge Devices: designing and prototyping an inference engine that can search for optimal models and configurations for edge devices at scale.
 
 <figure>
  <a href="#top">
@@ -59,7 +59,7 @@ In this line of research, we are designing learning algorithms and prototyping s
 
 ## Robust and Adversarial Machine Learning<a name="Robust"></a> 
 
-**Research questions**: Can today's deep neural networks handle noisy data sets, namely corrupted inputs and labels? How to design novel learning algorithms to dstill the data quality and enhance the robustness of learning models when encountering noisy and adversarial input? 
+**Research questions**: Can today's deep neural networks handle noisy data sets, namely corrupted inputs and labels? How to design novel learning algorithms to distill the data quality and enhance the robustness of learning models when encountering noisy and adversarial input? 
 
 {: .box-note}
 We are working on noise resilient learning frameworks, leveraging adversarial examples, expert judgement, and robust loss functions.
