@@ -121,16 +121,7 @@ Roberto Gheda</a>
 </tr>
 </table>
 
-<table>
-<tr>
-<td style="border: none;">
-<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
-<pre>
-<a href="">Chi Hong</a>
-</pre>
-</td>
-</tr>
-</table>
+
 
 
 
@@ -175,6 +166,7 @@ De-Nian Yang| Academia Sinica, Taiwan
 
 **Name**|**First employment**
 :-----|:-----
+Chi Hong | Startup
 Masoud Ghiasse| Shell Research, the Netherlands
 Zilong Zhao| Postdoc, TUM Germany
 Hao Li| Assistant professor at Central South University, China
