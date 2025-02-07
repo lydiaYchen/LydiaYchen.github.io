@@ -1,8 +1,11 @@
 ---
 layout: page
+cover-img: assets/img/group_winter.jpg
 title: About us
 subtitle: Who we are
 ---
+
+
 
 ## Chair
 
