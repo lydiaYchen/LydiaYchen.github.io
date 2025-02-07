@@ -93,7 +93,7 @@ Bart Cox</a>
 </pre>
 </td>
 <td style="border: none;">
-<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
+<img style="float:left" src="../assets/img/Basile.jpeg" title="phd" width="100" height="120"/>
 <pre>
 <a href="">
 Basile Lewandowski</a>
@@ -108,14 +108,14 @@ Basile Lewandowski</a>
 <table>
 <tr>
 <td style="border: none;">
-<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
+<img style="float:left" src="../assets/img/Fouad.jpeg" title="phd" width="100" height="120"/>
 <pre>
 <a href="mailto:">
 Fouad Abiad</a>
 </pre>
 </td>
 <td style="border: none;">
-<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
+<img style="float:left" src="../assets/img/Roberto.jpeg" title="phd" width="100" height="120"/>
 <pre>
 <a href="mailto:">
 Roberto Gheda</a>
