@@ -24,6 +24,7 @@ lydiaychen@ieee.org
 
 <br>
 
+ <!---
 ## Postdoc
 
 <table>
@@ -38,7 +39,7 @@ Jiyue Huang</a>
 </tr>
 </table>
 
-
+--->
 ## Ph.D. Students
 
 
@@ -124,29 +125,35 @@ Roberto Gheda</a>
 </tr>
 </table>
 
-
-
-
-
-
-<br>
-
-## Researcher
-
 <table>
 <tr>
 <td style="border: none;">
-<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/flat-user-icon-png-3.png?raw=true" title="phd" width="100" height="120"/>
+<img style="float:left" src="../assets/img/Gert.jpg" title="phd" width="100" height="120"/>
 <pre>
-<a href="mailto:hans@bluegen.ai">Nikolay Blagoev</a>
+<a href="mailto:">
+Gert Lek</a>
 </pre>
 </td>
-
+<td style="border: none;">
+<img style="float:left" src="../assets/img/Nic.jpg" title="phd" width="100" height="120"/>
+<pre>
+<a href="mailto:">
+Nikolay Blagoev</a>
+</pre>
+</td>
 </tr>
 </table>
 
 
+
+
+
+
 <br>
+
+## Researchers
+**Name**|**Topics**
+
 
 ## Collaborators
 
@@ -159,8 +166,6 @@ Marten Van Dijk| CWI, the Netherlands
 Juan Perez | Los Anders Univeresity, Columbia
 Pin-yu Chen | IBM Research, USA
 De-Nian Yang| Academia Sinica, Taiwan
-
-
 
 
 <br>
@@ -180,9 +185,12 @@ Hao Li| Assistant professor at Central South University, China
 
 **Name**|**Master/Intern**|**Thesis/Project**
 :-----|:-----|:-----
- Gijs Paardekooper |Master 24| Source free domain adapttion for TableGPT
+Fulvio Nardi |Master 25| Model selection for text-image generative models
+Arnob Chowdhury |Master 25| Federated and private multi-task learning for semiconductor processes
+Vanessa Timmer |Master 25| On exploring and exploiting time series watermark
+ Gijs Paardekooper |Master 24| Multi-table synthesis through tabular transfoermer
 Julio Sanchez|Master 24| Vertical multi-modality federated learning 
-Roberto Gheda|Master 24| Confidential preserving Bayesian Networks
+Roberto Gheda|Master 24| Confidential preserving Bayesian Networks on hybrid data
 Nikolay Blagoev|Master 24| Decentralised training of large language models
 Casper Meijer|Master 24| Inversion attacks for time series generative models 
 Jiayi Tang|Master 24| Watermarking Tabular Generative Models
