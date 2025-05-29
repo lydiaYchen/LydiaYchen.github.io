@@ -153,6 +153,10 @@ Nikolay Blagoev</a>
 
 ## Researchers
 **Name**|**Topics**
+:-----|:-----
+Nicolas van Schaik | Decentralized anomaly detection for service mesh networks
+ZiWen Soi| Time series modeling for science applications
+
 
 
 ## Collaborators
