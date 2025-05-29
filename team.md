@@ -2,7 +2,8 @@
 layout: page
 cover-img:
  - "assets/img/group_winter.jpg" : "Winterschool"
- - "assets/img/Kickoff2025.jpg" : "Project Kickoff"
+ -  "assets/img/MarchVisit.jpg" : "Quantization Workshop"
+ - "assets/img/Kickoff2025.jpg" : "SNSF Project Kickoff"
 title: About us
 subtitle: Who we are
 ---
