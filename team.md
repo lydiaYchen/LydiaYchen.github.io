@@ -24,21 +24,6 @@ lydiaychen@ieee.org
 
 <br>
 
-<!---
-## Postdoc
-
-<table>
-<tr>
-<td style="border: none;">
-<img style="float:left" src="https://github.com/Team-TUD/DIS/blob/master/images/jiyue.jpg?raw=true" title="phd" width="100" height="120"/>
-<pre>
-<a href="mailto:J.Huang-4@tudelft.nl">
-Jiyue Huang</a>
-</pre>
-</td>
-</tr>
-</table>
---->
 
 ## Ph.D. Students
 
@@ -164,12 +149,11 @@ ZiWen Soi| Time series modeling for science applications
 
 **Name**|**Affiliation**
 :-----|:-----
-Stefanie Roos| Professor at University of Kaiserslautern
-Robert Birke| Assistant professor at University of Torino, Italy
+Stefanie Roos| Professor at University of Kaiserslautern, Germany
+Robert Birke| Associate professor at University of Torino, Italy
+Pin-yu Chen | IBM Research, USA
 Han Rui | Beijin Technology University, China
 Marten Van Dijk| CWI, the Netherlands
-Juan Perez | Los Anders Univeresity, Columbia
-Pin-yu Chen | IBM Research, USA
 De-Nian Yang| Academia Sinica, Taiwan
 
 
@@ -217,6 +201,7 @@ Bart Cox|Master 20| Efficient multiple DNNs inference on edge devices
 Shikhar Deve|Master 20| Multi-fidelity hyper-parameter tuning for machine learning algorithms
 
 <br>
+
 ## Bachelor Thesis Students
 
 **Name**|**Year**|**Thesis**
