@@ -1,10 +1,11 @@
 ---
 layout: page
-cover-img: assets/img/group_winter.jpg
+cover-img:
+ - "assets/img/group_winter.jpg" : "Winterschool"
+ - "assets/img/Kickoff2025.jpg" : "Project Kickoff"
 title: About us
 subtitle: Who we are
 ---
-
 
 
 ## Chair
@@ -94,7 +95,7 @@ Basile Lewandowski</a>
 <table>
 <tr>
 <td style="border: none;">
-<img style="float:left" src="../assets/img/Fouad.jpeg" title="phd" width="100" height="120"/>
+<img style="float:left" src="../assets/img/Fouad.jpg" title="phd" width="100" height="120"/>
 <pre>
 <a href="mailto:F.Abiad@tudelft.nl">
 Fouad Abiad</a>
