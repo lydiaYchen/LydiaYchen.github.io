@@ -24,7 +24,7 @@ lydiaychen@ieee.org
 
 <br>
 
- <!---
+<!---
 ## Postdoc
 
 <table>
@@ -38,8 +38,8 @@ Jiyue Huang</a>
 </td>
 </tr>
 </table>
-
 --->
+
 ## Ph.D. Students
 
 
@@ -75,7 +75,7 @@ Aditya Shankar</a>
 <td style="border: none;">
 <img style="float:left" src="../assets/img/Abel.png"  title="phd" width="100" height="120"/>
 <pre>
-<a href="A.M.Malan@student.tudelft.nl">
+<a href="abele.malan@unine.ch">
 Abel Malan</a>
 </pre>
 </td>
@@ -96,7 +96,7 @@ Bart Cox</a>
 <td style="border: none;">
 <img style="float:left" src="../assets/img/Basile.jpg" title="phd" width="100" height="120"/>
 <pre>
-<a href="">
+<a href="mailto:basile.lewandowski@unine.ch">
 Basile Lewandowski</a>
 </pre>
 </td>
@@ -111,14 +111,14 @@ Basile Lewandowski</a>
 <td style="border: none;">
 <img style="float:left" src="../assets/img/Fouad.jpg" title="phd" width="100" height="120"/>
 <pre>
-<a href="mailto:">
+<a href="mailto:F.Abiad@tudelft.nl">
 Fouad Abiad</a>
 </pre>
 </td>
 <td style="border: none;">
 <img style="float:left" src="../assets/img/Roberto.jpg" title="phd" width="100" height="120"/>
 <pre>
-<a href="mailto:">
+<a href="mailto:R.Gheda@tudelft.nl">
 Roberto Gheda</a>
 </pre>
 </td>
@@ -130,7 +130,7 @@ Roberto Gheda</a>
 <td style="border: none;">
 <img style="float:left" src="../assets/img/Gert.jpg" title="phd" width="100" height="120"/>
 <pre>
-<a href="mailto:">
+<a href="mailto:gert.lek@unine.ch">
 Gert Lek</a>
 </pre>
 </td>
@@ -152,6 +152,7 @@ Nikolay Blagoev</a>
 <br>
 
 ## Researchers
+
 **Name**|**Topics**
 :-----|:-----
 Nicolas van Schaik | Decentralized anomaly detection for service mesh networks
