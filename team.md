@@ -94,7 +94,7 @@ Basile Lewandowski</a>
 <table>
 <tr>
 <td style="border: none;">
-<img style="float:left" src="../assets/img/Fouad.jpg" title="phd" width="100" height="120"/>
+<img style="float:left" src="../assets/img/Fouad.jpeg" title="phd" width="100" height="120"/>
 <pre>
 <a href="mailto:F.Abiad@tudelft.nl">
 Fouad Abiad</a>
@@ -136,14 +136,15 @@ Nikolay Blagoev</a>
 
 <br>
 
-## Researchers
+## Researcher Interns
 
 **Name**|**Topics**
 :-----|:-----
 Nicolas van Schaik | Decentralized anomaly detection for service mesh networks
-ZiWen Soi| Time series modeling for science applications
+Ziwen Soi| Time series modeling for science applications
 
 
+<br>
 
 
 
@@ -151,9 +152,12 @@ ZiWen Soi| Time series modeling for science applications
 
 **Name**|**Affiliation**
 :-----|:-----
+Pin-yu Chen | Principal Researcher, IBM Research, USA
+Sammer Banner | Vice president of research, ASM, USA
+Kees Bos| Principal Scientist, Tata Steel, NL
+Oğuzhan Ersoy | Researcher, GenSyn.ai 
 Stefanie Roos| Professor at University of Kaiserslautern, Germany
 Robert Birke| Associate professor at University of Torino, Italy
-Pin-yu Chen | IBM Research, USA
 Han Rui | Beijin Technology University, China
 Marten Van Dijk| CWI, the Netherlands
 De-Nian Yang| Academia Sinica, Taiwan
