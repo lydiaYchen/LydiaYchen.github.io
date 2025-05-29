@@ -113,7 +113,7 @@ Roberto Gheda</a>
 <table>
 <tr>
 <td style="border: none;">
-<img style="float:left" src="../assets/img/Gert.jpg" title="phd" width="100" height="120"/>
+<img style="float:left" src="../assets/img/Gert.jpeg" title="phd" width="100" height="120"/>
 <pre>
 <a href="mailto:gert.lek@unine.ch">
 Gert Lek</a>
