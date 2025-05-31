@@ -4,8 +4,9 @@ cover-img:
  - "assets/img/group_winter.jpg" : "Winterschool"
  -  "assets/img/MarchVisit.jpg" : "Quantization Workshop"
  - "assets/img/Kickoff2025.jpg" : "SNSF Project Kickoff"
-title: About us
-subtitle: Who we are
+ -  - "assets/img/SamerMaria.jpg" : "At Maria"
+title: 
+subtitle: About us
 ---
 
 
