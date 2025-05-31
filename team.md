@@ -5,7 +5,7 @@ cover-img:
  -  "assets/img/MarchVisit.jpg" : "Quantization Workshop"
  - "assets/img/Kickoff2025.jpg" : "SNSF Project Kickoff"
  -  - "assets/img/SamerMaria.jpg" : "At Maria"
-title: 
+title:  Who we are
 subtitle: About us
 ---
 
