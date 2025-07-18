@@ -10,7 +10,7 @@ subtitle: About us
 ---
 
 <style>
-  table {
+  .profile-table {
     border-collapse: collapse;
     margin: 10px 0;
   }
@@ -59,8 +59,7 @@ lydiaychen@ieee.org
 
 ## Ph.D. Students
 
-
-<table>
+<table class="profile-table">
   <tr>
     <td>
       <img class="profile-img" src="../assets/img/Jeroen.jpeg" alt="Jeroen Galjaard" title="phd" />
