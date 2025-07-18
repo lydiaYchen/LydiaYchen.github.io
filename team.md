@@ -8,56 +8,7 @@ cover-img:
 title:  Who we are
 subtitle: About us
 ---
-<style>
-  /* Styles ONLY for the profile table */
-  .profile-table {
-    border-collapse: collapse;
-    margin: 10px 0;
-  }
 
-  .profile-table td {
-    border: none;
-    width: 150px;
-    height: 220px;
-    vertical-align: top;
-    text-align: center;
-    padding: 10px;
-  }
-
-  .profile-table img.profile-img {
-    width: 100px;
-    height: 120px;
-    object-fit: cover;
-    display: block;
-    margin: 0 auto 10px;
-  }
-
-  .profile-table .profile-name {
-    font-family: sans-serif;
-  }
-
-  /* Default style for other tables (like your interns table) */
-  table:not(.profile-table) {
-    border-collapse: separate;
-    width: auto;
-    margin: 20px 0;
-    border: 1px solid #ccc;
-  }
-
-  table:not(.profile-table) th,
-  table:not(.profile-table) td {
-    padding: 0.5em 1em;
-    border: 1px solid #ccc;
-    text-align: left;
-    vertical-align: middle;
-  }
-
-  table:not(.profile-table) th {
-    background-color: #f0f0f0;
-  }
-</style>
-</head>
-<body>
 
 ## Chair
 
@@ -79,7 +30,53 @@ lydiaychen@ieee.org
 
 ## Ph.D. Students
 
+<style>
+  /* Profile table styles only */
+  .profile-table {
+    border-collapse: collapse;
+    margin: 10px 0;
+  }
+  .profile-table td {
+    border: none;
+    width: 150px;
+    height: 220px;
+    vertical-align: top;
+    text-align: center;
+    padding: 10px;
+  }
+  .profile-table img.profile-img {
+    width: 100px;
+    height: 120px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto 10px;
+  }
+  .profile-table .profile-name {
+    font-family: sans-serif;
+  }
+
+  /* Styles for all other tables (e.g. markdown tables) */
+  table:not(.profile-table) {
+    border-collapse: separate;
+    border: 1px solid #ccc;
+    width: auto;
+    margin: 1em 0;
+  }
+  table:not(.profile-table) th,
+  table:not(.profile-table) td {
+    border: 1px solid #ccc;
+    padding: 0.3em 0.6em;
+    text-align: left;
+    vertical-align: middle;
+  }
+  table:not(.profile-table) th {
+    background-color: #f0f0f0;
+  }
+</style>
+</head>
+<body>
 <table class="profile-table">
+  <!-- Your profile rows as you wrote them -->
   <tr>
     <td>
       <img class="profile-img" src="../assets/img/Jeroen.jpeg" alt="Jeroen Galjaard" title="phd" />
@@ -150,15 +147,14 @@ lydiaychen@ieee.org
         <a href="mailto:">Nikolay Blagoev</a>
       </div>
     </td>
-    <!-- Optionally add empty cells if needed -->
     <td></td>
     <td></td>
   </tr>
 </table>
 
+<!-- Markdown for interns below -->
 
 
-<br>
 
 ## Researcher Interns
 
