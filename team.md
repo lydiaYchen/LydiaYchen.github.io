@@ -8,14 +8,14 @@ cover-img:
 title:  Who we are
 subtitle: About us
 ---
-
 <style>
+  /* Styles ONLY for the profile table */
   .profile-table {
     border-collapse: collapse;
     margin: 10px 0;
   }
 
-  td {
+  .profile-table td {
     border: none;
     width: 150px;
     height: 220px;
@@ -24,7 +24,7 @@ subtitle: About us
     padding: 10px;
   }
 
-  .profile-img {
+  .profile-table img.profile-img {
     width: 100px;
     height: 120px;
     object-fit: cover;
@@ -32,12 +32,32 @@ subtitle: About us
     margin: 0 auto 10px;
   }
 
-  .profile-name {
+  .profile-table .profile-name {
     font-family: sans-serif;
   }
+
+  /* Default style for other tables (like your interns table) */
+  table:not(.profile-table) {
+    border-collapse: separate;
+    width: auto;
+    margin: 20px 0;
+    border: 1px solid #ccc;
+  }
+
+  table:not(.profile-table) th,
+  table:not(.profile-table) td {
+    padding: 0.5em 1em;
+    border: 1px solid #ccc;
+    text-align: left;
+    vertical-align: middle;
+  }
+
+  table:not(.profile-table) th {
+    background-color: #f0f0f0;
+  }
 </style>
-
-
+</head>
+<body>
 
 ## Chair
 
