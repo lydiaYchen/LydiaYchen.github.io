@@ -86,10 +86,10 @@ She has published more than 100 papers in peer-reviewed journals and in conferen
 
 <h2>Conference Organization <a name="ConfOrg"></a> </h2>
 
+**This list was not updated since 2023.**
  <br>   
  
 **Year**|**Conference & Role**
-**This list was not updated since 2023. **
 :-----|:-----
 2020| Doctoral symposium co-chair of  ACM Eurosys
 2018| Workshop co-chair of ACM Eurosys
@@ -107,10 +107,10 @@ She has published more than 100 papers in peer-reviewed journals and in conferen
 
 <h2> Conference TPC <a name="TPC"></a></h2>
 
+**This list was not updated since 2023.**
  <br> 
  
 **Acronym**|**Conference**|**Years**
-**This list was not updated since 2023. **
 :-----|:-----|:-----
 SIGCOMM| ACM SIGCOMM Conference| 23
 ICML| International Conference on Machine Learning| 23   
