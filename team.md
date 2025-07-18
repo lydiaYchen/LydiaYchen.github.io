@@ -9,6 +9,35 @@ title:  Who we are
 subtitle: About us
 ---
 
+<style>
+  table {
+    border-collapse: collapse;
+    margin: 10px 0;
+  }
+
+  td {
+    border: none;
+    width: 150px;
+    height: 220px;
+    vertical-align: top;
+    text-align: center;
+    padding: 10px;
+  }
+
+  .profile-img {
+    width: 100px;
+    height: 120px;
+    object-fit: cover;
+    display: block;
+    margin: 0 auto 10px;
+  }
+
+  .profile-name {
+    font-family: sans-serif;
+  }
+</style>
+
+
 
 ## Chair
 
@@ -32,105 +61,77 @@ lydiaychen@ieee.org
 
 
 <table>
-<tr>
-<td style="border: none;">
-<img style="float:left" src="../assets/img/Jeroen.jpeg" title="phd" width="100" height="120"/>
-<pre>
-<a href="mailto:J.M.Galjaard-1@tudelft.nl">
-Jeroen Galjaard</a>
-</pre>
-</td>
-<td style="border: none;">
-<img style="float:left" src="../assets/img/chaoyi.png" title="phd" width="100" height="120"/>
-<pre>
-<a href="mailto:c.zhu-7@tudelft.nl">
-Chaoyi Zhu</a>
-</pre>
-</td>
-</tr>
+  <tr>
+    <td>
+      <img class="profile-img" src="../assets/img/Jeroen.jpeg" alt="Jeroen Galjaard" title="phd" />
+      <div class="profile-name">
+        <a href="mailto:J.M.Galjaard-1@tudelft.nl">Jeroen Galjaard</a>
+      </div>
+    </td>
+    <td>
+      <img class="profile-img" src="../assets/img/chaoyi.png" alt="Chaoyi Zhu" title="phd" />
+      <div class="profile-name">
+        <a href="mailto:c.zhu-7@tudelft.nl">Chaoyi Zhu</a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img class="profile-img" src="../assets/img/aditya.png" alt="Aditya Shankar" title="phd" />
+      <div class="profile-name">
+        <a href="mailto:A.shankar-3@tudelft.nl">Aditya Shankar</a>
+      </div>
+    </td>
+    <td>
+      <img class="profile-img" src="../assets/img/Abel.png" alt="Abel Malan" title="phd" />
+      <div class="profile-name">
+        <a href="mailto:abele.malan@unine.ch">Abel Malan</a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img class="profile-img" src="../assets/img/bart.jpeg" alt="Bart Cox" title="phd" />
+      <div class="profile-name">
+        <a href="mailto:b.a.cox@tudelft.nl">Bart Cox</a>
+      </div>
+    </td>
+    <td>
+      <img class="profile-img" src="../assets/img/Basile.jpg" alt="Basile Lewandowski" title="phd" />
+      <div class="profile-name">
+        <a href="mailto:basile.lewandowski@unine.ch">Basile Lewandowski</a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img class="profile-img" src="../assets/img/Fouad.jpg" alt="Fouad Abiad" title="phd" />
+      <div class="profile-name">
+        <a href="mailto:F.Abiad@tudelft.nl">Fouad Abiad</a>
+      </div>
+    </td>
+    <td>
+      <img class="profile-img" src="../assets/img/Roberto.jpg" alt="Roberto Gheda" title="phd" />
+      <div class="profile-name">
+        <a href="mailto:R.Gheda@tudelft.nl">Roberto Gheda</a>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img class="profile-img" src="../assets/img/Gert.jpeg" alt="Gert Lek" title="phd" />
+      <div class="profile-name">
+        <a href="mailto:gert.lek@unine.ch">Gert Lek</a>
+      </div>
+    </td>
+    <td>
+      <img class="profile-img" src="../assets/img/Nic_photo.jpg" alt="Nikolay Blagoev" title="phd" />
+      <div class="profile-name">
+        <a href="mailto:">Nikolay Blagoev</a>
+      </div>
+    </td>
+  </tr>
 </table>
-
-<table>
-<tr>
-<td style="border: none;">
-<img style="float:left" src="../assets/img/aditya.png" title="phd" width="100" height="120"/>
-<pre>
-<a href="A.shankar-3@tudelft.nl">
-Aditya Shankar</a>
-(With R. He)
-</pre>
-</td>
-<td style="border: none;">
-<img style="float:left" src="../assets/img/Abel.png"  title="phd" width="100" height="120"/>
-<pre>
-<a href="abele.malan@unine.ch">
-Abel Malan</a>
-</pre>
-</td>
-</tr>
-</table>
-
-
-<table>
-<tr>
-<td style="border: none;">
-<img style="float:left" src="../assets/img/bart.jpeg"  title="phd" width="100" height="120"/>
-<pre>
-<a href="mailto:b.a.cox@tudelft.nl">
-Bart Cox</a>
-(With J. Decouchant)
-</pre>
-</td>
-<td style="border: none;">
-<img style="float:left" src="../assets/img/Basile.jpg" title="phd" width="100" height="120"/>
-<pre>
-<a href="mailto:basile.lewandowski@unine.ch">
-Basile Lewandowski</a>
-</pre>
-</td>
-</tr>
-</table>
-
-
-<table>
-<tr>
-<td style="border: none;">
-<img style="float:left" src="../assets/img/Fouad.jpg" title="phd" width="100" height="120"/>
-<pre>
-<a href="mailto:F.Abiad@tudelft.nl">
-Fouad Abiad</a>
-</pre>
-</td>
-<td style="border: none;">
-<img style="float:right" src="../assets/img/Roberto.jpg" title="phd" width="100" height="120"/>
-<pre>
-<a href="mailto:R.Gheda@tudelft.nl">
-Roberto Gheda</a>
-</pre>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td style="border: none;">
-<img style="float:left" src="../assets/img/Gert.jpeg" title="phd" width="100" height="120"/>
-<pre>
-<a href="mailto:gert.lek@unine.ch">
-Gert Lek</a>
-</pre>
-</td>
-<td style="border: none;">
-<img style="float:right" src="../assets/img/Nic_photo.jpg" title="phd" width="100" height="120"/>
-<pre>
-<a href="mailto:">
-Nikolay Blagoev</a>
-</pre>
-</td>
-</tr>
-</table>
-
-
 
 
 
