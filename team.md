@@ -92,8 +92,6 @@ Basile Lewandowski</a>
 </table>
 
 
-
-
 <table>
 <tr>
 <td style="border: none;">
@@ -104,7 +102,7 @@ Fouad Abiad</a>
 </pre>
 </td>
 <td style="border: none;">
-<img style="float:left" src="../assets/img/Roberto.jpg" title="phd" width="100" height="120"/>
+<img style="float:right" src="../assets/img/Roberto.jpg" title="phd" width="100" height="120"/>
 <pre>
 <a href="mailto:R.Gheda@tudelft.nl">
 Roberto Gheda</a>
@@ -123,7 +121,7 @@ Gert Lek</a>
 </pre>
 </td>
 <td style="border: none;">
-<img style="float:left" src="../assets/img/Nic_photo.jpg" title="phd" width="100" height="120"/>
+<img style="float:right" src="../assets/img/Nic_photo.jpg" title="phd" width="100" height="120"/>
 <pre>
 <a href="mailto:">
 Nikolay Blagoev</a>
