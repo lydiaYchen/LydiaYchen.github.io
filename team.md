@@ -123,7 +123,7 @@ Gert Lek</a>
 </pre>
 </td>
 <td style="border: none;">
-<img style="float:left" src="../assets/img/Nic_hoto.jpg" title="phd" width="100" height="120"/>
+<img style="float:left" src="../assets/img/Nic_photo.jpg" title="phd" width="100" height="120"/>
 <pre>
 <a href="mailto:">
 Nikolay Blagoev</a>
