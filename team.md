@@ -93,22 +93,21 @@ lydiaychen@ieee.org
         <a href="mailto:c.zhu-7@tudelft.nl">Chaoyi Zhu</a>
       </div>
     </td>
-  </tr>
-  <tr>
     <td>
       <img class="profile-img" src="../assets/img/aditya.png" alt="Aditya Shankar" title="phd" />
       <div class="profile-name">
         <a href="mailto:A.shankar-3@tudelft.nl">Aditya Shankar</a>
       </div>
     </td>
+  </tr>
+
+  <tr>
     <td>
       <img class="profile-img" src="../assets/img/Abel.png" alt="Abel Malan" title="phd" />
       <div class="profile-name">
         <a href="mailto:abele.malan@unine.ch">Abel Malan</a>
       </div>
     </td>
-  </tr>
-  <tr>
     <td>
       <img class="profile-img" src="../assets/img/bart.jpeg" alt="Bart Cox" title="phd" />
       <div class="profile-name">
@@ -122,6 +121,7 @@ lydiaychen@ieee.org
       </div>
     </td>
   </tr>
+
   <tr>
     <td>
       <img class="profile-img" src="../assets/img/Fouad.jpg" alt="Fouad Abiad" title="phd" />
@@ -135,23 +135,26 @@ lydiaychen@ieee.org
         <a href="mailto:R.Gheda@tudelft.nl">Roberto Gheda</a>
       </div>
     </td>
-  </tr>
-  <tr>
     <td>
       <img class="profile-img" src="../assets/img/Gert.jpeg" alt="Gert Lek" title="phd" />
       <div class="profile-name">
         <a href="mailto:gert.lek@unine.ch">Gert Lek</a>
       </div>
     </td>
+  </tr>
+
+  <tr>
     <td>
       <img class="profile-img" src="../assets/img/Nic_photo.jpg" alt="Nikolay Blagoev" title="phd" />
       <div class="profile-name">
         <a href="mailto:">Nikolay Blagoev</a>
       </div>
     </td>
+    <!-- Optionally add empty cells if needed -->
+    <td></td>
+    <td></td>
   </tr>
 </table>
-
 
 
 
