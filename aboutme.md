@@ -31,7 +31,7 @@ Lydia Y. Chen is a Professor in the Department of Computer Science at the Univer
 
  Her research interests are distributed machine learning systems, generative AI, and  dependability and privacy enhancing technologies.  More specifically, her work focuses on developing machine learning and stochastic models, and applying these techniques to application domains, such as data centers, edge systems, semi-conductor and material science.
 
- <br>
+
  <br>
                         
 She has published more than 100 papers in peer-reviewed journals and in conference proceedings, including ICML, ICDE, MobiCom, DSN, and EUROSYS. She was a co-recipient of several publication awards and a program co-chair for flagship conferences. She served on the editorial boards of IEEE Transactions journals.
