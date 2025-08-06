@@ -148,6 +148,14 @@ lydiaychen@ieee.org
       </div>
     </td>
     <td>
+
+    <td>
+      <img class="profile-img" src="../assets/img/ZhiwenSoi.jpg" alt="ZhiWen Soi" title="phd" />
+      <div class="profile-name">
+        <a href="mailto:">ZhiWen Soi</a>
+      </div>
+    </td>
+    <td>
     
     </td>
     <td></td>
