@@ -153,10 +153,10 @@ lydiaychen@ieee.org
         <a href="mailto:">ZhiWen Soi</a>
       </div>
     </td>
-    <td> 
     <td>
     </td>
   </tr>
+
 </table>
 
 <!-- Markdown for interns below -->
