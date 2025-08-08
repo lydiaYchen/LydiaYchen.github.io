@@ -9,6 +9,7 @@ title: Papers with code
 
 ### 📄 TabWak: A Watermark for Tabular Diffusion Models**   
 *ICLR 2025 (Spotlight)*  🏆
+
 💻 **Code:** [GitHub](https://github.com/chaoyitud/TabWak)  
  <details><summary>Show citation</summary>
 ```bibtex
@@ -22,6 +23,7 @@ title: Papers with code
 ```
 </details>
 
+<br>
 
 
 ### 📄 Duwak: Dual Watermarks in Large Language Models  
@@ -39,7 +41,7 @@ title: Papers with code
 ```
 </details>
 
-
+<br>
 
 ### 📄 WaveStitch: Flexible and Fast Conditional Time Series Generation with Diffusion Models 
 💻 **Code:** [GitHub](https://github.com/adis98/HierarchicalTS)  
