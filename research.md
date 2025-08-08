@@ -109,9 +109,30 @@ title: Papers with code
 ```
 </details>
 
+### 📄 Share Secrets for Privacy: Confidential Forecasting with Vertical Federated Learning**  
+*ARES 2025*  
+💻 **Code:** [GitHub](https://github.com/adis98/STV)
+<details>
+<summary>Show citation</summary>
+```bibtex
+@inproceedings{Shankar25ARES,
+  title={Share Your Secrets for Privacy! Confidential Forecasting with Vertical
+                  Federated Learning},
+  author={Aditya Shankar and
+                  J{\'{e}}r{\'{e}}mie Decouchant and
+                  Dimitra Gkorou and
+                  Rihan Hai and
+                Lydia Y. Chen},
+  booktitle={20th International Conference on Availability, Reliability and Security,
+  year={2025}
+}
+```
+</details>
 <br>
 
-### 📄  GTV: Generating Tabular Data via Vertical Federated Learning**  
+hare Secrets for Privacy: Confidential Forecasting with Vertical Federated Learning
+
+### 📄  GTV: Generating Tabular Data via Vertical Federated Learning
 *DSN 2025*  
 💻 **Code:** [GitHub](https://github.com/zhao-zilong/gtv)
 <details>
@@ -159,6 +180,33 @@ title: Papers with code
 </details>
 <br>
 
+
+
+
+
+### 📄 LeadFL: Client Self-Defense against Model Poisoning in Federated Learning.
+*ICML 2023*  
+💻 **Code:** [GitHub](https://github.com/chaoyitud/LeadFL)  
+<details>
+<summary>Show citation</summary>
+```bibtex
+@inproceedings{ZhuICML23FL,
+  author       = {Chaoyi Zhu and
+                  Stefanie Roos and
+                  Lydia Y. Chen},
+  editor       = {Andreas Krause and
+                  Emma Brunskill and
+                  Kyunghyun Cho and
+                  Barbara Engelhardt and
+                  Sivan Sabato and
+                  Jonathan Scarlett},
+  title        = {LeadFL: Client Self-Defense against Model Poisoning in Federated Learning},
+  booktitle    = {International Conference on Machine Learning},
+  volume       = {202},
+}
+```
+</details>
+<br>
 
 
 ### 📄 On Quantifying the Gradient Inversion Risk of Data Reuse in Federated Learning Systems
