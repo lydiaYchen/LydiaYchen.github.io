@@ -7,7 +7,7 @@ title: Papers with code
 
 
 
-### TabWak: A Watermark for Tabular Diffusion Models**   
+### 📄 TabWak: A Watermark for Tabular Diffusion Models**   
 *ICLR 2025 (Spotlight)*  🏆
 💻 **Code:** [GitHub](https://github.com/chaoyitud/TabWak)  
  <details><summary>Show citation</summary>
@@ -23,9 +23,11 @@ title: Papers with code
 </details>
 
 
-### Duwak: Dual Watermarks in Large Language Models  
+
+### 📄 Duwak: Dual Watermarks in Large Language Models  
 *ACL 2024*  
-💻 **Code:** [GitHub](https://github.com/chaoyitud/Dual-Watermarks)   <details>
+💻 **Code:** [GitHub](https://github.com/chaoyitud/Dual-Watermarks)
+<details>
 <summary>Show citation</summary>
 ```bibtex
 @inproceedings{duwak2024,
@@ -39,7 +41,7 @@ title: Papers with code
 
 
 
-### WaveStitch: Flexible and Fast Conditional Time Series Generation with Diffusion Models 
+### 📄 WaveStitch: Flexible and Fast Conditional Time Series Generation with Diffusion Models 
 💻 **Code:** [GitHub](https://github.com/adis98/HierarchicalTS)  
 <details>
 <summary>Show citation</summary>
@@ -56,7 +58,7 @@ title: Papers with code
 
 
 
-### Federated Time Series Generation on Feature and Temporally Misaligned Data  
+### 📄 Federated Time Series Generation on Feature and Temporally Misaligned Data  
 *ECML 2025*  
 💻 **Code:** [GitHub](https://github.com/soizhiwen/FedTDD)  
 <details>
@@ -71,7 +73,8 @@ title: Papers with code
 ```
 </details>
 
-### TS-Inverse: A Gradient Inversion Attack Tailored for Federated Time Series Forecasting Models
+
+### 📄 TS-Inverse: A Gradient Inversion Attack Tailored for Federated Time Series Forecasting Models
 *SaTML 2025*  
 💻 **Code:** [GitHub](https://github.com/Capsar/ts-inverse)  
 <details>
@@ -87,7 +90,7 @@ title: Papers with code
 </details>
 
 
-### TV: Generating Tabular Data via Vertical Federated Learning**  
+### 📄  GTV: Generating Tabular Data via Vertical Federated Learning**  
 *DSN 2025*  
 💻 **Code:** [GitHub](https://github.com/zhao-zilong/gtv)
 <details>
@@ -102,7 +105,8 @@ title: Papers with code
 ```
 </details>
 
-### TabuLa: Harnessing Language Models for Tabular Data Synthesis 
+
+### 📄 TabuLa: Harnessing Language Models for Tabular Data Synthesis 
 *PAKDD25*
 💻 **Code:** [GitHub](https://github.com/zhao-zilong/Tabula)  
 <details>
@@ -118,7 +122,7 @@ title: Papers with code
 </details>
 
 
-### SkipPipe: Partial and Reordered Pipelining Framework for Training LLMs in Heterogeneous Networks  
+### 📄 SkipPipe: Partial and Reordered Pipelining Framework for Training LLMs in Heterogeneous Networks  
 💻 **Code:** [GitHub](https://github.com/gensyn-ai/skippipe)  
  <details>
 <summary>Show citation</summary>
@@ -136,7 +140,7 @@ title: Papers with code
 
 
 
-### On Quantifying the Gradient Inversion Risk of Data Reuse in Federated Learning Systems
+### 📄 On Quantifying the Gradient Inversion Risk of Data Reuse in Federated Learning Systems
 *SRDS 2024*  
 💻 **Code:** [GitHub](https://github.com/GillHuang-Xtler/CGI_multiserver_inversion)  
 <details>
@@ -153,7 +157,7 @@ title: Papers with code
 
 
 
-### Fabricated Flips: Poisoning Federated Learning without Data
+### 📄 Fabricated Flips: Poisoning Federated Learning without Data
 *DSN 2023*  
 💻 **Code:** [GitHub](https://github.com/GillHuang-Xtler/DFA_untargeted_attack)  
 <details>
@@ -169,7 +173,7 @@ title: Papers with code
 </details>
 
 
-### CTAB-GAN: Effective Table Data Synthesizing
+### 📄 CTAB-GAN: Effective Table Data Synthesizing
 *ACML 2021*  
 💻 **Code:** [GitHub](https://github.com/Team-TUD/CTAB-GAN)  
 <details>
