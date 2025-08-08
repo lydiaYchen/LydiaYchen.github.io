@@ -140,8 +140,8 @@ Caspar Meijer, Jiyue Huang, Shreshtha Sharma, Elena Lazovik, Lydia Y. Chen
                    Elena Lazovik and
                    Lydia Y. Chen},
     title       = {TS-Inverse: {A} Gradient Inversion Attack Tailored for Federated Time Series Forecasting Models},
-    booktitle   = {{IEEE} Conference on Secure and Trustworthy Machine Learning, SaTML 2025},
-    publisher   = {{IEEE}},
+    booktitle   = {IEEE Conference on Secure and Trustworthy Machine Learning, SaTML 2025},
+    publisher   = {IEEE},
     year        = {2025},
     doi         = {10.1109/SATML64287.2025.00014}
 }
@@ -258,7 +258,7 @@ Jiyue Huang, Lydia Y. Chen, Stefanie Roos
                    Stefanie Roos},
     title       = {On Quantifying the Gradient Inversion Risk of Data Reuse in Federated Learning Systems},
     booktitle   = {43rd International Symposium on Reliable Distributed Systems, {SRDS} 2024},
-    publisher   = {{IEEE}},
+    publisher   = {IEEE},
     year        = {2024},
     doi         = {10.1109/SRDS64841.2024.00031}
 }
