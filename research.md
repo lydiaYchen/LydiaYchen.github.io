@@ -7,13 +7,10 @@ title: Research (Papers with code)
 
 
 
-
-### TabWak: A Watermark for Tabular Diffusion Models 🏆  
+**TabWak: A Watermark for Tabular Diffusion Models** 🏆  
 *ICLR 2025 (Spotlight)*  
 💻 **Code:** [GitHub](https://github.com/chaoyitud/TabWak)  
-📝 **BibTeX:** <details>
-<summary>Show citation</summary>
-
+ <details><summary>Show citation</summary>
 ```bibtex
 @inproceedings{zhu2025tabwak,
   title={TabWak: A Watermark for Tabular Diffusion Models},
@@ -25,6 +22,9 @@ title: Research (Papers with code)
 ```
 
 </details>
+
+
+
 
 ### WaveStitch: Flexible and Fast Conditional Time Series Generation with Diffusion Models 
 *CoRR 2025*  
