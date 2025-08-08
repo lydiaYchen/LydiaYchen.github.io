@@ -81,30 +81,6 @@ Chaoyi Zhu, Jeroen Galjaard, Pin-Yu Chen, Lydia Y. Chen
 
 <br>
 
-## Federated Time Series Generation on Feature and Temporally Misaligned Data
-
-Zhi Wen Soi, Chenrui Fan, Aditya Shankar, Abele Mălan, Lydia Y. Chen
-
-### **ECML 2025:** [📄 Paper](https://arxiv.org/pdf/2410.21072) | [💻 Code](https://github.com/soizhiwen/FedTDD)
-
-<details>
-<summary>Citation</summary>
-
-```bibtex
-@inproceedings{soi2025fedtdd,
-    author      = {Zhi Wen Soi and
-                   Chenrui Fan and
-                   Aditya Shankar and
-                   Abele Mălan and
-                   Lydia Y. Chen},
-    title       = {Federated Time Series Generation on Feature and Temporally Misaligned Data},
-    booktitle   = {Machine Learning and Knowledge Discovery in Databases. Research Track - European Conference, {ECML} {PKDD} 2025},
-    year        = {2025}
-}
-```
-</details>
-
-<br>
 
 ## CCBNet: Confidential Collaborative Bayesian Networks Inference
 
@@ -159,31 +135,57 @@ Caspar Meijer, Jiyue Huang, Shreshtha Sharma, Elena Lazovik, Lydia Y. Chen
 
 <br>
 
-## Share Secrets for Privacy: Confidential Forecasting with Vertical Federated Learning
 
-Aditya Shankar, Jérémie Decouchant Decouchant, Dimitra Gkorou, Rihan Hai, Lydia Y. Chen
+## BatMan-CLR: Making Few-shots Meta-Learners Resilient Against Label Noise.
 
-### **ARES 2025:** [📄 Paper](https://arxiv.org/pdf/2405.20761) | [💻 Code](https://github.com/adis98/STV)
+Jeroen Galjaard, Robert Birke, Juan Pérez, and Lydia Y. chen
+
+### **ECML 2025:** [📄 Paper](https://github.com/JMGaljaard/batman-clr-noisy-meta-learning) | [💻 Code](https://github.com/JMGaljaard/batman-clr-noisy-meta-learning)
 
 <details>
 <summary>Citation</summary>
 
 ```bibtex
-@inproceedings{shankar2025stv,
-    author      = {Aditya Shankar and
-                   Jérémie Decouchant and
-                   Dimitra Gkorou and
-                   Rihan Hai and
+@inproceedings{soi2025fedtdd,
+    author      = {Jeroen Galjaard  and
+                   Robert Birke and
+                   Juan Perez and
                    Lydia Y. Chen},
-    title       = {Share Secrets for Privacy: Confidential Forecasting with Vertical Federated Learning},
-    booktitle   = {Proceedings of the 19th International Conference on Availability, Reliability and Security, {ARES} 2025},
-    publisher   = {{ACM}},
+    title       = {BatMan-CLR: Making Few-shots Meta-Learners Resilient Against Label Noise.},
+    booktitle   = {Machine Learning and Knowledge Discovery in Databases. Research Track - European Conference, {ECML} {PKDD} 2025},
     year        = {2025}
 }
 ```
 </details>
 
 <br>
+
+## Federated Time Series Generation on Feature and Temporally Misaligned Data
+
+Zhi Wen Soi, Chenrui Fan, Aditya Shankar, Abele Mălan, Lydia Y. Chen
+
+### **ECML 2025:** [📄 Paper](https://arxiv.org/pdf/2410.21072) | [💻 Code](https://github.com/soizhiwen/FedTDD)
+
+<details>
+<summary>Citation</summary>
+
+```bibtex
+@inproceedings{soi2025fedtdd,
+    author      = {Zhi Wen Soi and
+                   Chenrui Fan and
+                   Aditya Shankar and
+                   Abele Mălan and
+                   Lydia Y. Chen},
+    title       = {Federated Time Series Generation on Feature and Temporally Misaligned Data},
+    booktitle   = {Machine Learning and Knowledge Discovery in Databases. Research Track - European Conference, {ECML} {PKDD} 2025},
+    year        = {2025}
+}
+```
+</details>
+
+<br>
+
+
 
 ## TabuLa: Harnessing Language Models for Tabular Data Synthesis
 
@@ -211,32 +213,33 @@ Zilong Zhao, Robert Birke, Lydia Chen
 
 <br>
 
-## BatMan-CLR: Making Few-shots Meta-Learners Resilient Against Label Noise.
 
-Jeroen Galjaard, Robert Birke, Juan Pérez, and Lydia Y. chen
 
-### **ECML 2025:** [📄 Paper](https://github.com/JMGaljaard/batman-clr-noisy-meta-learning) | [💻 Code](https://github.com/JMGaljaard/batman-clr-noisy-meta-learning)
+## Share Secrets for Privacy: Confidential Forecasting with Vertical Federated Learning
+
+Aditya Shankar, Jérémie Decouchant Decouchant, Dimitra Gkorou, Rihan Hai, Lydia Y. Chen
+
+### **ARES 2025:** [📄 Paper](https://arxiv.org/pdf/2405.20761) | [💻 Code](https://github.com/adis98/STV)
 
 <details>
 <summary>Citation</summary>
 
 ```bibtex
-@inproceedings{soi2025fedtdd,
-    author      = {Jeroen Galjaard  and
-                   Robert Birke and
-                   Juan Perez and
+@inproceedings{shankar2025stv,
+    author      = {Aditya Shankar and
+                   Jérémie Decouchant and
+                   Dimitra Gkorou and
+                   Rihan Hai and
                    Lydia Y. Chen},
-    title       = {BatMan-CLR: Making Few-shots Meta-Learners Resilient Against Label Noise.},
-    booktitle   = {Machine Learning and Knowledge Discovery in Databases. Research Track - European Conference, {ECML} {PKDD} 2025},
+    title       = {Share Secrets for Privacy: Confidential Forecasting with Vertical Federated Learning},
+    booktitle   = {Proceedings of the 19th International Conference on Availability, Reliability and Security, {ARES} 2025},
+    publisher   = {{ACM}},
     year        = {2025}
 }
 ```
 </details>
 
 <br>
-
-
-
 
 ## SkipPipe: Partial and Reordered Pipelining Framework for Training LLMs in Heterogeneous Networks
 
