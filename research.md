@@ -76,6 +76,24 @@ title: Papers with code
 </details>
 <br>
 
+### 📄 CCBNet: Confidential Collaborative Bayesian Networks Inference. 
+💻 **Code:** [GitHub](https://github.com/adis98/STV)  
+<details>
+<summary>Show citation</summary>
+```bibtex
+@inproceedings{Malan25FCCCBNet,
+  title={CCBNet: Confidential Collaborative Bayesian Networks Inference},
+  author={Abele Malan and
+                  J{\'{e}}r{\'{e}}mie Decouchant and
+                  Thiago Guzella and
+                  Lydia Y. Chen},
+  booktile={Finacnail Crypto and Data Engineering},
+  year={2025}
+}
+```
+</details>
+<br>
+
 ### 📄 TS-Inverse: A Gradient Inversion Attack Tailored for Federated Time Series Forecasting Models
 *SaTML 2025*  
 💻 **Code:** [GitHub](https://github.com/Capsar/ts-inverse)  
