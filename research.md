@@ -183,7 +183,7 @@ Zhi Wen Soi, Chenrui Fan, Aditya Shankar, Abele Mălan, Lydia Y. Chen
 ```
 </details>
 
-<br>
+<hr>
 
 
 
@@ -211,7 +211,7 @@ Zilong Zhao, Robert Birke, Lydia Chen
 ```
 </details>
 
-<br>
+<hr>
 
 
 
