@@ -364,7 +364,7 @@ Jiyue Huang, Zilong Zhao, Lydia Y. Chen, Stefanie Roos
 
 Zilong Zhao, Aditya Kunar, Hiek Van der Scheer, Robert Birke, Lydia Y. Chen
 
-## ACML 2021: [📄 Paper](https://arxiv.org/pdf/2102.08369) | [💻 Code](https://github.com/Team-TUD/CTAB-GAN)
+### ACML 2021: [📄 Paper](https://arxiv.org/pdf/2102.08369) | [💻 Code](https://github.com/Team-TUD/CTAB-GAN)
 
 <details>
 <summary>Citation</summary>
