@@ -2,17 +2,18 @@
 layout: page
 title: Research (Papers with code)
 ---
-{::options parse_block_html="true" /}
+
 <a name="top"></a> 
 
 
 
 
-**TabWak: A Watermark for Tabular Diffusion Models** 🏆  
+### TabWak: A Watermark for Tabular Diffusion Models 🏆  
 *ICLR 2025 (Spotlight)*  
 💻 **Code:** [GitHub](https://github.com/chaoyitud/TabWak)  
 📝 **BibTeX:** <details>
 <summary>Show citation</summary>
+
 ```bibtex
 @inproceedings{zhu2025tabwak,
   title={TabWak: A Watermark for Tabular Diffusion Models},
@@ -22,11 +23,189 @@ title: Research (Papers with code)
   note={Spotlight}
 }
 ```
+
 </details>
 
+### WaveStitch: Flexible and Fast Conditional Time Series Generation with Diffusion Models 
+*CoRR 2025*  
+💻 **Code:** [GitHub](https://github.com/adis98/HierarchicalTS)  
+📝 **BibTeX:** <details>
+<summary>Show citation</summary>
+```bibtex
+@article{shankar2025wavestitch,
+  title={WaveStitch: Flexible and Fast Conditional Time Series Generation with Diffusion Models},
+  author={Shankar, A. and Chen, Lydia Y. and van Deursen, A. and Hai, R.},
+  journal={CoRR},
+  volume={abs/2503.06231},
+  year={2025}
+}
+```
+</details>
 
+### SkipPipe: Partial and Reordered Pipelining Framework for Training LLMs in Heterogeneous Networks  
+*CoRR 2025*  
+💻 **Code:** [GitHub](https://github.com/gensyn-ai/skippipe)  
+📝 **BibTeX:** <details>
+<summary>Show citation</summary>
 
+```bibtex
+@article{blagoev2025skippipe,
+  title={SkipPipe: Partial and Reordered Pipelining Framework for Training LLMs in Heterogeneous Networks},
+  author={Blagoev, N. and Chen, Lydia Y. and Ersoy, O.},
+  journal={CoRR},
+  volume={abs/2502.19913},
+  year={2025}
+}
+```
 
+</details>
+
+**Federated Time Series Generation on Feature and Temporally Misaligned Data**  
+*ECML 2025*  
+💻 **Code:** [GitHub](https://github.com/soizhiwen/FedTDD)  
+📝 **BibTeX:** <details>
+<summary>Show citation</summary>
+
+```bibtex
+@inproceedings{fedtdd2025,
+  title={Federated Time Series Generation on Feature and Temporally Misaligned Data},
+  author={},
+  booktitle={European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases},
+  year={2025}
+}
+```
+
+</details>
+
+**TS-Inverse: A Gradient Inversion Attack Tailored for Federated Time Series Forecasting Models**  
+*SaTML 2025*  
+💻 **Code:** [GitHub](https://github.com/Capsar/ts-inverse)  
+📝 **BibTeX:** <details>
+<summary>Show citation</summary>
+
+```bibtex
+@inproceedings{meijer2025tsinverse,
+  title={TS-Inverse: A Gradient Inversion Attack Tailored for Federated Time Series Forecasting Models},
+  author={Meijer, C. and Huang, J. and Sharma, S. and Lazovik, E. and Chen, Lydia Y.},
+  booktitle={IEEE Conference on Secure and Trustworthy Machine Learning},
+  year={2025}
+}
+```
+
+</details>
+
+**TabuLa: Harnessing Language Models for Tabular Data Synthesis**  
+*PAKDD 2025*  
+💻 **Code:** [GitHub](https://github.com/zhao-zilong/Tabula)  
+📝 **BibTeX:** <details>
+<summary>Show citation</summary>
+
+```bibtex
+@inproceedings{tabula2025,
+  title={TabuLa: Harnessing Language Models for Tabular Data Synthesis},
+  author={},
+  booktitle={Pacific-Asia Conference on Knowledge Discovery and Data Mining},
+  year={2025}
+}
+```
+
+</details>
+
+**TV: Generating Tabular Data via Vertical Federated Learning**  
+*DSN 2025*  
+💻 **Code:** [GitHub](https://github.com/zhao-zilong/gtv)  
+📝 **BibTeX:** <details>
+<summary>Show citation</summary>
+
+```bibtex
+@inproceedings{tv2025,
+  title={TV: Generating Tabular Data via Vertical Federated Learning},
+  author={},
+  booktitle={IEEE/IFIP International Conference on Dependable Systems and Networks},
+  year={2025}
+}
+```
+
+</details>
+
+## 2024
+
+**Duwak: Dual Watermarks in Large Language Models**  
+*ACL 2024*  
+💻 **Code:** [GitHub](https://github.com/chaoyitud/Dual-Watermarks)  
+📝 **BibTeX:** <details>
+<summary>Show citation</summary>
+
+```bibtex
+@inproceedings{duwak2024,
+  title={Duwak: Dual Watermarks in Large Language Models},
+  author={},
+  booktitle={Annual Meeting of the Association for Computational Linguistics},
+  year={2024}
+}
+```
+
+</details>
+
+**On Quantifying the Gradient Inversion Risk of Data Reuse in Federated Learning Systems**  
+*SRDS 2024*  
+💻 **Code:** [GitHub](https://github.com/GillHuang-Xtler/CGI_multiserver_inversion)  
+📝 **BibTeX:** <details>
+<summary>Show citation</summary>
+
+```bibtex
+@inproceedings{huang2024quantifying,
+  title={On Quantifying the Gradient Inversion Risk of Data Reuse in Federated Learning Systems},
+  author={Huang, J. and Chen, Lydia Y. and Roos, S.},
+  booktitle={International Symposium on Reliable Distributed Systems},
+  year={2024}
+}
+```
+
+</details>
+
+## 2023
+
+**Fabricated Flips: Poisoning Federated Learning without Data**  
+*DSN 2023*  
+💻 **Code:** [GitHub](https://github.com/GillHuang-Xtler/DFA_untargeted_attack)  
+📝 **BibTeX:** <details>
+<summary>Show citation</summary>
+
+```bibtex
+@inproceedings{huang2023fabricated,
+  title={Fabricated Flips: Poisoning Federated Learning without Data},
+  author={Huang, J. and Zhao, Z. and Chen, Lydia Y. and Roos, S.},
+  booktitle={Annual IEEE/IFIP International Conference on Dependable Systems and Networks},
+  year={2023}
+}
+```
+
+</details>
+
+## 2021
+
+**CTAB-GAN: Effective Table Data Synthesizing**  
+*ACML 2021*  
+💻 **Code:** [GitHub](https://github.com/Team-TUD/CTAB-GAN)  
+📝 **BibTeX:** <details>
+<summary>Show citation</summary>
+
+```bibtex
+@inproceedings{zhao2021ctabgan,
+  title={CTAB-GAN: Effective Table Data Synthesizing},
+  author={Zhao, Z. and Kunar, A. and Birke, R. and Chen, Lydia Y.},
+  booktitle={Asian Conference on Machine Learning},
+  year={2021},
+  editor={Balasubramanian, V. N. and Tsang, I. W.}
+}
+```
+
+</details>
+
+---
+
+*Last updated: August 2025*
 
 <!--
 Our research themes span in the following areas. 
