@@ -1,18 +1,37 @@
 ---
 layout: page
-title: Research
+title: Research (Papers with code)
 ---
 {::options parse_block_html="true" /}
 <a name="top"></a> 
 
 
+
+
+**TabWak: A Watermark for Tabular Diffusion Models** 🏆  
+*ICLR 2025 (Spotlight)*  
+💻 **Code:** [GitHub](https://github.com/chaoyitud/TabWak)  
+📝 **BibTeX:** <details>
+<summary>Show citation</summary>
+```bibtex
+@inproceedings{zhu2025tabwak,
+  title={TabWak: A Watermark for Tabular Diffusion Models},
+  author={Zhu, Chaoyi and Tang, Jiayi and Galjaard, Jeroen M. and Chen, Pin-Yu and Birke, Robert and Bos, Cornelis and Chen, Lydia Y.},
+  booktitle={International Conference on Learning Representations},
+  year={2025},
+  note={Spotlight}
+}
+```
+</details>
+
+
+<!--
 Our research themes span in the following areas. 
 
 - [Generative Models](#generative-models)
 - [Robust, and Private Learning](#robust-and-private-learning)
 - [Federated Learning ](#federated-learning-)
   
-
 
 # Generative Models<a name="Generative"></a>
 
@@ -54,3 +73,4 @@ In this line of research, we are designing learning algorithms and prototyping s
  </a>
 </figure>
 
+-->
