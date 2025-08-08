@@ -7,7 +7,7 @@ title: Papers with code
 
 
 
-### 📄 TabWak: A Watermark for Tabular Diffusion Models**   
+### 📄 TabWak: A Watermark for Tabular Diffusion Models
 *ICLR 2025 (Spotlight)*  🏆
 
 💻 **Code:** [GitHub](https://github.com/chaoyitud/TabWak)  
@@ -57,7 +57,7 @@ title: Papers with code
 }
 ```
 </details>
-
+<br>
 
 
 ### 📄 Federated Time Series Generation on Feature and Temporally Misaligned Data  
@@ -74,7 +74,7 @@ title: Papers with code
 }
 ```
 </details>
-
+<br>
 
 ### 📄 TS-Inverse: A Gradient Inversion Attack Tailored for Federated Time Series Forecasting Models
 *SaTML 2025*  
@@ -91,6 +91,7 @@ title: Papers with code
 ```
 </details>
 
+<br>
 
 ### 📄  GTV: Generating Tabular Data via Vertical Federated Learning**  
 *DSN 2025*  
@@ -106,7 +107,7 @@ title: Papers with code
 }
 ```
 </details>
-
+<br>
 
 ### 📄 TabuLa: Harnessing Language Models for Tabular Data Synthesis 
 *PAKDD25*
@@ -122,7 +123,7 @@ title: Papers with code
 }
 ```
 </details>
-
+<br>
 
 ### 📄 SkipPipe: Partial and Reordered Pipelining Framework for Training LLMs in Heterogeneous Networks  
 💻 **Code:** [GitHub](https://github.com/gensyn-ai/skippipe)  
@@ -138,7 +139,7 @@ title: Papers with code
 }
 ```
 </details>
-
+<br>
 
 
 
@@ -156,7 +157,7 @@ title: Papers with code
 }
 ```
 </details>
-
+<br>
 
 
 ### 📄 Fabricated Flips: Poisoning Federated Learning without Data
@@ -173,7 +174,7 @@ title: Papers with code
 }
 ```
 </details>
-
+<br>
 
 ### 📄 CTAB-GAN: Effective Table Data Synthesizing
 *ACML 2021*  
@@ -191,7 +192,7 @@ title: Papers with code
 ```
 </details>
 
-
+<br>
 
 <!--
 Our research themes span in the following areas. 
