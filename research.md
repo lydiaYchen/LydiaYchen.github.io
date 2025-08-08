@@ -30,7 +30,7 @@ Chaoyi Zhu, Jeroen Galjaard, Pin-Yu Chen, Lydia Y. Chen
 ```
 </details>
 
-<br>
+<hr>
 
 ## Duwak: Dual Watermarks in Large Language Models
 
@@ -56,7 +56,7 @@ Chaoyi Zhu, Jeroen Galjaard, Pin-Yu Chen, Lydia Y. Chen
 ```
 </details>
 
-<br>
+<hr>
 
 ## WaveStitch: Flexible and Fast Conditional Time Series Generation with Diffusion Models
 
