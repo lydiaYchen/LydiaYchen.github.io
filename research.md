@@ -291,7 +291,7 @@ Chaoyi Zhu, Stefanie Roos, Lydia Y. Chen
 
 Jiyue Huang, Chi Hong, Stefanie Roos and Lydia Y. Chen
 
-### **ARES 2025:** [📄 Paper](https://arxiv.org/pdf/2405.20761) | [💻 Code](https://github.com/adis98/STV)
+### **ARES 2025:** [📄 Paper](https://github.com/GillHuang-Xtler/GIDM_diffusion_inversion) | [💻 Code](https://github.com/GillHuang-Xtler/GIDM_diffusion_inversion)
 
 <details>
 <summary>Citation</summary>
@@ -302,7 +302,7 @@ Jiyue Huang, Chi Hong, Stefanie Roos and Lydia Y. Chen
                   Chi Hong and
                    Stefanie Ross and
                    Lydia Y. Chen},
-    title       = {S	Gradient Inversion of Federated Diffusion Models},
+    title       = {Gradient Inversion of Federated Diffusion Models},
     booktitle   = {Proceedings of the 19th International Conference on Availability, Reliability and Security, {ARES} 2025},
     publisher   = {{ACM}},
     year        = {2025}
@@ -317,7 +317,7 @@ Jiyue Huang, Chi Hong, Stefanie Roos and Lydia Y. Chen
 
 Jiyue Huang, Lydia Y. Chen, Stefanie Roos
 
-### **ARES 2025:** [📄 Paper](https://github.com/GillHuang-Xtler/GIDM_diffusion_inversion) | [💻 Code](https://github.com/GillHuang-Xtler/GIDM_diffusion_inversion)
+### **SRDS 2024:** [📄 Paper](https://github.com/GillHuang-Xtler/GIDM_diffusion_inversion) | [💻 Code](https://github.com/GillHuang-Xtler/CGI_multiserver_inversion)
 
 <details>
 <summary>Citation</summary>
