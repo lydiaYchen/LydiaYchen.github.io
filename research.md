@@ -7,12 +7,12 @@ title: Papers with code
 
 Chaoyi Zhu, Jeroen Galjaard, Pin-Yu Chen, Lydia Y. Chen
 
-### **ICLR 2025 (🏆 Spotlight):** [📄 Paper](https://openreview.net/pdf?id=71pur4y8gs) | [💻 Code](https://github.com/chaoyitud/TabWak) | [🖼️ Poster](https://iclr.cc/media/PosterPDFs/ICLR%202025/30853.png)
+### ICLR 2025 (🏆 Spotlight): [📄 Paper](https://openreview.net/pdf?id=71pur4y8gs) | [💻 Code](https://github.com/chaoyitud/TabWak) | [🖼️ Poster](https://iclr.cc/media/PosterPDFs/ICLR%202025/30853.png)
 
 <details>
 <summary>Citation</summary>
 
-```bibtex
+<pre>
 @inproceedings{zhu2025tabwak,
   author    = {Chaoyi Zhu and
                Jiayi Tang and
@@ -26,22 +26,21 @@ Chaoyi Zhu, Jeroen Galjaard, Pin-Yu Chen, Lydia Y. Chen
   publisher = {OpenReview.net},
   year      = {2025}
 }
-
-```
+</pre>
 </details>
 
-<hr>
+---
 
 ## Duwak: Dual Watermarks in Large Language Models
 
 Chaoyi Zhu, Jeroen Galjaard, Pin-Yu Chen, Lydia Y. Chen
 
-### **ACL 2024:** [📄 Paper](https://aclanthology.org/2024.findings-acl.678.pdf) | [💻 Code](https://github.com/chaoyitud/Dual-Watermarks)
+### ACL 2024: [📄 Paper](https://aclanthology.org/2024.findings-acl.678.pdf) | [💻 Code](https://github.com/chaoyitud/Dual-Watermarks)
 
 <details>
 <summary>Citation</summary>
 
-```bibtex
+<pre>
 @inproceedings{zhu2024duwak,
     author      = {Chaoyi Zhu and
                    Jeroen M. Galjaard and
@@ -53,10 +52,10 @@ Chaoyi Zhu, Jeroen Galjaard, Pin-Yu Chen, Lydia Y. Chen
     year        = {2024},
     doi         = {10.18653/v1/2024.findings-acl.678}
 }
-```
+</pre>
 </details>
 
-<hr>
+---
 
 ## WaveStitch: Flexible and Fast Conditional Time Series Generation with Diffusion Models
 
@@ -65,7 +64,7 @@ Chaoyi Zhu, Jeroen Galjaard, Pin-Yu Chen, Lydia Y. Chen
 <details>
 <summary>Citation</summary>
 
-```bibtex
+<pre>
 @article{shankar2025wavestitch,
     author  = {Aditya Shankar and
                Lydia Y. Chen and
@@ -76,22 +75,22 @@ Chaoyi Zhu, Jeroen Galjaard, Pin-Yu Chen, Lydia Y. Chen
     volume  = {abs/2503.06231},
     year    = {2025}
 }
-```
+</pre>
 </details>
 
-<br>
+---
 
 
 ## CCBNet: Confidential Collaborative Bayesian Networks Inference
 
 Abele Mălan, Thiago Guzella, Jérémie Decouchant, Lydia Y. Chen
 
-### **FC 2025:** [📄 Paper](https://fc25.ifca.ai/preproceedings/129.pdf) | [💻 Code](https://github.com/AbeleMM/ccbnet)
+### FC 2025: [📄 Paper](https://fc25.ifca.ai/preproceedings/129.pdf) | [💻 Code](https://github.com/AbeleMM/ccbnet)
 
 <details>
 <summary>Citation</summary>
 
-```bibtex
+<pre>
 @inproceedings{malan2025ccbnet,
     author      = {Abele Mălan and
                    Thiago Guzella and
@@ -103,21 +102,21 @@ Abele Mălan, Thiago Guzella, Jérémie Decouchant, Lydia Y. Chen
     publisher   = {Springer},
     year        = {2025},
 }
-```
+</pre>
 </details>
 
-<br>
+---
 
 ## TS-Inverse: A Gradient Inversion Attack Tailored for Federated Time Series Forecasting Models
 
 Caspar Meijer, Jiyue Huang, Shreshtha Sharma, Elena Lazovik, Lydia Y. Chen
 
-### **SaTML 2025:** [📄 Paper](https://fc25.ifca.ai/preproceedings/129.pdf) | [💻 Code](https://github.com/Capsar/ts-inverse)
+### SaTML 2025: [📄 Paper](https://fc25.ifca.ai/preproceedings/129.pdf) | [💻 Code](https://github.com/Capsar/ts-inverse)
 
 <details>
 <summary>Citation</summary>
 
-```bibtex
+<pre>
 @inproceedings{meijer2025tsinverse,
     author      = {Caspar Meijer and
                    Jiyue Huang and
@@ -130,23 +129,22 @@ Caspar Meijer, Jiyue Huang, Shreshtha Sharma, Elena Lazovik, Lydia Y. Chen
     year        = {2025},
     doi         = {10.1109/SATML64287.2025.00014}
 }
-```
+</pre>
 </details>
 
-<br>
+---
 
-
-## BatMan-CLR: Making Few-shots Meta-Learners Resilient Against Label Noise.
+## BatMan-CLR: Making Few-shots Meta-Learners Resilient Against Label Noise
 
 Jeroen Galjaard, Robert Birke, Juan Pérez, and Lydia Y. chen
 
-### **ECML 2025:** [📄 Paper](https://github.com/JMGaljaard/batman-clr-noisy-meta-learning) | [💻 Code](https://github.com/JMGaljaard/batman-clr-noisy-meta-learning)
+### ECML 2025: [📄 Paper](https://arxiv.org/pdf/2309.06046) | [💻 Code](https://github.com/JMGaljaard/batman-clr-noisy-meta-learning)
 
 <details>
 <summary>Citation</summary>
 
-```bibtex
-@inproceedings{soi2025fedtdd,
+<pre>
+@inproceedings{galjaard2025batmanclr,
     author      = {Jeroen Galjaard  and
                    Robert Birke and
                    Juan Perez and
@@ -155,21 +153,21 @@ Jeroen Galjaard, Robert Birke, Juan Pérez, and Lydia Y. chen
     booktitle   = {Machine Learning and Knowledge Discovery in Databases. Research Track - European Conference, {ECML} {PKDD} 2025},
     year        = {2025}
 }
-```
+</pre>
 </details>
 
-<br>
+---
 
 ## Federated Time Series Generation on Feature and Temporally Misaligned Data
 
 Zhi Wen Soi, Chenrui Fan, Aditya Shankar, Abele Mălan, Lydia Y. Chen
 
-### **ECML 2025:** [📄 Paper](https://arxiv.org/pdf/2410.21072) | [💻 Code](https://github.com/soizhiwen/FedTDD)
+### ECML 2025: [📄 Paper](https://arxiv.org/pdf/2410.21072) | [💻 Code](https://github.com/soizhiwen/FedTDD)
 
 <details>
 <summary>Citation</summary>
 
-```bibtex
+<pre>
 @inproceedings{soi2025fedtdd,
     author      = {Zhi Wen Soi and
                    Chenrui Fan and
@@ -180,23 +178,21 @@ Zhi Wen Soi, Chenrui Fan, Aditya Shankar, Abele Mălan, Lydia Y. Chen
     booktitle   = {Machine Learning and Knowledge Discovery in Databases. Research Track - European Conference, {ECML} {PKDD} 2025},
     year        = {2025}
 }
-```
+</pre>
 </details>
 
-<br>
-
-
+---
 
 ## TabuLa: Harnessing Language Models for Tabular Data Synthesis
 
 Zilong Zhao, Robert Birke, Lydia Chen
 
-### **PAKDD 2025:** [📄 Paper](https://arxiv.org/pdf/2310.12746) | [💻 Code](https://github.com/zhao-zilong/Tabula)
+### PAKDD 2025: [📄 Paper](https://arxiv.org/pdf/2310.12746) | [💻 Code](https://github.com/zhao-zilong/Tabula)
 
 <details>
 <summary>Citation</summary>
 
-```bibtex
+<pre>
 @inproceedings{zhao2025stv,
     author      = {Zilong Zhao and
                    Robert Birke and
@@ -208,23 +204,21 @@ Zilong Zhao, Robert Birke, Lydia Chen
     year        = {2025},
     doi         = {10.1007/978-981-96-8186-0\_20}
 }
-```
+</pre>
 </details>
 
-<br>
-
-
+---
 
 ## Share Secrets for Privacy: Confidential Forecasting with Vertical Federated Learning
 
 Aditya Shankar, Jérémie Decouchant Decouchant, Dimitra Gkorou, Rihan Hai, Lydia Y. Chen
 
-### **ARES 2025:** [📄 Paper](https://arxiv.org/pdf/2405.20761) | [💻 Code](https://github.com/adis98/STV)
+### ARES 2025: [📄 Paper](https://arxiv.org/pdf/2405.20761) | [💻 Code](https://github.com/adis98/STV)
 
 <details>
 <summary>Citation</summary>
 
-```bibtex
+<pre>
 @inproceedings{shankar2025stv,
     author      = {Aditya Shankar and
                    Jérémie Decouchant and
@@ -236,10 +230,10 @@ Aditya Shankar, Jérémie Decouchant Decouchant, Dimitra Gkorou, Rihan Hai, Lydi
     publisher   = {{ACM}},
     year        = {2025}
 }
-```
+</pre>
 </details>
 
-<br>
+---
 
 ## SkipPipe: Partial and Reordered Pipelining Framework for Training LLMs in Heterogeneous Networks
 
@@ -250,7 +244,7 @@ Nikolay Blagoev, Lydia Y. Chen, Oğuzhan Ersoy
 <details>
 <summary>Citation</summary>
 
-```bibtex
+<pre>
 @inproceedings{blagoev2025skippipe,
     author  = {Nikolay Blagoev and
                 Lydia Yiyu Chen and
@@ -260,21 +254,21 @@ Nikolay Blagoev, Lydia Y. Chen, Oğuzhan Ersoy
     volume  = {abs/2502.19913},
     year    = {2025}
 }
-```
+</pre>
 </details>
 
-<br>
+---
 
 ## LeadFL: Client Self-Defense against Model Poisoning in Federated Learning
 
 Chaoyi Zhu, Stefanie Roos, Lydia Y. Chen
 
-### **ICML 2023:** [📄 Paper](https://proceedings.mlr.press/v202/zhu23j/zhu23j.pdf) | [💻 Code](https://github.com/chaoyitud/LeadFL) | [🖼️ Poster](https://icml.cc/media/PosterPDFs/ICML%202023/24161.png)
+### ICML 2023: [📄 Paper](https://proceedings.mlr.press/v202/zhu23j/zhu23j.pdf) | [💻 Code](https://github.com/chaoyitud/LeadFL) | [🖼️ Poster](https://icml.cc/media/PosterPDFs/ICML%202023/24161.png)
 
 <details>
 <summary>Citation</summary>
 
-```bibtex
+<pre>
 @inproceedings{zhu2023leadfl,
     author      = {Chaoyi Zhu and
                    Stefanie Roos and
@@ -285,24 +279,24 @@ Chaoyi Zhu, Stefanie Roos, Lydia Y. Chen
     publisher   = {{PMLR}},
     year        = {2023}
 }
-```
+</pre>
 </details>
 
-<br>
+---
 
 ## 	Gradient Inversion of Federated Diffusion Models
 
 Jiyue Huang, Chi Hong, Stefanie Roos and Lydia Y. Chen
 
-### **ARES 2025:** [📄 Paper](https://github.com/GillHuang-Xtler/GIDM_diffusion_inversion) | [💻 Code](https://github.com/GillHuang-Xtler/GIDM_diffusion_inversion)
+### ARES 2025: [📄 Paper](https://arxiv.org/pdf/2405.20380) | [💻 Code](https://github.com/GillHuang-Xtler/GIDM_diffusion_inversion)
 
 <details>
 <summary>Citation</summary>
 
-```bibtex
-@inproceedings{shankar2025stv,
+<pre>
+@inproceedings{huang2025gidm,
     author      = {Jiyue Huang and
-                  Chi Hong and
+                   Chi Hong and
                    Stefanie Ross and
                    Lydia Y. Chen},
     title       = {Gradient Inversion of Federated Diffusion Models},
@@ -310,22 +304,21 @@ Jiyue Huang, Chi Hong, Stefanie Roos and Lydia Y. Chen
     publisher   = {{ACM}},
     year        = {2025}
 }
-```
+</pre>
 </details>
 
-<br>
-
+---
 
 ## On Quantifying the Gradient Inversion Risk of Data Reuse in Federated Learning Systems
 
 Jiyue Huang, Lydia Y. Chen, Stefanie Roos
 
-### **SRDS 2024:** [📄 Paper](https://github.com/GillHuang-Xtler/GIDM_diffusion_inversion) | [💻 Code](https://github.com/GillHuang-Xtler/CGI_multiserver_inversion)
+### SRDS 2024: [📄 Paper](https://github.com/GillHuang-Xtler/GIDM_diffusion_inversion) | [💻 Code](https://github.com/GillHuang-Xtler/CGI_multiserver_inversion)
 
 <details>
 <summary>Citation</summary>
 
-```bibtex
+<pre>
 @inproceedings{huang2024cgi,
     author      = {Jiyue Huang and
                    Lydia Y. Chen and
@@ -336,21 +329,21 @@ Jiyue Huang, Lydia Y. Chen, Stefanie Roos
     year        = {2024},
     doi         = {10.1109/SRDS64841.2024.00031}
 }
-```
+</pre>
 </details>
 
-<br>
+---
 
 ## Fabricated Flips: Poisoning Federated Learning without Data
 
 Jiyue Huang, Zilong Zhao, Lydia Y. Chen, Stefanie Roos
 
-### **DSN 2023:** [📄 Paper](https://arxiv.org/pdf/2202.05877) | [💻 Code](https://github.com/GillHuang-Xtler/DFA_untargeted_attack)
+### DSN 2023: [📄 Paper](https://arxiv.org/pdf/2202.05877) | [💻 Code](https://github.com/GillHuang-Xtler/DFA_untargeted_attack)
 
 <details>
 <summary>Citation</summary>
 
-```bibtex
+<pre>
 @inproceedings{huang2024dfa,
     author      = {Jiyue Huang and
                    Zilong Zhao and
@@ -362,21 +355,21 @@ Jiyue Huang, Zilong Zhao, Lydia Y. Chen, Stefanie Roos
     year        = {2023},
     doi         = {10.1109/DSN58367.2023.00036}
 }
-```
+</pre>
 </details>
 
-<br>
+---
 
 ## CTAB-GAN: Effective Table Data Synthesizing
 
 Zilong Zhao, Aditya Kunar, Hiek Van der Scheer, Robert Birke, Lydia Y. Chen
 
-### **ACML 2021:** [📄 Paper](https://arxiv.org/pdf/2102.08369) | [💻 Code](https://github.com/Team-TUD/CTAB-GAN)
+## ACML 2021: [📄 Paper](https://arxiv.org/pdf/2102.08369) | [💻 Code](https://github.com/Team-TUD/CTAB-GAN)
 
 <details>
 <summary>Citation</summary>
 
-```bibtex
+<pre>
 @inproceedings{zhao2021ctabgan,
     author      = {Zilong Zhao and
                    Aditya Kunar and
@@ -388,7 +381,7 @@ Zilong Zhao, Aditya Kunar, Hiek Van der Scheer, Robert Birke, Lydia Y. Chen
     publisher   = {{PMLR}},
     year        = {2021}
 }
-```
+</pre>
 </details>
 
 <!--
