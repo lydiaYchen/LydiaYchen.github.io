@@ -3,7 +3,6 @@ layout: page
 title: Papers with code
 ---
 
-
 ## TabWak: A Watermark for Tabular Diffusion Models
 
 Chaoyi Zhu, Jeroen Galjaard, Pin-Yu Chen, Lydia Y. Chen
@@ -31,6 +30,8 @@ Chaoyi Zhu, Jeroen Galjaard, Pin-Yu Chen, Lydia Y. Chen
 ```
 </details>
 
+<br>
+
 ## Duwak: Dual Watermarks in Large Language Models
 
 Chaoyi Zhu, Jeroen Galjaard, Pin-Yu Chen, Lydia Y. Chen
@@ -55,6 +56,8 @@ Chaoyi Zhu, Jeroen Galjaard, Pin-Yu Chen, Lydia Y. Chen
 ```
 </details>
 
+<br>
+
 ## WaveStitch: Flexible and Fast Conditional Time Series Generation with Diffusion Models
 
 ### [📄 Paper](https://arxiv.org/pdf/2503.06231) | [💻 Code](https://github.com/adis98/HierarchicalTS)
@@ -75,6 +78,8 @@ Chaoyi Zhu, Jeroen Galjaard, Pin-Yu Chen, Lydia Y. Chen
 }
 ```
 </details>
+
+<br>
 
 ## Federated Time Series Generation on Feature and Temporally Misaligned Data
 
@@ -99,6 +104,8 @@ Zhi Wen Soi, Chenrui Fan, Aditya Shankar, Abele Mălan, Lydia Y. Chen
 ```
 </details>
 
+<br>
+
 ## CCBNet: Confidential Collaborative Bayesian Networks Inference
 
 Abele Mălan, Thiago Guzella, Jérémie Decouchant, Lydia Y. Chen
@@ -122,6 +129,8 @@ Abele Mălan, Thiago Guzella, Jérémie Decouchant, Lydia Y. Chen
 }
 ```
 </details>
+
+<br>
 
 ## TS-Inverse: A Gradient Inversion Attack Tailored for Federated Time Series Forecasting Models
 
@@ -148,6 +157,8 @@ Caspar Meijer, Jiyue Huang, Shreshtha Sharma, Elena Lazovik, Lydia Y. Chen
 ```
 </details>
 
+<br>
+
 ## Share Secrets for Privacy: Confidential Forecasting with Vertical Federated Learning
 
 Aditya Shankar, Jérémie Decouchant Decouchant, Dimitra Gkorou, Rihan Hai, Lydia Y. Chen
@@ -171,6 +182,8 @@ Aditya Shankar, Jérémie Decouchant Decouchant, Dimitra Gkorou, Rihan Hai, Lydi
 }
 ```
 </details>
+
+<br>
 
 ## TabuLa: Harnessing Language Models for Tabular Data Synthesis
 
@@ -196,6 +209,8 @@ Zilong Zhao, Robert Birke, Lydia Chen
 ```
 </details>
 
+<br>
+
 ## SkipPipe: Partial and Reordered Pipelining Framework for Training LLMs in Heterogeneous Networks
 
 Nikolay Blagoev, Lydia Y. Chen, Oğuzhan Ersoy
@@ -218,6 +233,7 @@ Nikolay Blagoev, Lydia Y. Chen, Oğuzhan Ersoy
 ```
 </details>
 
+<br>
 
 ## LeadFL: Client Self-Defense against Model Poisoning in Federated Learning
 
@@ -242,6 +258,8 @@ Chaoyi Zhu, Stefanie Roos, Lydia Y. Chen
 ```
 </details>
 
+<br>
+
 ## On Quantifying the Gradient Inversion Risk of Data Reuse in Federated Learning Systems
 
 Jiyue Huang, Lydia Y. Chen, Stefanie Roos
@@ -264,6 +282,8 @@ Jiyue Huang, Lydia Y. Chen, Stefanie Roos
 }
 ```
 </details>
+
+<br>
 
 ## Fabricated Flips: Poisoning Federated Learning without Data
 
@@ -288,6 +308,8 @@ Jiyue Huang, Zilong Zhao, Lydia Y. Chen, Stefanie Roos
 }
 ```
 </details>
+
+<br>
 
 ## CTAB-GAN: Effective Table Data Synthesizing
 
