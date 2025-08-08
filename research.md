@@ -79,7 +79,7 @@ Chaoyi Zhu, Jeroen Galjaard, Pin-Yu Chen, Lydia Y. Chen
 ```
 </details>
 
-<br>
+<hr>
 
 
 ## CCBNet: Confidential Collaborative Bayesian Networks Inference
@@ -106,7 +106,7 @@ Abele Mălan, Thiago Guzella, Jérémie Decouchant, Lydia Y. Chen
 ```
 </details>
 
-<br>
+<hr>
 
 ## TS-Inverse: A Gradient Inversion Attack Tailored for Federated Time Series Forecasting Models
 
@@ -133,7 +133,7 @@ Caspar Meijer, Jiyue Huang, Shreshtha Sharma, Elena Lazovik, Lydia Y. Chen
 ```
 </details>
 
-<br>
+<hr>
 
 
 ## BatMan-CLR: Making Few-shots Meta-Learners Resilient Against Label Noise.
@@ -158,7 +158,7 @@ Jeroen Galjaard, Robert Birke, Juan Pérez, and Lydia Y. chen
 ```
 </details>
 
-<br>
+<hr>
 
 ## Federated Time Series Generation on Feature and Temporally Misaligned Data
 
@@ -239,7 +239,7 @@ Aditya Shankar, Jérémie Decouchant Decouchant, Dimitra Gkorou, Rihan Hai, Lydi
 ```
 </details>
 
-<br>
+<hr>
 
 ## SkipPipe: Partial and Reordered Pipelining Framework for Training LLMs in Heterogeneous Networks
 
@@ -263,7 +263,7 @@ Nikolay Blagoev, Lydia Y. Chen, Oğuzhan Ersoy
 ```
 </details>
 
-<br>
+<hr>
 
 ## LeadFL: Client Self-Defense against Model Poisoning in Federated Learning
 
@@ -288,7 +288,7 @@ Chaoyi Zhu, Stefanie Roos, Lydia Y. Chen
 ```
 </details>
 
-<br>
+<hr>
 
 ## 	Gradient Inversion of Federated Diffusion Models
 
@@ -313,7 +313,7 @@ Jiyue Huang, Chi Hong, Stefanie Roos and Lydia Y. Chen
 ```
 </details>
 
-<br>
+<hr>
 
 
 ## On Quantifying the Gradient Inversion Risk of Data Reuse in Federated Learning Systems
@@ -365,7 +365,7 @@ Jiyue Huang, Zilong Zhao, Lydia Y. Chen, Stefanie Roos
 ```
 </details>
 
-<br>
+<hr>
 
 ## CTAB-GAN: Effective Table Data Synthesizing
 
