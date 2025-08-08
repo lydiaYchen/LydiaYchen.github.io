@@ -211,6 +211,33 @@ Zilong Zhao, Robert Birke, Lydia Chen
 
 <br>
 
+## BatMan-CLR: Making Few-shots Meta-Learners Resilient Against Label Noise.
+
+Jeroen Galjaard, Robert Birke, Juan Pérez, and Lydia Y. chen
+
+### **ECML 2025:** [📄 Paper](https://github.com/JMGaljaard/batman-clr-noisy-meta-learning) | [💻 Code](https://github.com/JMGaljaard/batman-clr-noisy-meta-learning)
+
+<details>
+<summary>Citation</summary>
+
+```bibtex
+@inproceedings{soi2025fedtdd,
+    author      = {Jeroen Galjaard  and
+                   Robert Birke and
+                   Juan Perez and
+                   Lydia Y. Chen},
+    title       = {BatMan-CLR: Making Few-shots Meta-Learners Resilient Against Label Noise.},
+    booktitle   = {Machine Learning and Knowledge Discovery in Databases. Research Track - European Conference, {ECML} {PKDD} 2025},
+    year        = {2025}
+}
+```
+</details>
+
+<br>
+
+
+
+
 ## SkipPipe: Partial and Reordered Pipelining Framework for Training LLMs in Heterogeneous Networks
 
 Nikolay Blagoev, Lydia Y. Chen, Oğuzhan Ersoy
@@ -260,11 +287,37 @@ Chaoyi Zhu, Stefanie Roos, Lydia Y. Chen
 
 <br>
 
+## 	Gradient Inversion of Federated Diffusion Models
+
+Jiyue Huang, Chi Hong, Stefanie Roos and Lydia Y. Chen
+
+### **ARES 2025:** [📄 Paper](https://arxiv.org/pdf/2405.20761) | [💻 Code](https://github.com/adis98/STV)
+
+<details>
+<summary>Citation</summary>
+
+```bibtex
+@inproceedings{shankar2025stv,
+    author      = {Jiyue Huang and
+                  Chi Hong and
+                   Stefanie Ross and
+                   Lydia Y. Chen},
+    title       = {S	Gradient Inversion of Federated Diffusion Models},
+    booktitle   = {Proceedings of the 19th International Conference on Availability, Reliability and Security, {ARES} 2025},
+    publisher   = {{ACM}},
+    year        = {2025}
+}
+```
+</details>
+
+<br>
+
+
 ## On Quantifying the Gradient Inversion Risk of Data Reuse in Federated Learning Systems
 
 Jiyue Huang, Lydia Y. Chen, Stefanie Roos
 
-### **SRDS 2024:** [📄 Paper](https://ieeexplore.ieee.org/document/10806610) | [💻 Code](https://github.com/GillHuang-Xtler/CGI_multiserver_inversion)
+### **ARES 2025:** [📄 Paper](https://github.com/GillHuang-Xtler/GIDM_diffusion_inversion) | [💻 Code](https://github.com/GillHuang-Xtler/GIDM_diffusion_inversion)
 
 <details>
 <summary>Citation</summary>
