@@ -5,7 +5,7 @@ cover-img:
  - "assets/img/MarchVisit.jpg" : "Quantization Workshop"
  - "assets/img/Kickoff2025.jpg" : "SNSF Project Kickoff"
  - "assets/img/SamerMaria.jpg" : "At Maria"
-- "assets/img/icecream_2025.jpg" : "Den Haag, 2025"
+ - "assets/img/icecream_2025.jpg" : "Den Haag, 2025"
 title:  Who we are
 subtitle: About us
 ---
