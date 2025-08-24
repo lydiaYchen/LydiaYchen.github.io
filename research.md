@@ -59,7 +59,7 @@ Chaoyi Zhu, Jeroen Galjaard, Pin-Yu Chen, Lydia Y. Chen
 
 ## WaveStitch: Flexible and Fast Conditional Time Series Generation with Diffusion Models
 
-### [📄 Paper](https://arxiv.org/pdf/2503.06231) | [💻 Code](https://github.com/adis98/HierarchicalTS)
+### SIGMOD 2026: [📄 Paper](https://arxiv.org/pdf/2503.06231) | [💻 Code](https://github.com/adis98/HierarchicalTS)
 
 <details>
 <summary>Citation</summary>
