@@ -155,9 +155,9 @@ lydiaychen@ieee.org
       </div>
     </td>
     <td>
-    <img class="profile-img" src="../assets/img/Guilio.jpg" alt="Guilio Saglini" title="phd" />
+    <img class="profile-img" src="../assets/img/Giulio.jpg" alt="Giulio Saglini" title="phd" />
       <div class="profile-name">
-        <a href="mailto:">Guilio Saglini</a>
+        <a href="mailto:">Giulio Saglini</a>
       </div>
     </td>
   </tr>
@@ -178,10 +178,6 @@ lydiaychen@ieee.org
     <tr>
       <td>Nicolas van Schaik</td>
       <td>Decentralized anomaly detection for service mesh networks</td>
-    </tr>
-    <tr>
-      <td>Ziwen Soi</td>
-      <td>Time series modeling for science applications</td>
     </tr>
   </tbody>
 </table>
