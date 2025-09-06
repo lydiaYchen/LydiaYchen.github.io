@@ -155,6 +155,10 @@ lydiaychen@ieee.org
       </div>
     </td>
     <td>
+    <img class="profile-img" src="../assets/img/Guilio.jpg" alt="Guilio Saglini" title="phd" />
+      <div class="profile-name">
+        <a href="mailto:">Guilio Saglini</a>
+      </div>
     </td>
   </tr>
 
