@@ -80,6 +80,31 @@ Chaoyi Zhu, Jeroen Galjaard, Pin-Yu Chen, Lydia Y. Chen
 
 ---
 
+## Detective SAM: Adapting SAM to Localize Diffusion-based Forgeries via Embedding Artifacts
+
+Gert Lek, Chaoyi Zhu, Pin-Yu Chen, Robert Birke, Lydia Y. Chen
+
+### ICML 25 Workshop: [📄 Paper](https://openreview.net/forum?id=GPpFTmGLgT)
+
+<details>
+<summary>Citation</summary>
+
+<pre>
+@inproceedings{lek2025detectivesam,
+    author      = {Gert Lek and
+                   Chaoyi Zhu and
+                   Pin-Yu Chen and
+                   Robert Birke and
+                   Lydia Y. Chen},
+    title       = {Detective SAM: Adapting SAM to Localize Diffusion-based Forgeries via Embedding Artifacts},
+    booktitle   = {ICML Workshops},
+    pages       = {1--12},
+    year        = {2025}
+}
+</pre>
+</details>
+
+---
 
 ## CCBNet: Confidential Collaborative Bayesian Networks Inference
 
