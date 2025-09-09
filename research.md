@@ -1,4 +1,4 @@
-    ---
+---
 layout: page
 title: Papers with code
 ---
@@ -106,6 +106,30 @@ Gert Lek, Chaoyi Zhu, Pin-Yu Chen, Robert Birke, Lydia Y. Chen
 
 ---
 
+## Match & Choose: Model Selection Framework for Fine-tuning Text-to-Image Diffusion Models
+
+Basile Lewandowski, Robert Birke, Lydia Y. Chen
+
+### [📄 Paper](https://arxiv.org/pdf/2508.10993)
+
+<details>
+<summary>Citation</summary>
+
+<pre>
+@inproceedings{lewandowski2025mc,
+    author  = {Basile Lewandowski and
+               Robert Birke and
+               Lydia Y. Chen},
+    title   = {Match & Choose: Model Selection Framework for Fine-tuning Text-to-Image Diffusion Models},
+    journal = {CoRR},
+    volume  = {abs/2508.10993},
+    year    = {2025}
+}
+</pre>
+</details>
+
+---
+
 ## CCBNet: Confidential Collaborative Bayesian Networks Inference
 
 Abele Mălan, Thiago Guzella, Jérémie Decouchant, Lydia Y. Chen
@@ -125,7 +149,7 @@ Abele Mălan, Thiago Guzella, Jérémie Decouchant, Lydia Y. Chen
     booktitle   = {Financial Cryptography and Data Security - 29th International Conference, {FC} 2025},
     series      = {Lecture Notes in Computer Science},
     publisher   = {Springer},
-    year        = {2025},
+    year        = {2025}
 }
 </pre>
 </details>
