@@ -3,6 +3,57 @@ layout: page
 title: Papers with code
 ---
 
+## TimeWak: Temporal Chained-Hashing Watermark for Time Series Data
+
+Zhi Wen Soi, Chaoyi Zhu, Fouad Abiad, Aditya Shankar, Jeroen Galjaard, Huijuan Wang, Lydia Y. Chen
+
+### NeurIPS 2025 (🏆 Spotlight): [📄 Paper](https://arxiv.org/pdf/2506.06407) | [💻 Code](https://github.com/soizhiwen/TimeWak)
+
+<details>
+<summary>Citation</summary>
+
+<pre>
+@inproceedings{soi2025timewak,
+  author    = {Zhi Wen Soi and
+               Chaoyi Zhu and
+               Fouad Abiad and
+               Aditya Shankar and
+               Jeroen M. Galjaard and
+               Huijuan Wang and
+               Lydia Y. Chen},
+  title     = {TimeWak: Temporal Chained-Hashing Watermark for Time Series Data},
+  year      = {2025}
+}
+</pre>
+</details>
+
+---
+
+## Collaborative and Confidential Junction Trees for Hybrid Bayesian Networks
+
+Roberto Gheda, Abele Mălan, Thiago Guzella, Carlo Lancia, Robert Birke, Lydia Y. Chen
+
+### NeurIPS 2025: [💻 Code](https://github.com/r-gheda/hybrid-ccjt)
+
+<details>
+<summary>Citation</summary>
+
+<pre>
+@inproceedings{gheda2025ccjt,
+    author  = {Roberto Gheda and
+               Abele Mălan and
+               Thiago Guzella and
+               Carlo Lancia and
+               Robert Birke and
+               Lydia Y. Chen},
+    title   = {Collaborative and Confidential Junction Trees for Hybrid Bayesian Networks},
+    year    = {2025}
+}
+</pre>
+</details>
+
+---
+
 ## TabWak: A Watermark for Tabular Diffusion Models
 
 Chaoyi Zhu, Jeroen Galjaard, Pin-Yu Chen, Lydia Y. Chen
@@ -146,7 +197,7 @@ Abele Mălan, Thiago Guzella, Jérémie Decouchant, Lydia Y. Chen
     author      = {Abele Mălan and
                    Thiago Guzella and
                    Jérémie Decouchant and
-                   Lydia Chen},
+                   Lydia Y. Chen},
     title       = {CCBNet: Confidential Collaborative Bayesian Networks Inference},
     booktitle   = {Financial Cryptography and Data Security - 29th International Conference, {FC} 2025},
     series      = {Lecture Notes in Computer Science},
@@ -236,7 +287,7 @@ Zhi Wen Soi, Chenrui Fan, Aditya Shankar, Abele Mălan, Lydia Y. Chen
 
 ## TabuLa: Harnessing Language Models for Tabular Data Synthesis
 
-Zilong Zhao, Robert Birke, Lydia Chen
+Zilong Zhao, Robert Birke, Lydia Y. Chen
 
 ### PAKDD 2025: [📄 Paper](https://arxiv.org/pdf/2310.12746) | [💻 Code](https://github.com/zhao-zilong/Tabula)
 
