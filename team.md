@@ -5,6 +5,7 @@ cover-img:
  - "assets/img/MarchVisit.jpg" : "Quantization Workshop"
  - "assets/img/Kickoff2025.jpg" : "SNSF Project Kickoff"
  - "assets/img/SamerMaria.jpg" : "At Maria"
+ - "assets/img/cusohike25.jpg" : "Cuso hike"
  - "assets/img/icecream_2025.jpg" : "Den Haag, 2025"
 title:  Who we are
 subtitle: About us
@@ -155,9 +156,9 @@ lydiaychen@ieee.org
       </div>
     </td>
     <td>
-    <img class="profile-img" src="../assets/img/Giulio.jpg" alt="Giulio Saglini" title="phd" />
+    <img class="profile-img" src="../assets/img/Giulio.jpg" alt="Giulio Segalini" title="phd" />
       <div class="profile-name">
-        <a href="mailto:">Giulio Saglini</a>
+        <a href="mailto:">Giulio Segalini</a>
       </div>
     </td>
   </tr>
