@@ -2,5 +2,5 @@ In our group, the overarching research theme is trustworthy generative AI system
 
 - [Structural synthetic data generation](structureData.md)
 - [Watermarking generative models](watermark.md)
-- [Privacy and security in AI](robust.md)
+- [Privacy and security in AI](robustML.md)
 - [AI in semiconductor](semiconductor.md)
