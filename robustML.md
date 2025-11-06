@@ -139,7 +139,7 @@ Chaoyi Zhu, Stefanie Roos, Lydia Y. Chen
 
 Zilong Zhao, Jiyue Huang, Lydia Y Chen, Stefanie Roos
 
-### FC 2023: [📄 Paper](https://fc23.ifca.ai/preproceedings/14.pdf) | [💻 Code](https://github.com/zhao-zilong/DFG) 
+### FC 2023: [📄 Paper](https://fc23.ifca.ai/preproceedings/14.pdf) | [💻 Code](https://github.com/zhao-zilong/DFG)
 
 <details>
 <summary>Citation</summary>
@@ -170,7 +170,7 @@ Zilong Zhao, Jiyue Huang, Lydia Y Chen, Stefanie Roos
 
 Chi Hong, Jiyue Huang, Robert Birke & Lydia Y. Chen
 
-### ECML 2023: [📄 Paper](https://iris.unito.it/bitstream/2318/1923515/3/Data-free%20Model%20Stealing.pdf) 
+### ECML 2023: [📄 Paper](https://iris.unito.it/bitstream/2318/1923515/3/Data-free%20Model%20Stealing.pdf)
 
 <details>
 <summary>Citation</summary>
@@ -187,7 +187,7 @@ Chi Hong, Jiyue Huang, Robert Birke & Lydia Y. Chen
                   Elena Baralis and
                   Francesco Bonchi},
   title        = {Exploring and Exploiting Data-Free Model Stealing},
-  booktitle    = {European Conference on Machine Learning and Knowledge Discovery },
+  booktitle    = {European Conference on Machine Learning and Knowledge Discovery},
   series       = {Lecture Notes in Computer Science},
   volume       = {14173},
   pages        = {20--35},
@@ -199,7 +199,7 @@ Chi Hong, Jiyue Huang, Robert Birke & Lydia Y. Chen
 
 ---
 
-### FC 2023: [📄 Paper](https://fc23.ifca.ai/preproceedings/14.pdf) | [💻 Code](https://github.com/zhao-zilong/DFG) 
+### FC 2023: [📄 Paper](https://fc23.ifca.ai/preproceedings/14.pdf) | [💻 Code](https://github.com/zhao-zilong/DFG)
 
 <details>
 <summary>Citation</summary>
@@ -230,7 +230,7 @@ Chi Hong, Jiyue Huang, Robert Birke & Lydia Y. Chen
 
 Jin Xu, Chi Hong, Jiyue Huang, Lydia Y. Chen, Jérémie Decouchant
 
-### SRDS22: [📄 Paper](https://arxiv.org/pdf/2204.13784) 
+### SRDS22: [📄 Paper](https://arxiv.org/pdf/2204.13784)
 
 <details>
 <summary>Citation</summary>
@@ -241,10 +241,9 @@ Jin Xu, Chi Hong, Jiyue Huang, Lydia Y. Chen, Jérémie Decouchant
                   Chi Hong and
                   Jiyue Huang and
                   Lydia Y. Chen and
-                  J{\'{e}}r{\'{e}}mie Decouchant},
-  title        = {{AGIC:} Approximate Gradient Inversion Attack on Federated Learning},
-  booktitle    = {41st International Symposium on Reliable Distributed Systems, {SRDS}
-                  },
+                 Jérémie Decouchant},
+  title        = {AGIC: Approximate Gradient Inversion Attack on Federated Learning},
+  booktitle    = {41st International Symposium on Reliable Distributed Systems, {SRDS}},
   pages        = {12--22},
   publisher    = {{IEEE}},
   year         = {2022},
