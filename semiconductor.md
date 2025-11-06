@@ -11,6 +11,8 @@ We enable collaborative machine learning while protecting proprietary informatio
 
 ## **Publications**
 
+---
+
 ### Collaborative and Confidential Junction Trees for Hybrid Bayesian Networks
 
 Roberto Gheda, Abele Malan, Thiago Guzella, Carlo Lancia, Robert Birke, Lydia Y. Chen

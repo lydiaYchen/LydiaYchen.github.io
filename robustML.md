@@ -4,16 +4,20 @@ title: Security and privacy in AI systems
 ---
 
 
-**Federated Learning (FL)** allows training to be performed in a distributed manner. This is however vulnerable to **inference attacks** or **model poisoning**.
+**Federated Learning (FL)** allows training to be performed in a distributed manner. This is however vulnerable to  **model poisoning**, **inversion attack** or **inference attacks**, under different adversarial assumptions.
 We study novel techniques to perform attacks, defenses and mitigations.
+
+---
 
 ## **Publications**
 
-## 	Gradient Inversion of Federated Diffusion Models
+---
+
+### 	Gradient Inversion of Federated Diffusion Models
 
 Jiyue Huang, Chi Hong, Stefanie Roos and Lydia Y. Chen
 
-### ARES 2025: [📄 Paper](https://arxiv.org/pdf/2405.20380) | [💻 Code](https://github.com/GillHuang-Xtler/GIDM_diffusion_inversion)
+#### ARES 2025: [📄 Paper](https://arxiv.org/pdf/2405.20380) | [💻 Code](https://github.com/GillHuang-Xtler/GIDM_diffusion_inversion)
 
 <details>
 <summary>Citation</summary>
@@ -34,7 +38,7 @@ Jiyue Huang, Chi Hong, Stefanie Roos and Lydia Y. Chen
 
 ---
 
-## TS-Inverse: A Gradient Inversion Attack Tailored for Federated Time Series Forecasting Models
+### TS-Inverse: A Gradient Inversion Attack Tailored for Federated Time Series Forecasting Models
 
 Caspar Meijer, Jiyue Huang, Shreshtha Sharma, Elena Lazovik, Lydia Y. Chen
 
@@ -61,7 +65,7 @@ Caspar Meijer, Jiyue Huang, Shreshtha Sharma, Elena Lazovik, Lydia Y. Chen
 
 ---
 
-## On Quantifying the Gradient Inversion Risk of Data Reuse in Federated Learning Systems
+### On Quantifying the Gradient Inversion Risk of Data Reuse in Federated Learning Systems
 
 Jiyue Huang, Lydia Y. Chen, Stefanie Roos
 
@@ -85,7 +89,7 @@ Jiyue Huang, Lydia Y. Chen, Stefanie Roos
 </details>
 
 ---
-## Fabricated Flips: Poisoning Federated Learning without Data
+### Fabricated Flips: Poisoning Federated Learning without Data
 
 Jiyue Huang, Zilong Zhao, Lydia Y. Chen, Stefanie Roos
 
@@ -110,11 +114,11 @@ Jiyue Huang, Zilong Zhao, Lydia Y. Chen, Stefanie Roos
 </details>
 
 ---
-## LeadFL: Client Self-Defense against Model Poisoning in Federated Learning
+### LeadFL: Client Self-Defense against Model Poisoning in Federated Learning
 
 Chaoyi Zhu, Stefanie Roos, Lydia Y. Chen
 
-### ICML 2023: [📄 Paper](https://proceedings.mlr.press/v202/zhu23j/zhu23j.pdf) | [💻 Code](https://github.com/chaoyitud/LeadFL) | [🖼️ Poster](https://icml.cc/media/PosterPDFs/ICML%202023/24161.png)
+#### ICML 2023: [📄 Paper](https://proceedings.mlr.press/v202/zhu23j/zhu23j.pdf) | [💻 Code](https://github.com/chaoyitud/LeadFL) | [🖼️ Poster](https://icml.cc/media/PosterPDFs/ICML%202023/24161.png)
 
 <details>
 <summary>Citation</summary>
@@ -135,11 +139,11 @@ Chaoyi Zhu, Stefanie Roos, Lydia Y. Chen
 
 ---
 
-## Defending Against Free-Riders Attacks in Distributed Generative Adversarial Networks
+### Defending Against Free-Riders Attacks in Distributed Generative Adversarial Networks
 
 Zilong Zhao, Jiyue Huang, Lydia Y Chen, Stefanie Roos
 
-### FC 2023: [📄 Paper](https://fc23.ifca.ai/preproceedings/14.pdf) | [💻 Code](https://github.com/zhao-zilong/DFG)
+#### FC 2023: [📄 Paper](https://fc23.ifca.ai/preproceedings/14.pdf) | [💻 Code](https://github.com/zhao-zilong/DFG)
 
 <details>
 <summary>Citation</summary>
@@ -166,11 +170,11 @@ Zilong Zhao, Jiyue Huang, Lydia Y Chen, Stefanie Roos
 
 ---
 
-## Exploring and Exploiting Data-Free Model Stealing
+### Exploring and Exploiting Data-Free Model Stealing
 
 Chi Hong, Jiyue Huang, Robert Birke & Lydia Y. Chen
 
-### ECML 2023: [📄 Paper](https://iris.unito.it/bitstream/2318/1923515/3/Data-free%20Model%20Stealing.pdf)
+#### ECML 2023: [📄 Paper](https://iris.unito.it/bitstream/2318/1923515/3/Data-free%20Model%20Stealing.pdf)
 
 <details>
 <summary>Citation</summary>
@@ -199,7 +203,10 @@ Chi Hong, Jiyue Huang, Robert Birke & Lydia Y. Chen
 
 ---
 
-### FC 2023: [📄 Paper](https://fc23.ifca.ai/preproceedings/14.pdf) | [💻 Code](https://github.com/zhao-zilong/DFG)
+### Defending Against Free-Riders Attacks in Distributed Generative Adversarial
+                  Networks
+
+#### FC 2023: [📄 Paper](https://fc23.ifca.ai/preproceedings/14.pdf) | [💻 Code](https://github.com/zhao-zilong/DFG)
 
 <details>
 <summary>Citation</summary>
@@ -226,11 +233,11 @@ Chi Hong, Jiyue Huang, Robert Birke & Lydia Y. Chen
 
 ---
 
-## AGIC: Approximate Gradient Inversion Attack on Federated Learning
+### AGIC: Approximate Gradient Inversion Attack on Federated Learning
 
 Jin Xu, Chi Hong, Jiyue Huang, Lydia Y. Chen, Jérémie Decouchant
 
-### SRDS22: [📄 Paper](https://arxiv.org/pdf/2204.13784)
+#### SRDS22: [📄 Paper](https://arxiv.org/pdf/2204.13784)
 
 <details>
 <summary>Citation</summary>
