@@ -9,11 +9,11 @@ We enable collaborative machine learning while protecting proprietary informatio
 
 ## **Publications**
 
-## Collaborative and Confidential Junction Trees for Hybrid Bayesian Networks
+### Collaborative and Confidential Junction Trees for Hybrid Bayesian Networks
 
 Roberto Gheda, Abele Malan, Thiago Guzella, Carlo Lancia, Robert Birke, Lydia Y. Chen
 
-### NeurIPS 2025 (🏆 Spotlight): [**Paper**](https://openreview.net/pdf?id=ehfIVCHxkX)|[**Code**](https://github.com/r-gheda/hybrid-ccjt)
+#### NeurIPS 2025 (🏆 Spotlight): [**Paper**](https://openreview.net/pdf?id=ehfIVCHxkX)|[**Code**](https://github.com/r-gheda/hybrid-ccjt)
 
 <details>
 <summary>Citation</summary>
@@ -29,11 +29,11 @@ Roberto Gheda, Abele Malan, Thiago Guzella, Carlo Lancia, Robert Birke, Lydia Y.
 
 ---
 
-## Share Secrets for Privacy: Confidential Forecasting with Vertical Federated Learning**
+### Share Secrets for Privacy: Confidential Forecasting with Vertical Federated Learning**
 
 Aditya Shankar, Jeremie Decouchant, Dimitra Gkorou, Rihan Hai, Lydia Y. Chen
     
-### ARES 2025 [**Paper**](https://arxiv.org/pdf/2405.20761)|[**Code**](https://https://github.com/adis98/STV)
+#### ARES 2025 [**Paper**](https://arxiv.org/pdf/2405.20761)|[**Code**](https://https://github.com/adis98/STV)
 
 <details>
 <summary>Citation</summary>
@@ -70,11 +70,11 @@ Aditya Shankar, Jeremie Decouchant, Dimitra Gkorou, Rihan Hai, Lydia Y. Chen
 
 ---
 
-## CCBNet: Confidential Collaborative Bayesian Networks Inference**
+### CCBNet: Confidential Collaborative Bayesian Networks Inference**
 
 Abele Malan, Jeremie Decouchant, Thiago Guzella, Lydia Y. Chen
 
-### FC 2025 [**Paper**](https://fc25.ifca.ai/preproceedings/129.pdf)|[**Code**](https://github.com/AbeleMM/ccbnet)
+#### FC 2025 [**Paper**](https://fc25.ifca.ai/preproceedings/129.pdf)|[**Code**](https://github.com/AbeleMM/ccbnet)
 
 <details>
 <summary>Citation</summary>
