@@ -203,8 +203,8 @@ Chi Hong, Jiyue Huang, Robert Birke & Lydia Y. Chen
 
 ---
 
-### Defending Against Free-Riders Attacks in Distributed Generative Adversarial
-                  Networks
+### Defending Against Free-Riders Attacks in Distributed Generative Adversarial Networks
+Zilong Zhao,  Jiyue Huang,  Lydia Y. Chen, and  Stefanie Roos
 
 #### FC 2023: [📄 Paper](https://fc23.ifca.ai/preproceedings/14.pdf) | [💻 Code](https://github.com/zhao-zilong/DFG)
 

@@ -17,7 +17,7 @@ We enable collaborative machine learning while protecting proprietary informatio
 
 Roberto Gheda, Abele Malan, Thiago Guzella, Carlo Lancia, Robert Birke, Lydia Y. Chen
 
-#### NeurIPS 2025 (🏆 Spotlight): [**Paper**](https://openreview.net/pdf?id=ehfIVCHxkX)|[**Code**](https://github.com/r-gheda/hybrid-ccjt)
+#### NeurIPS 2025: [**Paper**](https://openreview.net/pdf?id=ehfIVCHxkX)|[**Code**](https://github.com/r-gheda/hybrid-ccjt)
 
 <details>
 <summary>Citation</summary>
