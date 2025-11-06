@@ -7,6 +7,8 @@ The **semiconductor industry** faces complex problems such as **root-cause analy
 However, strict confidentiality requirements prevent such cooperation.
 We enable collaborative machine learning while protecting proprietary information.
 
+---
+
 ## **Publications**
 
 ### Collaborative and Confidential Junction Trees for Hybrid Bayesian Networks
