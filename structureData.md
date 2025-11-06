@@ -1,7 +1,7 @@
 --
 layout: page
 title: Generative Modeling for Structured Data
----
+--
 
 
 We study generative models for structured data such as **tables** and **time series**. Our work spans **Generative Adversarial Networks (GANs)**, **Large Language Models (LLMs)** and **Diffusion models**, focusing on synthetic data quality, downstream utility, and privacy. We also explore **federated and decentralized settings**, which commonly arise in real-world collaborative scenarios.
@@ -12,7 +12,7 @@ We study generative models for structured data such as **tables** and **time ser
 
 Aditya Shankar, Lydia Y. Chen, Arie van Deursen and Rihan Hai
 
-### ACM SIGMOD 2026: [��Paper](https://arxiv.org/abs/2503.06231)|[��Code](https://github.com/adis98/WaveStitch)
+### ACM SIGMOD 2026: [📄 Paper](https://arxiv.org/abs/2503.06231)|[](https://github.com/adis98/WaveStitch)
 
 <details>
 <summary>Citation</summary>
@@ -37,7 +37,7 @@ Aditya Shankar, Lydia Y. Chen, Arie van Deursen and Rihan Hai
 
 Zhi Wen Soi, Chenrui Fan, Aditya Shankar, Abel Malan, Lydia Y. Chen
 
-### ECML PKDD 2025: [��Paper](https://link.springer.com/chapter/10.1007/978-3-032-05981-9_23)|[��Code](https://github.com/soizhiwen/FedTDD)
+### ECML PKDD 2025: [📄 Paper](https://link.springer.com/chapter/10.1007/978-3-032-05981-9_23)|[💻 Code](https://github.com/soizhiwen/FedTDD)
 
 <details>
 <summary>Citation</summary>
@@ -62,7 +62,7 @@ Zhi Wen Soi, Chenrui Fan, Aditya Shankar, Abel Malan, Lydia Y. Chen
 
 Zilong Zhao, Robert Birke, and Lydia Y. Chen
 
-### PAKDD 2025: [��Paper](https://arxiv.org/pdf/2310.12746)|[��Code](https://github.com/zhao-zilong/Tabula)
+### PAKDD 2025: [📄 Paper](https://arxiv.org/pdf/2310.12746)|[💻 Code](https://github.com/zhao-zilong/Tabula)
 
 <details>
 <summary>Citation</summary>
@@ -87,7 +87,7 @@ Zilong Zhao, Robert Birke, and Lydia Y. Chen
 
 Zilong Zhao, Han Wu, Aad van Moorsel, Lydia Y. Chen
 
-### DSN 2025: [��Paper](https://ieeexplore.ieee.org/iel8/11068708/11068710/11068865.pdf)|[��Code](https://github.com/zhao-zilong/gtv)
+### DSN 2025: [📄 Paper](https://ieeexplore.ieee.org/iel8/11068708/11068710/11068865.pdf)|[💻 Code](https://github.com/zhao-zilong/gtv)
 
 <details>
 <summary>Citation</summary>
@@ -109,7 +109,7 @@ Zilong Zhao, Han Wu, Aad van Moorsel, Lydia Y. Chen
 
 Aditya Shankar, Hans Brouwer, Rihan Hai, Lydia Y. Chen
 
-### ICDE 2024: [��Paper](https://arxiv.org/abs/2404.03299)
+### ICDE 2024: [📄 Paper](https://arxiv.org/abs/2404.03299)
 
 <details>
 <summary>Citation</summary>
@@ -134,7 +134,7 @@ Aditya Shankar, Hans Brouwer, Rihan Hai, Lydia Y. Chen
 
 Zilong Zhao, Aditya Kunar, Robert Birke, Lydia Y. Chen
 
-### ACML 2021: [��Paper](https://proceedings.mlr.press/v157/zhao21a/zhao21a.pdf)|[��Code](https://github.com/Team-TUD/CTAB-GAN)
+### ACML 2021: [📄 Paper](https://proceedings.mlr.press/v157/zhao21a/zhao21a.pdf)|[💻 Code](https://github.com/Team-TUD/CTAB-GAN)
 
 <details>
 <summary>Citation</summary>
