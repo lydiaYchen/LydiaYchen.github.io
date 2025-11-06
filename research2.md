@@ -7,7 +7,7 @@ In our group, the overarching research theme is trustworthy generative AI system
 
 
 ---
-## Uncategorized papers
+## All papers with code
 
 ---
 
