@@ -44,11 +44,11 @@ Zhi Wen Soi*, Chaoyi Zhu*, Fouad Abiad, Aditya Shankar, Jeroen M. Galjaard, Huij
 </details>
 
 ---
-## TabWak: A Watermark for Tabular Diffusion Models
+### TabWak: A Watermark for Tabular Diffusion Models
 
 Chaoyi Zhu, Jiayi Tang, Jeroen M. Galjaard, Pin-Yu Chen, Robert Birke, Cornelis Bos, Lydia Y. Chen
 
-### ICLR 2025 (🏆 Spotlight): [📄Paper](https://openreview.net/pdf?id=71pur4y8gs)|[💻 Code](https://github.com/chaoyitud/TabWak)| [��️**Poster**](https://iclr.cc/media/PosterPDFs/ICLR%202025/30853.png)
+#### ICLR 2025 (🏆 Spotlight): [📄Paper](https://openreview.net/pdf?id=71pur4y8gs)|[💻 Code](https://github.com/chaoyitud/TabWak)| [��️**Poster**](https://iclr.cc/media/PosterPDFs/ICLR%202025/30853.png)
 
 <details>
 <summary>Citation</summary>
