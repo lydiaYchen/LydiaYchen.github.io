@@ -110,3 +110,25 @@ Chaoyi Zhu, Jeroen Galjaard, Pin-Yu Chen, Lydia Y. Chen
 </details>
 
 ---
+
+### Optimization-Free Universal Watermark Forgery with Regenerative Diffusion Models
+Chaoyi Zhu, Zaitang Li, Renyi Yang, Robert Birke, Pin-Yu Chen, Tsung-Yi Ho, Lydia Y. Chen
+    
+####  [📄 Paper](https://arxiv.org/abs/2506.06018)
+<details>
+<summary>Citation</summary>
+
+<pre>
+@misc{zhu2025optimizationfreeuniversalwatermarkforgery,
+      title={Optimization-Free Universal Watermark Forgery with Regenerative Diffusion Models}, 
+      author={Chaoyi Zhu and Zaitang Li and Renyi Yang and Robert Birke and Pin-Yu Chen and Tsung-Yi Ho and Lydia Y. Chen},
+      year={2025},
+      eprint={2506.06018},
+      archivePrefix={arXiv},
+      primaryClass={cs.MM},
+      url={https://arxiv.org/abs/2506.06018}, 
+}
+</pre>
+</details>
+
+---
