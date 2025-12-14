@@ -4,6 +4,8 @@ In our group, the overarching research theme is trustworthy generative AI system
 - [Watermarking generative models](watermark.md)
 - [Privacy and security in AI](robustML.md)
 - [AI in semiconductor](semiconductor.md)
+  
+[All publication from dplp](publication.md)
 
 
 ---
