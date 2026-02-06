@@ -122,10 +122,10 @@ lydiaychen@ieee.org
   </tr>
 
   <tr>
-    <td>
-      <img class="profile-img" src="../assets/img/Fouad.jpg" alt="Fouad Abiad" title="phd" />
+   <td>
+      <img class="profile-img" src="../assets/img/ZhiwenSoi.jpg" alt="ZhiWen Soi" title="phd" />
       <div class="profile-name">
-        <a href="mailto:F.Abiad@tudelft.nl">Fouad Abiad</a>
+        <a href="mailto:">ZhiWen Soi</a>
       </div>
     </td>
     <td>
@@ -150,15 +150,15 @@ lydiaychen@ieee.org
       </div>
     </td>
     <td>
-      <img class="profile-img" src="../assets/img/ZhiwenSoi.jpg" alt="ZhiWen Soi" title="phd" />
-      <div class="profile-name">
-        <a href="mailto:">ZhiWen Soi</a>
-      </div>
-    </td>
-    <td>
     <img class="profile-img" src="../assets/img/Giulio.jpg" alt="Giulio Segalini" title="phd" />
       <div class="profile-name">
         <a href="mailto:">Giulio Segalini</a>
+      </div>
+    </td>
+      <td>
+      <img class="profile-img" src="" alt="Jean Pool Príncipe" title="phd" />
+      <div class="profile-name">
+        <a href="mailto:\">Jean Pool Príncipe </a>
       </div>
     </td>
   </tr>
