@@ -136,7 +136,7 @@ Zilong Zhao, Han Wu, Aad van Moorsel, Lydia Y. Chen
 
 Aditya Shankar, Hans Brouwer, Rihan Hai, Lydia Y. Chen
 
-### ICDE 2024: [📄 Paper](https://arxiv.org/abs/2404.03299)
+#### ICDE 2024: [📄 Paper](https://arxiv.org/abs/2404.03299)
 
 <details>
 <summary>Citation</summary>
@@ -157,11 +157,11 @@ Aditya Shankar, Hans Brouwer, Rihan Hai, Lydia Y. Chen
 
 ---
 
-## CTAB-GAN: Effective Table Data Synthesizing
+### CTAB-GAN: Effective Table Data Synthesizing
 
 Zilong Zhao, Aditya Kunar, Robert Birke, Lydia Y. Chen
 
-### ACML 2021: [📄 Paper](https://proceedings.mlr.press/v157/zhao21a/zhao21a.pdf)|[💻 Code](https://github.com/Team-TUD/CTAB-GAN)
+#### ACML 2021: [📄 Paper](https://proceedings.mlr.press/v157/zhao21a/zhao21a.pdf)|[💻 Code](https://github.com/Team-TUD/CTAB-GAN)
 
 <details>
 <summary>Citation</summary>
