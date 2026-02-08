@@ -36,6 +36,9 @@ Roberto Gheda, Abele Mălan, Robert Birke, Maksim Kitsak, Lydia Y. Chen
 </pre>
 </details>
 
+
+---
+
 ### Detective SAM: Adaptive AI-Image Forgery Localization
 
 Gert Lek, Nicolas van Schaik, Chaoyi Zhu, Pin-Yu Chen, Robert Birke, Lydia Y. Chen
@@ -59,6 +62,9 @@ Gert Lek, Nicolas van Schaik, Chaoyi Zhu, Pin-Yu Chen, Robert Birke, Lydia Y. Ch
 }
 </pre>
 </details>
+
+
+---
 
 ### Harpoon: Generalised Manifold Guidance for Conditional Tabular Diffusion
 
