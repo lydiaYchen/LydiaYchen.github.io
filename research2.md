@@ -13,6 +13,79 @@ A complete list from [dblp](publicationlist.md)
 
 ---
 
+### CheckMate! Watermarking Graph Diffusion Models in Polynomial Time
+
+Roberto Gheda, Abele Mălan, Robert Birke, Maksim Kitsak, Lydia Y. Chen 
+
+#### ICLR 2026 : [📄 Paper](https://openreview.net/forum?id=92fliNrbxY&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)) | [💻 Code]()
+
+<details>
+<summary>Citation</summary>
+
+<pre>
+@inproceedings{GhedaICLR26CheckMate,
+  author    = {Roberto Gheda and
+     Abele Mălan and
+     Robert Birke and
+     Maksim Kitsak and
+     Lydia Y. Chen },
+  title     = {CheckMate! Watermarking Graph Diffusion Models in Polynomial Time},
+  booktitle = {ICLR },
+  year      = {2026}
+}
+</pre>
+</details>
+
+### Detective SAM: Adaptive AI-Image Forgery Localization
+
+Gert Lek, Nicolas van Schaik, Chaoyi Zhu, Pin-Yu Chen, Robert Birke, Lydia Y. Chen
+
+#### ICLR 2026: [📄 Paper](https://openreview.net/forum?id=GKJHPHNFIx&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)) | [💻 Code]()
+
+<details>
+<summary>Citation</summary>
+
+<pre>
+@inproceedings{LekICLR26DetectiveSam,
+  author    = {Gert Lek and
+   Nicolas van Schaik and 
+   Chaoyi Zhu and 
+   Pin-Yu Chen and
+   Robert Birke and
+   Lydia Y. Chen},
+  title     = {Detective SAM: Adaptive AI-Image Forgery Localization},
+    booktitle = {ICLR },
+  year      = {2026}
+}
+</pre>
+</details>
+
+### Harpoon: Generalised Manifold Guidance for Conditional Tabular Diffusion
+
+Aditya Shankar, Yuandou Wang, Rihan Hai, Lydia Y. Chen
+
+#### ICLR 2026 : [📄 Paper](https://openreview.net/forum?id=G5g6tDg1ZE&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)) | [💻 Code]()
+
+<details>
+<summary>Citation</summary>
+
+<pre>
+@inproceedings{ShankarICLR26Harpoon,
+  author    = {Aditya Shankar and
+    Yuandou Wang and
+    Rihan Hai and
+    Lydia Y. Chen},
+  title     = {Harpoon: Generalised Manifold Guidance for Conditional Tabular Diffusion},
+   booktitle = {ICLR },
+  year      = {2026}
+}
+</pre>
+</details>
+
+
+
+---
+
 ### TimeWak: Temporal Chained-Hashing Watermark for Time Series Data
 
 Zhi Wen Soi, Chaoyi Zhu, Fouad Abiad, Aditya Shankar, Jeroen Galjaard, Huijuan Wang, Lydia Y. Chen
@@ -32,7 +105,8 @@ Zhi Wen Soi, Chaoyi Zhu, Fouad Abiad, Aditya Shankar, Jeroen Galjaard, Huijuan W
                Huijuan Wang and
                Lydia Y. Chen},
   title     = {TimeWak: Temporal Chained-Hashing Watermark for Time Series Data},
-  year      = {2025}
+   booktitle = {NeurIPS },
+  year      = {2026}
 }
 </pre>
 </details>
@@ -57,7 +131,8 @@ Roberto Gheda, Abele Mălan, Thiago Guzella, Carlo Lancia, Robert Birke, Lydia Y
                Robert Birke and
                Lydia Y. Chen},
     title   = {Collaborative and Confidential Junction Trees for Hybrid Bayesian Networks},
-    year    = {2025}
+      booktitle = {NeurIPS },
+  year      = {2026}
 }
 </pre>
 </details>
@@ -83,7 +158,7 @@ Chaoyi Zhu, Jeroen Galjaard, Pin-Yu Chen, Lydia Y. Chen
                Cornelis Bos and
                Lydia Y. Chen},
   title     = {TabWak: A Watermark for Tabular Diffusion Models},
-  booktitle = {The Thirteenth International Conference on Learning Representations, {ICLR} 2025},
+  booktitle = {ICLR },
   publisher = {OpenReview.net},
   year      = {2025}
 }
@@ -108,7 +183,7 @@ Chaoyi Zhu, Jeroen Galjaard, Pin-Yu Chen, Lydia Y. Chen
                    Pin{-}Yu Chen and
                    Lydia Y. Chen},
     title       = {Duwak: Dual Watermarks in Large Language Models},
-    booktitle   = {Findings of the Association for Computational Linguistics: ACL 2024},
+    booktitle   = {Findings of the Association for Computational Linguistics: ACL},
     publisher   = {Association for Computational Linguistics},
     year        = {2024},
     doi         = {10.18653/v1/2024.findings-acl.678}
@@ -141,55 +216,9 @@ Aditya Shankar, Lydia Y. Chen, Arie van Deursen and Rihan Hai
 </pre>
 </details>
 
----
 
-### Detective SAM: Adapting SAM to Localize Diffusion-based Forgeries via Embedding Artifacts
 
-Gert Lek, Chaoyi Zhu, Pin-Yu Chen, Robert Birke, Lydia Y. Chen
 
-#### ICML 25 Workshop: [📄 Paper](https://openreview.net/forum?id=GPpFTmGLgT)
-
-<details>
-<summary>Citation</summary>
-
-<pre>
-@inproceedings{lek2025detectivesam,
-    author      = {Gert Lek and
-                   Chaoyi Zhu and
-                   Pin-Yu Chen and
-                   Robert Birke and
-                   Lydia Y. Chen},
-    title       = {Detective SAM: Adapting SAM to Localize Diffusion-based Forgeries via Embedding Artifacts},
-    booktitle   = {ICML Workshops},
-    pages       = {1--12},
-    year        = {2025}
-}
-</pre>
-</details>
-
----
-
-### Match & Choose: Model Selection Framework for Fine-tuning Text-to-Image Diffusion Models
-
-Basile Lewandowski, Robert Birke, Lydia Y. Chen
-
-#### [📄 Paper](https://arxiv.org/pdf/2508.10993)
-
-<details>
-<summary>Citation</summary>
-
-<pre>
-@inproceedings{lewandowski2025mc,
-    author  = {Basile Lewandowski and
-               Robert Birke and
-               Lydia Y. Chen},
-    title   = {Match & Choose: Model Selection Framework for Fine-tuning Text-to-Image Diffusion Models},
-    journal = {CoRR},
-    volume  = {abs/2508.10993},
-    year    = {2025}
-}
-</pre>
-</details>
 
 ---
 

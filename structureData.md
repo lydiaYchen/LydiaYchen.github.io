@@ -9,11 +9,37 @@ We study generative models for structured data such as **tables** and **time ser
 ## **Publications**
 --
 
+### Harpoon: Generalised Manifold Guidance for Conditional Tabular Diffusion
+
+Aditya Shankar, Yuandou Wang, Rihan Hai, Lydia Y. Chen
+
+#### ICLR 2026 : [📄 Paper](https://openreview.net/forum?id=G5g6tDg1ZE&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)) | [💻 Code]()
+
+<details>
+<summary>Citation</summary>
+
+<pre>
+@inproceedings{ShankarICLR26Harpoon,
+  author    = {Aditya Shankar and
+    Yuandou Wang and
+    Rihan Hai and
+    Lydia Y. Chen},
+  title     = {Harpoon: Generalised Manifold Guidance for Conditional Tabular Diffusion},
+   booktitle = {ICLR },
+  year      = {2026}
+}
+</pre>
+</details>
+
+
+
+---
+
 ### WaveStitch: Flexible and Fast Conditional Time Series Generation with Diffusion Models
 
 Aditya Shankar, Lydia Y. Chen, Arie van Deursen and Rihan Hai
 
-#### ACM SIGMOD 2026: [📄 Paper](https://arxiv.org/abs/2503.06231)|[](https://github.com/adis98/WaveStitch)
+#### ACM SIGMOD 2026: [📄 Paper](https://arxiv.org/abs/2503.06231)|[💻 Code](https://github.com/adis98/WaveStitch)
 
 <details>
 <summary>Citation</summary>

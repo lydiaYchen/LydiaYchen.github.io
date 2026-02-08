@@ -10,6 +10,31 @@ title:  Watermarking Generative models
 ## **Publications**
 
 ---
+
+### CheckMate! Watermarking Graph Diffusion Models in Polynomial Time
+
+Roberto Gheda, Abele Mălan, Robert Birke, Maksim Kitsak, Lydia Y. Chen 
+
+#### ICLR 2026 : [📄 Paper](https://openreview.net/forum?id=92fliNrbxY&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)) | [💻 Code]()
+
+<details>
+<summary>Citation</summary>
+
+<pre>
+@inproceedings{GhedaICLR26CheckMate,
+  author    = {Roberto Gheda and
+     Abele Mălan and
+     Robert Birke and
+     Maksim Kitsak and
+     Lydia Y. Chen },
+  title     = {CheckMate! Watermarking Graph Diffusion Models in Polynomial Time},
+  booktitle = {ICLR },
+  year      = {2026}
+}
+</pre>
+</details>
+
+---
 ### TimeWak: Temporal Chained-Hashing Watermark for Time Series Data
 
 Zhi Wen Soi*, Chaoyi Zhu*, Fouad Abiad, Aditya Shankar, Jeroen M. Galjaard, Huijuan Wang, Lydia Y. Chen (*equal contribution)

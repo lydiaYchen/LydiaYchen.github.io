@@ -13,6 +13,31 @@ We study novel techniques to perform attacks, defenses and mitigations.
 
 ---
 
+### Detective SAM: Adaptive AI-Image Forgery Localization
+
+Gert Lek, Nicolas van Schaik, Chaoyi Zhu, Pin-Yu Chen, Robert Birke, Lydia Y. Chen
+
+#### ICLR 2026: [📄 Paper](https://openreview.net/forum?id=GKJHPHNFIx&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)) | [💻 Code]()
+
+<details>
+<summary>Citation</summary>
+
+<pre>
+@inproceedings{LekICLR26DetectiveSam,
+  author    = {Gert Lek and
+   Nicolas van Schaik and 
+   Chaoyi Zhu and 
+   Pin-Yu Chen and
+   Robert Birke and
+   Lydia Y. Chen},
+  title     = {Detective SAM: Adaptive AI-Image Forgery Localization},
+    booktitle = {ICLR },
+  year      = {2026}
+}
+</pre>
+</details>
+
+
 ### 	Gradient Inversion of Federated Diffusion Models
 
 Jiyue Huang, Chi Hong, Stefanie Roos and Lydia Y. Chen
