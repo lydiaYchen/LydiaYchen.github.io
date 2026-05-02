@@ -4,6 +4,7 @@ title: News Arxiv
 subtitle: 
 ---
  <h2>News Arxiv</h2>
+<li>[01/25] Our paper, <a href="https://iclr.cc/virtual/2025/poster/30853">  “TabWak: A Watermark for Tabular Diffusion Models" </a> , is accepted as a <span style="color: #ff0000"> spotlight paper </span>at <a href="https://iclr.cc/virtual/2025/poster/30853"> ICLR 25</a></li>     
 
  <li>[01/25] Our paper, <a href="">  “GTV: Generating Tabular Data via Vertical Federated Learning" </a> , is accepted  at <a href="https://dsn2025.github.io/"> DSN 25</a></li>  
 <li>[01/25] Our paper, <a href="https://arxiv.org/abs/2405.15055">  “CCBNet: Confidential Collaborative Bayesian Networks Inference" </a> , is accepted at <a href="https://fc25.ifca.ai/"> Financial Cypto 25</a></li>   
