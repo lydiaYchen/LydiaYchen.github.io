@@ -12,12 +12,35 @@ A complete list from [dblp](publicationlist.md)
 ## All papers with code
 
 ---
+### SuperHype: Hypergraph Generation via Graph-Superposition Decomposition
+
+Lucas Gantes, Abele Mălan, Roberto Gheda, Robert Birke, Lydia Y. Chen
+
+#### ICML 2026: [📄 Paper](https://openreview.net/pdf?id=VasXWJMqSp) | [💻 Code]()
+
+<details>
+<summary>Citation</summary>
+
+<pre>
+@inproceedings{GantesICML26SuperHype,
+author = {Lucas Gantes and
+Abele Mălan and
+Roberto Gheda and
+Robert Birke and
+Lydia Y. Chen},
+title = {SuperHype: Hypergraph Generation via Graph-Superposition Decomposition},
+booktitle = {ICML},
+year = {2026}
+}
+</pre>
+</details>
+---
 
 ### CheckMate! Watermarking Graph Diffusion Models in Polynomial Time
 
 Roberto Gheda, Abele Mălan, Robert Birke, Maksim Kitsak, Lydia Y. Chen 
 
-#### ICLR 2026 : [📄 Paper](https://openreview.net/forum?id=92fliNrbxY&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)) | [💻 Code]()
+#### ICLR 2026 : [📄 Paper](https://openreview.net/forum?id=92fliNrbxY&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)) | [💻 Code](https://github.com/r-gheda/checkwate)
 
 <details>
 <summary>Citation</summary>
@@ -43,7 +66,7 @@ Roberto Gheda, Abele Mălan, Robert Birke, Maksim Kitsak, Lydia Y. Chen
 
 Gert Lek, Nicolas van Schaik, Chaoyi Zhu, Pin-Yu Chen, Robert Birke, Lydia Y. Chen
 
-#### ICLR 2026: [📄 Paper](https://openreview.net/forum?id=GKJHPHNFIx&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)) | [💻 Code]()
+#### ICLR 2026: [📄 Paper](https://openreview.net/forum?id=GKJHPHNFIx&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions)) | [💻 Code](https://github.com/Gertlek/DetectiveSAM)
 
 <details>
 <summary>Citation</summary>
@@ -88,10 +111,53 @@ Aditya Shankar, Yuandou Wang, Rihan Hai, Lydia Y. Chen
 </pre>
 </details>
 
-
-
 ---
 
+### An Optimal Transport View of Activation Steering In Masked Diffusion Models
+
+Gert Lek, Chaoyi Zhu, Pin-Yu Chen, Robert Birke, Lydia Y. Chen
+
+#### ICLR 2026 TTU Workshop : [📄 Paper](https://openreview.net/forum?id=3JM0DTKxgE)
+
+<details>
+
+<summary>Citation</summary>
+
+<pre>
+@inproceedings{
+lek2026optimal,
+title={An Optimal Transport View of Activation Steering In Masked Diffusion Models},
+author={Gert Lek and Chaoyi Zhu and Pin-Yu Chen and Robert Birke and Lydia Y. Chen},
+booktitle={ICLR 2026 Test-Time Updates Workshop},
+year={2026},
+}
+</pre>
+</details>
+
+---
+### Test-time Graph Extrapolation via Progressive Anchor-Guided Expansion
+
+Abele Mălan, Roberto Gheda, Robert Birke, Lydia Y. Chen
+
+#### 3rd Workshop on Test-Time Updates: [📄 Paper](https://openreview.net/forum?id=YKyvRqhUWU) | [💻 Code](https://github.com/AbeleMM/Pro-Guid)
+
+<details>
+<summary>Citation</summary>
+
+<pre>
+@inproceedings{MalanTTU26ProGuid,
+author = {Abele Mălan and
+Roberto Gheda and
+Robert Birke and
+Lydia Y. Chen},
+title = {Test-time Graph Extrapolation via Progressive Anchor-Guided Expansion},
+booktitle = {Workshop on Test-Time Updates},
+year = {2026}
+}
+</pre>
+</details>
+
+---
 ### TimeWak: Temporal Chained-Hashing Watermark for Time Series Data
 
 Zhi Wen Soi, Chaoyi Zhu, Fouad Abiad, Aditya Shankar, Jeroen Galjaard, Huijuan Wang, Lydia Y. Chen
