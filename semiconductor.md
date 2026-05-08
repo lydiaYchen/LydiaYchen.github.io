@@ -1,9 +1,9 @@
 ---
 layout: page
-title: AI for Semiconductor
+title: AI for Science
 ---
 
-The **semiconductor industry** faces complex problems such as **root-cause analysis** and **predicting maintainance** which can benefit from collaboration between multiple parties.
+The semiconductor industry faces complex problems such as **root-cause analysis** and **predicting maintainance** which can benefit from collaboration between multiple parties.
 However, strict confidentiality requirements prevent such cooperation.
 We enable collaborative machine learning while protecting proprietary information.
 
