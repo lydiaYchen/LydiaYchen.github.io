@@ -9,6 +9,30 @@ We study generative models for structured data such as **tables** and **time ser
 ## **Publications**
 --
 
+### SuperHype: Hypergraph Generation via Graph-Superposition Decomposition
+
+Lucas Gantes, Abele Mălan, Roberto Gheda, Robert Birke, Lydia Y. Chen
+
+#### ICML 2026: [📄 Paper](https://openreview.net/pdf?id=VasXWJMqSp) | [💻 Code]()
+
+<details>
+<summary>Citation</summary>
+
+<pre>
+@inproceedings{GantesICML26SuperHype,
+author = {Lucas Gantes and
+Abele Mălan and
+Roberto Gheda and
+Robert Birke and
+Lydia Y. Chen},
+title = {SuperHype: Hypergraph Generation via Graph-Superposition Decomposition},
+booktitle = {ICML},
+year = {2026}
+}
+</pre>
+</details>
+
+---
 ### Harpoon: Generalised Manifold Guidance for Conditional Tabular Diffusion
 
 Aditya Shankar, Yuandou Wang, Rihan Hai, Lydia Y. Chen
