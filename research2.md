@@ -7,7 +7,7 @@ A complete list from [dblp](publicationlist.md)
 ---
 ### SuperHype: Hypergraph Generation via Graph-Superposition Decomposition
 
-Lucas Gantes, Abele Mălan, Roberto Gheda, Robert Birke, Lydia Y. Chen
+Lucas Gantes, Abele Mălan,Roberto Gheda , Robert Birke, Lydia Y. Chen 
 
 #### ICML 2026: [📄 Paper](https://openreview.net/pdf?id=VasXWJMqSp) | [💻 Code]()
 
@@ -23,6 +23,27 @@ Robert Birke and
 Lydia Y. Chen},
 title = {SuperHype: Hypergraph Generation via Graph-Superposition Decomposition},
 booktitle = {ICML},
+year = {2026}
+}
+</pre>
+</details>
+
+---
+### Hail to the Thief: Exploring Attacks and Defenses in Decentralised GRPO"
+
+Nikolay Blagoev,  Oğuzhan Ersoy, Lydia Y. Chen
+
+
+#### ACL 2026: [📄 Paper](href="https://arxiv.org/abs/2511.09780) | [💻 Code]()
+
+<details>
+<summary>Citation</summary>
+
+<pre>
+@inproceedings{HTTFACL26Blagove,
+author = {Nikolay Blagoev and  Oğuzhan Ersoy and Lydia Y. Chen},
+title = {Hail to the Thief: Exploring Attacks and Defenses in Decentralised GRPO"},
+booktitle = {ACL},
 year = {2026}
 }
 </pre>
