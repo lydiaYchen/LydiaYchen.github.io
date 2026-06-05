@@ -6,11 +6,11 @@ title: Research
 In our group, the overarching research theme is trustworthy generative AI systems, with the following specific focus:
 
 - [Structural synthetic data generation](structureData.md)
-  We study generative models for structured data such as **tables** and **time series**. Our work spans Generative Adversarial Networks (GANs), **Large Language Models (LLMs)** and **Diffusion models**, focusing on synthetic data quality, downstream utility, and privacy. We also explore **federated and decentralized settings**, which commonly arise in real-world collaborative scenarios.
+  We study generative models for structured data such as **tables**, **graphs** and **time series**. Our work spans Generative Adversarial Networks (GANs), Large Language Models (LLMs and **Diffusion models**, focusing on synthetic data quality, downstream utility, and privacy. We also explore federated and decentralized settings*, which commonly arise in real-world collaborative scenarios.
 <br>
 <br>
 - [Watermarking generative models](watermark.md)
-  Generative models are increasingly used to create synthetic data across domains, from text and images to tabular data and time series. However, the proliferation of AI-generated content raises critical concerns about **model ownership**, **data provenance**, and **intellectual property protection**. **Watermarking** techniques offer a solution by embedding verifiable signatures into generative content, enabling creators to prove authenticity and trace misuse while maintaining the utility and quality of generated content.
+  Generative models are increasingly used to create synthetic data across domains, from text and images to tabular data and time series. However, the proliferation of AI-generated content raises critical concerns about **model ownership**, **data provenance**, and intellectual property protection. Watermarking techniques offer a solution by embedding verifiable signatures into generative content, enabling creators to prove authenticity and trace misuse while maintaining the utility and quality of generated content.
 <br>
 <br>
 - [Privacy and security in AI](robustML.md)
