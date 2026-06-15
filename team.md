@@ -156,7 +156,7 @@ lydiaychen@ieee.org
       </div>
     </td>
       <td>
-      <img class="profile-img" src="" alt="Jean Pool Príncipe" title="phd" />
+      <img class="profile-img" src="../assets/img/Pol.jpg" alt="Jean Pool Príncipe" title="phd" />
       <div class="profile-name">
         <a href="mailto:\">Jean Pool Príncipe </a>
       </div>
