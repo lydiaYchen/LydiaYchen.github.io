@@ -107,13 +107,15 @@ lydiaychen@ieee.org
         <a href="mailto:abele.malan@unine.ch">Abel Malan</a>
       </div>
     </td>
-    <td>
-      <img class="profile-img" src="../assets/img/bart.jpeg" alt="Bart Cox" title="phd" />
+   </td>
+      <td>
+      <img class="profile-img" src="../assets/img/Pol.jpg" alt="Jean Pool Príncipe" title="phd" />
       <div class="profile-name">
-        <a href="mailto:b.a.cox@tudelft.nl">Bart Cox</a>
+        <a href="mailto:\">Jean Pool Príncipe </a>
       </div>
     </td>
     <td>
+     
       <img class="profile-img" src="../assets/img/Basile.jpg" alt="Basile Lewandowski" title="phd" />
       <div class="profile-name">
         <a href="mailto:basile.lewandowski@unine.ch">Basile Lewandowski</a>
@@ -154,13 +156,7 @@ lydiaychen@ieee.org
       <div class="profile-name">
         <a href="mailto:">Giulio Segalini</a>
       </div>
-    </td>
-      <td>
-      <img class="profile-img" src="../assets/img/Pol.jpg" alt="Jean Pool Príncipe" title="phd" />
-      <div class="profile-name">
-        <a href="mailto:\">Jean Pool Príncipe </a>
-      </div>
-    </td>
+ 
   </tr>
 
 </table>
