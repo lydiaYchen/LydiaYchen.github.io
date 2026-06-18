@@ -4,7 +4,6 @@ cover-img:
  - "assets/img/group_winter.jpg" : "Winterschool"
  - "assets/img/MarchVisit.jpg" : "Quantization Workshop"
  - "assets/img/Kickoff2025.jpg" : "SNSF Project Kickoff"
- - "assets/img/SamerMaria.jpg" : "At Maria"
  - "assets/img/cusohike25.jpg" : "Cuso hike"
  - "assets/img/icecream_2025.jpg" : "Den Haag, 2025"
 title:  Who we are
@@ -155,9 +154,7 @@ lydiaychen@ieee.org
       <div class="profile-name">
         <a href="mailto:">Giulio Segalini</a>
       </div>
- 
   </tr>
-
 </table>
 
 <!-- Markdown for interns below -->
