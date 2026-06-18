@@ -107,12 +107,12 @@ lydiaychen@ieee.org
       </div>
     </td>
    </td>
-      <td>
-      <img class="profile-img" src="../assets/img/Pol.jpg" alt="Jean Pool Príncipe" title="phd" />
+   <td>
+    <img class="profile-img" src="../assets/img/Giulio.jpg" alt="Giulio Segalini" title="phd" />
       <div class="profile-name">
-        <a href="mailto:\">Jean Pool Príncipe </a>
+        <a href="mailto:">Giulio Segalini</a>
       </div>
-    </td>
+    </td> 
     <td>
       <img class="profile-img" src="../assets/img/Basile.jpg" alt="Basile Lewandowski" title="phd" />
       <div class="profile-name">
@@ -150,11 +150,11 @@ lydiaychen@ieee.org
       </div>
     </td>
     <td>
-    <img class="profile-img" src="../assets/img/Giulio.jpg" alt="Giulio Segalini" title="phd" />
+      <img class="profile-img" src="../assets/img/Pol.jpg" alt="Jean Pool Príncipe" title="phd" />
       <div class="profile-name">
-        <a href="mailto:">Giulio Segalini</a>
+        <a href="mailto:\">Jean Pool Príncipe </a>
       </div>
-    </td> 
+    </td>
   </tr>
 </table>
 
