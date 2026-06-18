@@ -115,7 +115,6 @@ lydiaychen@ieee.org
       </div>
     </td>
     <td>
-     
       <img class="profile-img" src="../assets/img/Basile.jpg" alt="Basile Lewandowski" title="phd" />
       <div class="profile-name">
         <a href="mailto:basile.lewandowski@unine.ch">Basile Lewandowski</a>
