@@ -154,6 +154,7 @@ lydiaychen@ieee.org
       <div class="profile-name">
         <a href="mailto:">Giulio Segalini</a>
       </div>
+    </td> 
   </tr>
 </table>
 
