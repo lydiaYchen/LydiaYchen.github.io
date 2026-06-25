@@ -5,11 +5,34 @@ A complete list from [dblp](publicationlist.md)
 ## All papers with code
 
 ---
+
+### Measuring Legislature-Aligned Privacy Risks in Synthetic Graphs
+
+Abele Mălan, Ahmad Al Kurdi, Stefanie Roos, Lydia Y. Chen
+
+#### PETS 2026: [📄 Paper]() | [💻 Code](https://github.com/AbeleMM/synthegranon)
+
+<details>
+<summary>Citation</summary>
+
+<pre>
+@inproceedings{MalanPETS26SyntheGrAnon,
+author = {Abele Mălan and
+Ahmad Al Kurdi and
+Stefanie Roos and
+Lydia Y. Chen},
+title = {Measuring Legislature-Aligned Privacy Risks in Synthetic Graphs},
+booktitle = {PETS},
+year = {2026}
+}
+</pre>
+</details>
+
 ### SuperHype: Hypergraph Generation via Graph-Superposition Decomposition
 
-Lucas Gantes, Abele Mălan,Roberto Gheda , Robert Birke, Lydia Y. Chen 
+Lucas Gantes, Abele Mălan, Roberto Gheda, Robert Birke, Lydia Y. Chen
 
-#### ICML 2026: [📄 Paper](https://openreview.net/pdf?id=VasXWJMqSp) | [💻 Code]()
+#### ICML 2026: [📄 Paper](https://openreview.net/pdf?id=VasXWJMqSp) | [💻 Code](https://github.com/Lucas-Gantes/SuperHype)
 
 <details>
 <summary>Citation</summary>
@@ -27,7 +50,6 @@ year = {2026}
 }
 </pre>
 </details>
-
 ---
 ### Hail to the Thief: Exploring Attacks and Defenses in Decentralised GRPO"
 
