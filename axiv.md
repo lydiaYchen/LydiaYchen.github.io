@@ -3,7 +3,12 @@ layout: page
 title: News Arxiv
 subtitle: 
 ---
+
  <h2>News Arxiv</h2>
+  <li>[04/25] Our group has three papers accepted at  <a href="https://ecmlpkdd.org/2025/"> ECML/PKDD 25</a></li>    
+  
+ <li>[04/25] Lydia will serve <a href="https://dsn2025.github.io/"> DSN 26 </a> TPC co-chairs </li>
+ 
  <li>[04/25] Our group has three papers accepted at <a href="https://www.ares-conference.eu/"> ARES 25</a></li>    
  
 <li>[01/25] Our paper, <a href="https://iclr.cc/virtual/2025/poster/30853">  “TabWak: A Watermark for Tabular Diffusion Models" </a> , is accepted as a <span style="color: #ff0000"> spotlight paper </span>at <a href="https://iclr.cc/virtual/2025/poster/30853"> ICLR 25</a></li>     
