@@ -150,6 +150,58 @@ Aditya Shankar, Yuandou Wang, Rihan Hai, Lydia Y. Chen
 
 ---
 
+### NeMoS: Nearest Neighbors Bandit meets Active Learning for Online Model Selection
+
+Jules Damidaux, Basile Lewandowski, Farzan Farnia, Lydia Chen
+
+#### TMLR: [📄 Paper](https://openreview.net/forum?id=CSjewjplO1) | [💻 Code](https://github.com/julesdamidaux/nemos-tmlr)
+
+<details>
+<summary>Citation</summary>
+
+<pre>
+@article{
+damidaux2026nemos,
+title={NeMoS: Nearest Neighbors Bandit meets Active Learning for Online Model Selection},
+author={Jules Damidaux and Basile Lewandowski and Farzan Farnia and Lydia Chen},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2026},
+url={https://openreview.net/forum?id=CSjewjplO1},
+note={Expert Certification}
+}
+</pre>
+</details>
+
+---
+
+### PicTune: A Framework for Optimal Selection on Text-to-Image Diffusion Models Fine-Tuning
+
+Basile Lewandowski, Robert Birke, Lydia Y. Chen
+
+#### ECML 2026: [📄 Paper](https://link.springer.com/content/pdf/10.1007/978-3-032-37657-2.pdf) | [💻 Code](https://media.springernature.com/original/springer-static/esm/chp%3A10.1007%2F978-3-032-37657-2_25/MediaObjects/694220_1_En_25_MOESM1_ESM.zip)
+
+<details>
+<summary>Citation</summary>
+
+<pre>
+@InProceedings{10.1007/978-3-032-37657-2_25,
+author="Lewandowski, Basile
+and Birke, Robert
+and Chen, Lydia Y.",
+title="PicTune: A Framework for Optimal Selection on Text-to-Image Diffusion Models Fine-Tuning",
+booktitle="Machine Learning and Knowledge Discovery in Databases. Research Track",
+year="2027",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="444--461",
+isbn="978-3-032-37657-2"
+}
+</pre>
+</details>
+
+---
+
 ### An Optimal Transport View of Activation Steering In Masked Diffusion Models
 
 Gert Lek, Chaoyi Zhu, Pin-Yu Chen, Robert Birke, Lydia Y. Chen
