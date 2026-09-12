@@ -28,6 +28,8 @@ year = {2026}
 </pre>
 </details>
 
+---
+
 ### SuperHype: Hypergraph Generation via Graph-Superposition Decomposition
 
 Lucas Gantes, Abele Mălan, Roberto Gheda, Robert Birke, Lydia Y. Chen
@@ -50,6 +52,7 @@ year = {2026}
 }
 </pre>
 </details>
+
 ---
 ### Hail to the Thief: Exploring Attacks and Defenses in Decentralised GRPO"
 
