@@ -6,6 +6,29 @@ A complete list from [dblp](publicationlist.md)
 
 ---
 
+## GOLIATH: Gradient Inversion of Tabular Diffusion Models
+
+Giulio Segalini, Aditya Shankar, Jérémie Decouchant, Lydia Y. Chen
+
+#### NeurIPS 2026: [📄 Paper](https://openreview.net/forum?id=GXxPzaSox4) | [💻 Code](https://github.com/gsegalini/goliath)
+
+<details>
+<summary>Citation</summary>
+
+<pre>
+@inproceedings{segalini2026goliath,
+  title={GOLIATH: Gradient Inversion of Tabular Diffusion Models},
+  author={Giulio Segalini and Aditya Shankar and Jérémie Decouchant and Lydia Y. Chen},
+  booktitle={Advances in Neural Information Processing Systems},
+  year={2026},
+  url={https://openreview.net/forum?id=GXxPzaSox4}
+}
+</pre>
+</details>
+
+
+---
+
 ### Measuring Legislature-Aligned Privacy Risks in Synthetic Graphs
 
 Abele Mălan, Ahmad Al Kurdi, Stefanie Roos, Lydia Y. Chen
