@@ -16,7 +16,7 @@ At 200 papers, a chair can still eyeball conflicts and hand-tune assignments. At
 
 This post shares what we did, what broke, and what I would do again. I hope it is useful to future chairs, and I would love to hear how others handle the same problems. It reflects **my personal views only, which my co-chairs may not share, and errors may remain**.
 
-I am grateful to Paul Gratz (Texas A&M, HPCA'27 TPC co-chair) and Mark Silberstein (Technion, Eurosys'24, ASPLOS'26 TPC co-chair ) for generously sharing their experience in our discussions about running large program committees. Many ideas in this post took shape in those conversations.
+I am grateful to Paul Gratz (Texas A&M, HPCA'27 TPC co-chair) and Mark Silberstein (Technion, Eurosys'24, ASPLOS'26 TPC co-chair ) for generously sharing their experience in our discussions about scaling conference review processes. Many ideas in this post took shape in those conversations.
 
 A big thank-you to my students, Zhiwen Soi and Nicolas van Shaik, for all their help behind the scenes.
 
