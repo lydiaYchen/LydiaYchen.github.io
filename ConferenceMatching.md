@@ -1,3 +1,7 @@
+---
+layout: page
+title: Scaling Conference Reviews
+---
 # Scaling the Review Process of Systems Conferences
 
 **Lydia Y. Chen**, Professor, University of Neuch&acirc;tel | [lydiaychen.com](https://lydiaychen.com/)
