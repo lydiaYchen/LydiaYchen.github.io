@@ -129,7 +129,7 @@ TPMS works well, but it is an external service run by people over email. Budget 
     - Reviewer conflicts, which can be downloaded directly from HotCRP.
 4. **Send the files to TPMS by email and wait.** Expect 3-5 days, depending on how clean your files are and how busy the TPMS team is. Line up the timing with them in advance so they expect your files.
 5. **Receive scores and a proposed assignment.** The score file is the most valuable output. It holds the affinity score for every paper-reviewer pair, so you can rerun or adjust the assignment yourself instead of depending on a single proposal. Alternatively, import the scores into HotCRP as review preferences for each paper-reviewer pair and let HotCRP compute the assignment from them.
-6. **Handle a second review round.** If your conference has two review rounds, there are two options. The first is to repeat the TPMS process and include the round-1 assignment; otherwise TPMS assumes its first proposed assignment was used and continues from there. The second is to import the normalized scores as preferences for each paperâreviewer pair and run the assignment directly in HotCRP.
+6. **Handle a second review round.** If your conference has two review rounds, there are two options. The first is to repeat the TPMS process and include the round-1 assignment; otherwise TPMS assumes its first proposed assignment was used and continues from there. The second is to import the normalized scores as preferences for each paper-reviewer pair and run the assignment directly in HotCRP.
 
 The lesson: TPMS quality depends on profile quality, and the timeline depends on how few round trips you need. You can also ask the TPMS team for a report on matching quality.
 
