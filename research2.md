@@ -5,6 +5,50 @@ A complete list from [dblp](publicationlist.md)
 ## All papers with code
 
 ---
+## Understanding Confabulation and Rethinking Reconstruction in Activation Explanations
+
+Gert Lek, Zixuan Xia, Pin-Yu Chen, Lydia Chen
+
+#### arXiv: [:page_facing_up: Paper](https://arxiv.org/abs/2609.33702)
+
+<details>
+<summary>Citation</summary>
+
+<pre>
+@article{
+lek2026confabulation,
+title={Understanding Confabulation and Rethinking Reconstruction in Activation Explanations},
+author={Gert Lek and Zixuan Xia and Pin-Yu Chen and Lydia Chen},
+journal={arXiv preprint arXiv:2609.33702},
+year={2026},
+url={https://arxiv.org/abs/2609.33702}
+}
+</pre>
+</details>
+
+## Safety Reconstructed: Generative Modeling via Masked Diffusion Builds Strong Safety Guardrails
+
+Gert Lek, Abele Malan, Chaoyi Zhu, Pin-Yu Chen, Robert Birke, Lydia Chen
+
+#### NeurIPS 2026 (Spotlight): [:page_facing_up: Paper](https://arxiv.org/abs/2609.33634)
+
+<details>
+<summary>Citation</summary>
+
+<pre>
+@inproceedings{
+lek2026safety,
+title={Safety Reconstructed: Generative Modeling via Masked Diffusion Builds Strong Safety Guardrails},
+author={Gert Lek and Abele Malan and Chaoyi Zhu and Pin-Yu Chen and Robert Birke and Lydia Chen},
+booktitle={Advances in Neural Information Processing Systems},
+year={2026},
+url={https://arxiv.org/abs/2609.33634},
+note={Spotlight}
+}
+</pre>
+</details>
+
+---
 
 ## GOLIATH: Gradient Inversion of Tabular Diffusion Models
 
@@ -25,7 +69,6 @@ Giulio Segalini, Aditya Shankar, Jérémie Decouchant, Lydia Y. Chen
 }
 </pre>
 </details>
-
 
 ---
 
