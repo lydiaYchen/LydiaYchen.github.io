@@ -42,7 +42,7 @@ At large scale, the PC alone is not enough. This is where reserve reviewers recr
 
 ### 3. Which matching algorithm?
 
-Matching has two parts: computing a score for every paperâreviewer pair, and turning scores into an assignment.
+Matching has two parts: computing a score for every paper-reviewer pair, and turning scores into an assignment.
 
 **Signatures.** A paper's signature is usually built from its abstract or full PDF. A reviewer's signature is built from their past publications, and here the design space is large:
 
