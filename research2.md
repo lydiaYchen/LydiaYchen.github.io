@@ -9,7 +9,7 @@ A complete list from [dblp](publicationlist.md)
 
 Gert Lek, Zixuan Xia, Pin-Yu Chen, Lydia Chen
 
-#### arXiv: [:page_facing_up: Paper](https://arxiv.org/abs/2609.33702)
+#### arXiv:  [📄 Paper](https://arxiv.org/abs/2609.33702)
 
 <details>
 <summary>Citation</summary>
@@ -30,7 +30,7 @@ url={https://arxiv.org/abs/2609.33702}
 
 Gert Lek, Abele Malan, Chaoyi Zhu, Pin-Yu Chen, Robert Birke, Lydia Chen
 
-#### NeurIPS 2026 (Spotlight): [:page_facing_up: Paper](https://arxiv.org/abs/2609.33634)
+#### NeurIPS 2026  (🏆 Spotlight):  [📄 Paper](https://arxiv.org/abs/2609.33634)
 
 <details>
 <summary>Citation</summary>
