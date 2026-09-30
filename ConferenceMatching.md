@@ -68,7 +68,7 @@ Every matching algorithm, whether TPMS or our own, rests on one foundation: a un
 
 |  | ORCID | DBLP | OpenAlex | TPMS |
 | --- | --- | --- | --- | --- |
-| **Unique ID** | ORCID iD, owned by the researcher | DBLP pid | OpenAlex author ID | Profile email |
+| **Unique ID** | ORCID ID, owned by the researcher | DBLP pid | OpenAlex author ID | Profile email |
 | **How records get in** | Authors add their own publications | Pulled in automatically, then verified by humans | Scraped automatically | Tracked from associated venues; users can also curate their profile and upload their own papers |
 | **Content** | Metadata | Metadata, no abstracts | Metadata with abstracts | Title, abstract and PDF |
 | **Strength** | Unambiguous identifier | Clean, curated records | Abstracts come for free | Affinity vectors from title, abstract and PDF are straightforward |
