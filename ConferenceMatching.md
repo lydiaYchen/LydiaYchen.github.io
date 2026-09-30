@@ -1,6 +1,6 @@
-# Scaling the Review Process of Systems Conferences: Lessons from 200 to 1,200 Submissions
+# Scaling the Review Process of Systems Conferences
 
-**Lydia Y. Chen**, Professor, University of NeuchÃ¢tel Â· [lydiaychen.com](https://lydiaychen.com/)
+**Lydia Y. Chen**, Professor, University of Neuchatel· [lydiaychen.com](https://lydiaychen.com/)
 
 *September 29, 2026*
 
@@ -122,7 +122,7 @@ TPMS works well, but it is an external service run by people over email. Budget 
 ### After the submission deadline
 
 1. **Finalize the reviewable set.** Automate the desk-reject rules: submission limits per author, missing or inappropriate form fields, and format violations. HotCRP's CSV and JSON exports are the raw input for these scripts. The scripts filter out most cases; the rest, especially formatting issues, need manual inspection. One important question is how strictly to enforce these rules, especially when authors request changes after submission.
-2. **Resolve conflicts of interest in HotCRP.** HotCRP flags potential conflicts on its assignment-conflict page, an HTML list per reviewer. Each one must be confirmed or dismissed. The list can approach reviewers Ã papers entries, so clicking through it in the web interface is not realistic. We wrote a script that extracts the key fields from that HTML into a CSV for fast review. Skipping this step is costly: unresolved conflicts make the later bulk import of the TPMS assignment fail.
+2. **Resolve conflicts of interest in HotCRP.** HotCRP flags potential conflicts on its assignment-conflict page, an HTML list per reviewer. Each one must be confirmed or dismissed. The list can approach reviewers-papers entries, so clicking through it in the web interface is not realistic. We wrote a script that extracts the key fields from that HTML into a CSV for fast review. Skipping this step is costly: unresolved conflicts make the later bulk import of the TPMS assignment fail.
 3. **Prepare the three TPMS input files.** Each needs a specific format, so expect to reshape HotCRP's exports:
     - Submitted PDFs, named with TPMS's required paper-ID format (mandatory).
     - The reviewer list: TPMS email, name, and number of papers each will review.
@@ -189,7 +189,7 @@ In our case, the original instance handled PC reviews and the second instance ha
 
 ## EuroSys'27 fall: our own matching pipeline
 
-For the second route, we built our own pipeline on open data. It builds on the reviewerâpaper matching tool that Paul Gratz developed for the HPCA 2027 program committee ([hpca2027-reviewer-match](https://github.com/pgratz1/hpca2027-reviewer-match)), and we are grateful to him for making it available. Like the HPCA tool, we use SPECTER2 to embed papers and compute reviewerâpaper affinity from those embeddings.
+For the second route, we built our own pipeline on open data. It builds on the reviewer-paper matching tool that Paul Gratz developed for the HPCA 2027 program committee ([hpca2027-reviewer-match](https://github.com/pgratz1/hpca2027-reviewer-match)), and we are grateful to him for making it available. Like the HPCA tool, we use SPECTER2 to embed papers and compute reviewerâpaper affinity from those embeddings.
 
 We made two main changes on top of the HPCA pipeline. First, we build each reviewer's publication record from their ORCID, whereas the HPCA tool uses the DBLP entry provided by each reviewer. Second, our reviewer affinity vector is based on the titles and abstracts of their papers, extracted automatically from OpenAlex, whereas the HPCA tool relies on titles. As a result, the backbone of our pipeline is one identifier: ORCID. We will open-source the pipeline soon.
 
