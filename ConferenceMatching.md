@@ -203,7 +203,7 @@ The table below compares the three matching routes: TPMS alone, the HPCA 2027 to
 
 ### Conflicts of interest
 
-- Authorâreviewer conflicts are derived from ORCID entries in DBLP, which gives us co-authorship automatically.
+- Author-reviewer conflicts are derived from ORCID entries in DBLP, which gives us co-authorship automatically.
 - Collaboration and institutional history flagged by HotCRP is added on top.
 
 ### Expertise signatures
@@ -214,7 +214,7 @@ The table below compares the three matching routes: TPMS alone, the HPCA 2027 to
 
 ### Scores
 
-The match score for a paperâreviewer pair is the cosine similarity between the reviewer's expertise signature and the paper's abstract signature.
+The match score for a paper-reviewer pair is the cosine similarity between the reviewer's expertise signature and the paper's abstract signature.
 
 ### Inputs from HotCRP
 
