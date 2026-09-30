@@ -4,7 +4,7 @@ title: Scaling Conference Review Process
 ---
 
 
-**Lydia Y. Chen**, Professor, University of Neuch&acirc;tel | [lydiaychen.com](https://lydiaychen.com/)
+**Lydia Y. Chen**, Professor, University of Neuchâtel · lydiaychen.com
 
 *September 29, 2026*
 
