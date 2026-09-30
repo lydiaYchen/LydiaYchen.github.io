@@ -1,6 +1,6 @@
-# Scaling the Review Process of Systems Conferences
+# Scaling the Review Process of Systems Conferences: Lessons from 200 to 1,200 Submissions
 
-**Lydia Y. Chen**, Professor, University of Neuchatel· [lydiaychen.com](https://lydiaychen.com/)
+**Lydia Y. Chen**, Professor, University of Neuch&acirc;tel | [lydiaychen.com](https://lydiaychen.com/)
 
 *September 29, 2026*
 
@@ -84,7 +84,15 @@ The overall challenge is identifying unique people from names, emails and affili
 
 The sections below show how this plays out in practice. TPMS relies on its own curated profiles, keyed by email. Our pipeline uses ORCID as the key and treats the other databases as sources of content: DBLP for the publication list and OpenAlex for the abstracts.
 
-## Background: why we ran two matching routes at EuroSys
+## DSN'26: growing the PC after the abstract deadline
+
+At DSN'26, we received about 30% more submissions than expected. We used HotCRP for submissions, and assignments were made through bidding and HotCRP's built-in automatic assignment. Right after the abstract deadline, we issued an emergency call to recruit additional PC members. We asked our existing PC members to recommend candidates within three days, then processed each recommendation manually and vetted the candidates one by one. In hindsight, we should have asked PC members to fill in a structured recommendation form, which would have greatly simplified post-processing and vetting.
+
+This let us add another 40 PC members before the full-paper deadline. We then ran two review rounds with the enlarged PC. Thanks to its size, the review load per PC member stayed moderate across both rounds, even over the Christmas holidays.
+
+Right after the second round, we moved straight into a two-week author rebuttal phase and the discussion phase. During this long rebuttal phase, authors were expected to improve their manuscripts, and decisions were based on the revised versions. This simplified acceptance: only very few accepted papers needed shepherding. That matters, because arranging shepherding after a conditional acceptance is not easy. It requires coordination between authors and reviewers and involves both the PC chairs and the proceedings chairs, a process not to be underestimated.
+
+## Background: why we ran two matching routes at EuroSys'27
 
 EuroSys has two submission cycles, spring and fall. In the spring cycle we had about 400 submissions and about 200 PC members, so we ran two rounds of reviews with the PC, using HotCRP with TPMS for matching.
 
@@ -106,7 +114,7 @@ We chose not to rely on bidding. Going through a large number of submissions to 
 
 **How TPMS matching works.** TPMS computes an affinity score for every paper-reviewer pair from text. It builds a profile for each reviewer from their past publications, represents the submission and the reviewer's papers in a shared vector space, and scores their similarity. The original TPMS used bag-of-words (TF-IDF-style) and LDA topic representations; newer matching services, such as OpenReview's, compute similarity from document embeddings like SPECTER, the same family of models our own pipeline uses. The scores then go into an optimizer that maximizes total affinity subject to constraints on reviewer load and reviews per paper, often combined with bids and subject-area matches.
 
-**Bidding is possible in TPMS.** We let TPMS alone decide the matching. In some cases the outcome is poor, meaning the affinity scores are low, for example below 75. Another way to fix such mismatches is bidding. EuroSys'24 and EuroSys'26 ran bidding in parallel with TPMS, in different ways: EuroSys'24 first gave reviewers a set of around 40 papers with high TPMS scores to bid on, while EuroSys'26 simply asked reviewers to bid as usual. HotCRP then combines the bid scores with the TPMS scores into the final scores used for matching. The bidding scores and their ranges are configurable in the HotCRP JSON settings. **The exact number mentioned may be incorrect**
+**Bidding is possible in TPMS.** We let TPMS alone decide the matching. In some cases the outcome is poor, meaning the affinity scores are low, for example below 75. Another way to fix such mismatches is bidding. EuroSys'24 and EuroSys'26 ran bidding in parallel with TPMS, in different ways: EuroSys'24 first gave reviewers a set of around 40 papers with high TPMS scores to bid on, while EuroSys'26 simply asked reviewers to bid as usual. HotCRP then combines the bid scores with the TPMS scores into the final scores used for matching. The bidding scores and their ranges are configurable in the HotCRP JSON settings.
 
 TPMS works well, but it is an external service run by people over email. Budget 2 days for every correction round trip and 3-5 days for the main scoring run. Most of the work is making sure you never need a second round trip.
 
@@ -122,7 +130,7 @@ TPMS works well, but it is an external service run by people over email. Budget 
 ### After the submission deadline
 
 1. **Finalize the reviewable set.** Automate the desk-reject rules: submission limits per author, missing or inappropriate form fields, and format violations. HotCRP's CSV and JSON exports are the raw input for these scripts. The scripts filter out most cases; the rest, especially formatting issues, need manual inspection. One important question is how strictly to enforce these rules, especially when authors request changes after submission.
-2. **Resolve conflicts of interest in HotCRP.** HotCRP flags potential conflicts on its assignment-conflict page, an HTML list per reviewer. Each one must be confirmed or dismissed. The list can approach reviewers-papers entries, so clicking through it in the web interface is not realistic. We wrote a script that extracts the key fields from that HTML into a CSV for fast review. Skipping this step is costly: unresolved conflicts make the later bulk import of the TPMS assignment fail.
+2. **Resolve conflicts of interest in HotCRP.** HotCRP flags potential conflicts on its assignment-conflict page, an HTML list per reviewer. Each one must be confirmed or dismissed. The list can approach reviewers x papers entries, so clicking through it in the web interface is not realistic. We wrote a script that extracts the key fields from that HTML into a CSV for fast review. Skipping this step is costly: unresolved conflicts make the later bulk import of the TPMS assignment fail.
 3. **Prepare the three TPMS input files.** Each needs a specific format, so expect to reshape HotCRP's exports:
     - Submitted PDFs, named with TPMS's required paper-ID format (mandatory).
     - The reviewer list: TPMS email, name, and number of papers each will review.
@@ -189,7 +197,7 @@ In our case, the original instance handled PC reviews and the second instance ha
 
 ## EuroSys'27 fall: our own matching pipeline
 
-For the second route, we built our own pipeline on open data. It builds on the reviewer-paper matching tool that Paul Gratz developed for the HPCA 2027 program committee ([hpca2027-reviewer-match](https://github.com/pgratz1/hpca2027-reviewer-match)), and we are grateful to him for making it available. Like the HPCA tool, we use SPECTER2 to embed papers and compute reviewer/paper affinity from those embeddings.
+For the second route, we built our own pipeline on open data. It builds on the reviewer-paper matching tool that Paul Gratz developed for the HPCA 2027 program committee ([hpca2027-reviewer-match](https://github.com/pgratz1/hpca2027-reviewer-match)), and we are grateful to him for making it available. Like the HPCA tool, we use SPECTER2 to embed papers and compute reviewer-paper affinity from those embeddings.
 
 We made two main changes on top of the HPCA pipeline. First, we build each reviewer's publication record from their ORCID, whereas the HPCA tool uses the DBLP entry provided by each reviewer. Second, our reviewer affinity vector is based on the titles and abstracts of their papers, extracted automatically from OpenAlex, whereas the HPCA tool relies on titles. As a result, the backbone of our pipeline is one identifier: ORCID. We will open-source the pipeline soon.
 
