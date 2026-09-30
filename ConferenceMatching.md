@@ -1,4 +1,4 @@
-# Scaling the Review Process of Systems Conferences: Lessons from 200 to 1,200 Submissions
+# Scaling the Review Process of Systems Conferences
 
 **Lydia Y. Chen**, Professor, University of Neuch&acirc;tel | [lydiaychen.com](https://lydiaychen.com/)
 
