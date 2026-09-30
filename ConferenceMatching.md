@@ -127,8 +127,8 @@ TPMS works well, but it is an external service run by people over email. Budget 
     - Submitted PDFs, named with TPMS's required paper-ID format (mandatory).
     - The reviewer list: TPMS email, name, and number of papers each will review.
     - Reviewer conflicts, which can be downloaded directly from HotCRP.
-4. **Send the files to TPMS by email and wait.** Expect 3â5 days, depending on how clean your files are and how busy the TPMS team is. Line up the timing with them in advance so they expect your files.
-5. **Receive scores and a proposed assignment.** The score file is the most valuable output. It holds the affinity score for every paperâreviewer pair, so you can rerun or adjust the assignment yourself instead of depending on a single proposal. Alternatively, import the scores into HotCRP as review preferences for each paperâreviewer pair and let HotCRP compute the assignment from them.
+4. **Send the files to TPMS by email and wait.** Expect 3-5 days, depending on how clean your files are and how busy the TPMS team is. Line up the timing with them in advance so they expect your files.
+5. **Receive scores and a proposed assignment.** The score file is the most valuable output. It holds the affinity score for every paper-reviewer pair, so you can rerun or adjust the assignment yourself instead of depending on a single proposal. Alternatively, import the scores into HotCRP as review preferences for each paper-reviewer pair and let HotCRP compute the assignment from them.
 6. **Handle a second review round.** If your conference has two review rounds, there are two options. The first is to repeat the TPMS process and include the round-1 assignment; otherwise TPMS assumes its first proposed assignment was used and continues from there. The second is to import the normalized scores as preferences for each paperâreviewer pair and run the assignment directly in HotCRP.
 
 The lesson: TPMS quality depends on profile quality, and the timeline depends on how few round trips you need. You can also ask the TPMS team for a report on matching quality.
@@ -189,7 +189,7 @@ In our case, the original instance handled PC reviews and the second instance ha
 
 ## EuroSys'27 fall: our own matching pipeline
 
-For the second route, we built our own pipeline on open data. It builds on the reviewer-paper matching tool that Paul Gratz developed for the HPCA 2027 program committee ([hpca2027-reviewer-match](https://github.com/pgratz1/hpca2027-reviewer-match)), and we are grateful to him for making it available. Like the HPCA tool, we use SPECTER2 to embed papers and compute reviewerâpaper affinity from those embeddings.
+For the second route, we built our own pipeline on open data. It builds on the reviewer-paper matching tool that Paul Gratz developed for the HPCA 2027 program committee ([hpca2027-reviewer-match](https://github.com/pgratz1/hpca2027-reviewer-match)), and we are grateful to him for making it available. Like the HPCA tool, we use SPECTER2 to embed papers and compute reviewer/paper affinity from those embeddings.
 
 We made two main changes on top of the HPCA pipeline. First, we build each reviewer's publication record from their ORCID, whereas the HPCA tool uses the DBLP entry provided by each reviewer. Second, our reviewer affinity vector is based on the titles and abstracts of their papers, extracted automatically from OpenAlex, whereas the HPCA tool relies on titles. As a result, the backbone of our pipeline is one identifier: ORCID. We will open-source the pipeline soon.
 
