@@ -108,7 +108,7 @@ We chose not to rely on bidding. Going through a large number of submissions to 
 
 **Bidding is possible in TPMS.** We let TPMS alone decide the matching. In some cases the outcome is poor, meaning the affinity scores are low, for example below 75. Another way to fix such mismatches is bidding. EuroSys'24 and EuroSys'26 ran bidding in parallel with TPMS, in different ways: EuroSys'24 first gave reviewers a set of around 40 papers with high TPMS scores to bid on, while EuroSys'26 simply asked reviewers to bid as usual. HotCRP then combines the bid scores with the TPMS scores into the final scores used for matching. The bidding scores and their ranges are configurable in the HotCRP JSON settings.
 
-TPMS works well, but it is an external service run by people over email. Budget 2 days for every correction round trip and 3â5 days for the main scoring run. Most of the work is making sure you never need a second round trip.
+TPMS works well, but it is an external service run by people over email. Budget 2 days for every correction round trip and 3-5 days for the main scoring run. Most of the work is making sure you never need a second round trip.
 
 **Pros and cons of two review rounds.** Two rounds filter out a large share of papers early and reduce the reviewing load. However, they add a lot of management overhead for the chairs, and reviewers constantly receive reminders for one step or another. It is exhausting, especially since a heavy discussion phase follows at the end of reviewing.
 
