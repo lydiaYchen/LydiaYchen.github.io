@@ -4,9 +4,20 @@ title: Scaling Conference Review Process
 ---
 
 
-**Lydia Y. Chen**, Professor, University of Neuchâtel · lydiaychen.com
+**Lydia Y. Chen**, Professor, University of Neuch&acirc;tel &middot; [lydiaychen.com](https://lydiaychen.com/)
 
 *September 29, 2026*
+
+**Contents**
+
+1. [Four decisions that shape everything else](#four-decisions-that-shape-everything-else)
+2. [Publication databases and reviewer identity](#publication-databases-and-reviewer-identity)
+3. [Middleware'25: a long journey of two cycles](#middleware25-a-long-journey-of-two-cycles)
+4. [DSN'26: growing the PC after the abstract deadline](#dsn26-growing-the-pc-after-the-abstract-deadline)
+5. [EuroSys'27 spring: HotCRP with TPMS](#eurosys27-spring-hotcrp-with-tpms)
+6. [EuroSys'27 fall: reserve reviewers, two HotCRP instances and two matching routes](#eurosys27-fall-reserve-reviewers-two-hotcrp-instances-and-two-matching-routes)
+7. [Our own matching pipeline](#our-own-matching-pipeline)
+8. [A final personal remark](#a-final-personal-remark)
 
 ## Why this post
 
@@ -16,11 +27,13 @@ At 200 papers, a chair can still eyeball conflicts and hand-tune assignments. At
 
 This post shares what we did, what broke, and what I would do again. I hope it is useful to future chairs, and I would love to hear how others handle the same problems. It reflects **my personal views only, which my co-chairs may not share, and errors may remain**.
 
-I am grateful to Paul Gratz (Texas A&M, HPCA'27 TPC co-chair) and Mark Silberstein (Technion, Eurosys'24, ASPLOS'26 TPC co-chair ) for generously sharing their experience in our discussions about scaling conference review processes. Many ideas in this post took shape in those conversations.
+I am grateful to Paul Gratz (Texas A&M, HPCA'27 TPC co-chair) and Mark Silberstein (Technion, EuroSys'24 and ASPLOS'26 TPC co-chair) for generously sharing their experience in our discussions about running large program committees. Many ideas in this post took shape in those conversations.
 
 A big thank-you to my students, Zhiwen Soi and Nicolas van Shaik, for all their help behind the scenes.
 
 A heartfelt thank-you to my co-chairs: Mohammad Sadoghi (UC Davis) at Middleware'25, Miguel Correia (INESC-ID) at DSN'26, and Pramod Bhatotia (TU Munich) and Andreas Haeberlen (UPenn) at EuroSys'27. None of this would have been possible without them.
+
+<div style="text-align: right"><a href="#top">Back to top &uarr;</a></div>
 
 ## Four decisions that shape everything else
 
@@ -42,9 +55,15 @@ HotCRP covers all of these. Its real strength at scale is that almost everything
 
 Two criteria dominate. First, the reviewers' combined expertise must cover the topics of the submitted papers, not the topics you expected. Second, conflicts of interest must be known and correct, because a wrong conflict either leaks a review or blocks a good assignment.
 
-At large scale, the PC alone is not enough. This is where reserve reviewers recruited from the authors come in (see below).
+At large scale, the carefully curated expert program committee (PC) alone is not enough. This is where reserve reviewers recruited from the authors come in (see below).
 
-### 3. Which matching algorithm?
+Another relevant point at the era of LLM agent, the very pressing issue is: can AI review the papers? The flood of the paper submissions is partially attributed to AI usage. How much AI review is allowed? Should we follow the practice of AI conferences that provide specialized LLMs as part of conference services?
+
+### 3. How should reviews run?
+
+The review process itself is a set of choices. Is there bidding or not? One review round, two, or more? Do reviewers read the first two pages or the entire paper? Is there an early-reject point? An author response? Shepherding? Every option costs effort from both chairs and reviewers, so decide up front how much time you can afford to spend. This post does not go deep into those choices; it focuses on the process we followed, the reasons behind it, and the scripts we built.
+
+### 4. Which matching algorithm?
 
 Matching has two parts: computing a score for every paper-reviewer pair, and turning scores into an assignment.
 
@@ -58,9 +77,7 @@ Matching has two parts: computing a score for every paper-reviewer pair, and tur
 
 **Assignment.** Given the scores, you still choose an objective. Maximizing the total score gives the best average match but can leave some papers with weak reviewers. Maximizing the worst match protects every paper but can lower the average. At 1,200 papers, the unlucky tail is large, so this choice matters.
 
-### 4. How should reviews run?
-
-The review process itself is a set of choices. Is there bidding or not? One review round, two, or more? Do reviewers read the first two pages or the entire paper? Is there an early-reject point? An author response? Shepherding? Every option costs effort from both chairs and reviewers, so decide up front how much time you can afford to spend. This post does not go deep into those choices; it focuses on the process we followed, the reasons behind it, and the scripts we built.
+<div style="text-align: right"><a href="#top">Back to top &uarr;</a></div>
 
 ## Publication databases and reviewer identity
 
@@ -68,7 +85,7 @@ Every matching algorithm, whether TPMS or our own, rests on one foundation: a un
 
 |  | ORCID | DBLP | OpenAlex | TPMS |
 | --- | --- | --- | --- | --- |
-| **Unique ID** | ORCID ID, owned by the researcher | DBLP pid | OpenAlex author ID | Profile email |
+| **Unique ID** | ORCID iD, owned by the researcher | DBLP pid | OpenAlex author ID | Profile email |
 | **How records get in** | Authors add their own publications | Pulled in automatically, then verified by humans | Scraped automatically | Tracked from associated venues; users can also curate their profile and upload their own papers |
 | **Content** | Metadata | Metadata, no abstracts | Metadata with abstracts | Title, abstract and PDF |
 | **Strength** | Unambiguous identifier | Clean, curated records | Abstracts come for free | Affinity vectors from title, abstract and PDF are straightforward |
@@ -88,6 +105,24 @@ The overall challenge is identifying unique people from names, emails and affili
 
 The sections below show how this plays out in practice. TPMS relies on its own curated profiles, keyed by email. Our pipeline uses ORCID as the key and treats the other databases as sources of content: DBLP for the publication list and OpenAlex for the abstracts.
 
+<div style="text-align: right"><a href="#top">Back to top &uarr;</a></div>
+
+## Middleware'25: a long journey of two cycles
+
+Middleware'25 followed an elaborate review process, which has been standard in recent editions of systems and data conferences. There were two review cycles, each with two rounds of reviews, and we sized the PC for the following load. Each paper received three reviews in the first round, and the top 40% of papers entered the second round and received two additional reviews. At the end of round 1, we sent out the early rejections. At the end of round 2, we released the reviews to authors and entered a three-day author response phase.
+
+Afterward, we started a two-week discussion phase, in which we chairs assigned a discussion lead to each round-2 paper and pinged the leads and reviewers to engage. Each paper could easily generate 20+ emails. The reviewers of each paper made the acceptance or rejection decision collectively. We tried to steer decisions toward clear acceptances and rejections rather than conditional acceptance or reject-and-resubmit, since the latter two create more work for reviewers, who must then serve as shepherds and work with the authors.
+
+![Middleware'25 review flow](https://lydiaychen.com/middleware-flow.png)
+
+*Each of the two cycles ran this flow; only accepted and shepherded papers reach the camera-ready stage.*
+
+Middleware ran smoothly overall. Two points were tricky: (i) handling revise-and-resubmit submissions from the previous year, and (ii) reviewer fatigue in the discussions. The revise-and-resubmit policy was introduced to make reviewing more thorough and to give authors another chance to improve their papers based on the reviews, much like journal papers. However, it creates many complications for chairs, who first need to contact the previous chairs to obtain the original reviews, and then contact the original reviewers; some may no longer be on the PC or may have no spare capacity for another round of review. Asking new reviewers to review such a resubmission is far from optimal too, as they lack the context of the previous reviews, even when those reviews are made available to them. Last but not least, the process must respect the conflicts of interest (COI) declared in the paper, as the chairs themselves may have a COI with a revise-and-resubmit paper.
+
+This elaborate process runs for an entire year. Reviewers at Middleware'25 received review assignments almost every month, plus many tasks and emails during the discussion and decision phases. This is a very heavy load for reviewers who contribute to the community voluntarily.
+
+<div style="text-align: right"><a href="#top">Back to top &uarr;</a></div>
+
 ## DSN'26: growing the PC after the abstract deadline
 
 At DSN'26, we received about 30% more submissions than expected. We used HotCRP for submissions, and assignments were made through bidding and HotCRP's built-in automatic assignment. Right after the abstract deadline, we issued an emergency call to recruit additional PC members. We asked our existing PC members to recommend candidates within three days, then processed each recommendation manually and vetted the candidates one by one. In hindsight, we should have asked PC members to fill in a structured recommendation form, which would have greatly simplified post-processing and vetting.
@@ -96,7 +131,11 @@ This let us add another 40 PC members before the full-paper deadline. We then ra
 
 Right after the second round, we moved straight into a two-week author rebuttal phase and the discussion phase. During this long rebuttal phase, authors were expected to improve their manuscripts, and decisions were based on the revised versions. This simplified acceptance: only very few accepted papers needed shepherding. That matters, because arranging shepherding after a conditional acceptance is not easy. It requires coordination between authors and reviewers and involves both the PC chairs and the proceedings chairs, a process not to be underestimated.
 
-## Background: why we ran two matching routes at EuroSys'27
+Compared with Middleware'25, DSN'26 had one hiccup: about 30% more submissions than we expected. However, there was only one review cycle, no revise-and-resubmit complications, and only a small number of shepherded papers. Personally, I found the workload as a chair much lighter, and I was able to do all my tasks with enthusiasm.
+
+<div style="text-align: right"><a href="#top">Back to top &uarr;</a></div>
+
+## EuroSys'27 spring: HotCRP with TPMS
 
 EuroSys has two submission cycles, spring and fall. In the spring cycle we had about 400 submissions and about 200 PC members, so we ran two rounds of reviews with the PC, using HotCRP with TPMS for matching.
 
@@ -104,13 +143,11 @@ The fall cycle was different. We received about twice as many submissions as we 
 
 TPMS works well, but getting TPMS profiles in place for all the reserve reviewers takes time. So we prepared two matching solutions in parallel: the usual HotCRP + TPMS route, and our own matching pipeline, modeled on what HPCA 2027 had done. The success of HPCA 2027, and the fact that its tooling is open source, gave us the confidence to build our own.
 
-The next sections walk through each cycle: the spring cycle with HotCRP and TPMS, then the fall cycle, where we added reserve reviewers, a second HotCRP instance and our own matching pipeline.
-
-## EuroSys'27 spring: HotCRP with TPMS
+The rest of this section covers the spring cycle, which used HotCRP and TPMS. The next section covers the fall cycle, where we added reserve reviewers, a second HotCRP instance and our own matching pipeline.
 
 The spring cycle used two review rounds. In round 1, each paper received three reviews, and papers could be rejected based on them. The remaining papers went to round 2 and received two more reviews. Authors then had a rebuttal phase to respond to the reviews, after which the PC discussed the reviews together with the author responses. Decisions were made bottom-up, from that discussion.
 
-![Spring cycle review flow](spring-cycle-flow.png)
+![Spring cycle review flow](https://lydiaychen.com/spring-cycle-flow.png)
 
 *Papers rejected after round 1 leave early; the rest get two more reviews, a rebuttal and a PC discussion.*
 
@@ -145,6 +182,8 @@ TPMS works well, but it is an external service run by people over email. Budget 
 
 The lesson: TPMS quality depends on profile quality, and the timeline depends on how few round trips you need. You can also ask the TPMS team for a report on matching quality.
 
+<div style="text-align: right"><a href="#top">Back to top &uarr;</a></div>
+
 ## EuroSys'27 fall: reserve reviewers, two HotCRP instances and two matching routes
 
 **A big thank-you first.** One hidden but crucial factor in pulling this off was the real-time management of reviewers and authors. My co-chair Andreas Haeberlen dedicated many hours to handling every request with great patience, which kept the review process running smoothly. Without that effort, a process like this can easily fail.
@@ -155,7 +194,7 @@ To handle the surge in submissions, we changed three things at once: we recruite
 - **Round 2:** only PC members review.
 - **Decisions:** after a rebuttal phase, final decisions are made bottom-up, through the round-2 discussion among the PC.
 
-![Fall cycle review flow](fall-cycle-flow.png)
+![Fall cycle review flow](https://lydiaychen.com/fall-cycle-flow.png)
 
 *Round 1 runs on two HotCRP instances in parallel; round 2, the rebuttal and the decisions stay with the PC.*
 
@@ -199,7 +238,9 @@ The key design decision for the second instance is the review form. Do PC member
 
 In our case, the original instance handled PC reviews and the second instance handled reserve reviewers. Both used the same numerical scores, but with differently worded questions, to reflect the different levels of expertise and experience among reserve reviewers.
 
-## EuroSys'27 fall: our own matching pipeline
+<div style="text-align: right"><a href="#top">Back to top &uarr;</a></div>
+
+## Our own matching pipeline
 
 For the second route, we built our own pipeline on open data. It builds on the reviewer-paper matching tool that Paul Gratz developed for the HPCA 2027 program committee ([hpca2027-reviewer-match](https://github.com/pgratz1/hpca2027-reviewer-match)), and we are grateful to him for making it available. Like the HPCA tool, we use SPECTER2 to embed papers and compute reviewer-paper affinity from those embeddings.
 
@@ -241,18 +282,15 @@ The pipeline needs four HotCRP exports. Each has one precondition that must hold
 
 The practical consequence: make ORCID mandatory in both the PC profile and the submission form, and check it before the deadline, not after.
 
-## Lessons for future chairs
+<div style="text-align: right"><a href="#top">Back to top &uarr;</a></div>
 
-The common thread: at scale, the review process is a data pipeline, and its quality is set before the deadline. A short checklist:
+## A final personal remark
 
-- Make ORCID mandatory for every reviewer and every author, and verify it before submissions close.
-- If you use TPMS, confirm every reviewer profile weeks ahead and align TPMS and HotCRP emails.
-- Decide how reviewer signatures are built: which years, which venues, and whether arXiv counts.
-- Choose the assignment objective explicitly: best average match or protecting the worst-matched papers.
-- Script desk-reject checks and conflict verification against HotCRP exports before the deadline.
-- Resolve all HotCRP-flagged conflicts before any bulk assignment import.
-- Put reserve-reviewer nomination in the submission form, with structured fields.
-- Decide early whether reserve reviewers get their own HotCRP instance, and budget time for importing submissions through the API.
-- Plan chair time for the two email waves after the deadline.
+After running five review cycles back to back, and as a very active author at AI conferences, here is what I think systems conferences should consider: simplify the reviewing process and use reviewers' capacity wisely.
 
 We will open-source everything soon: our scripts for HotCRP and TPMS and our matching pipeline. If you are chairing a systems conference soon and want to compare notes or reuse our scripts, feel free to reach out.
+
+*Disclaimer: I came up with the draft of this post entirely myself; the text was polished with the help of Claude.*
+
+<div style="text-align: right"><a href="#top">Back to top &uarr;</a></div>
+
