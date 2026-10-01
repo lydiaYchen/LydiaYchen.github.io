@@ -2,7 +2,6 @@
 layout: page
 title: Scaling Conference Review Process
 ---
-
 **Lydia Y. Chen**, Professor, University of Neuch&acirc;tel &middot; [lydiaychen.com](https://lydiaychen.com/)
 
 *September 29, 2026*
@@ -28,7 +27,7 @@ At 200 papers, a chair can still eyeball conflicts and hand-tune assignments. At
 
 This post shares what we did, what broke, and what I would do again. I hope it is useful to future chairs, and I would love to hear how others handle the same problems. It reflects **my personal views only, which my co-chairs may not share, and errors may remain**.
 
-I am grateful to Paul Gratz (Texas A&M, HPCA'27 TPC co-chair) and Mark Silberstein (Technion, EuroSys'24 and ASPLOS'26 TPC co-chair) for generously sharing their experience in our discussions about running large program committees. Many ideas in this post took shape in those conversations.
+I am grateful to Paul Gratz (Texas A&M, HPCA'27 TPC co-chair), Cristina Nita-Rotaru (Northeastern University, S&P'26 TPC co-chair), and Mark Silberstein (Technion, EuroSys'24 and ASPLOS'26 TPC co-chair) for generously sharing their experience in our discussions about running large program committees. Many ideas in this post took shape in those conversations.
 
 A big thank-you to my students, Zhiwen Soi and Nicolas van Shaik, for all their help behind the scenes.
 
@@ -294,4 +293,3 @@ After running five review cycles back to back, and as a very active author at AI
 We will open-source everything soon: our scripts for HotCRP and TPMS and our matching pipeline. If you are chairing a systems conference soon and want to compare notes or reuse our scripts, feel free to reach out.
 
 <div style="text-align: right"><a href="#top" title="Back to top"><i class="fas fa-arrow-circle-up"></i> Back to top</a></div>
-
