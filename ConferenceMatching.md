@@ -34,7 +34,7 @@ A big thank-you to my students, Zhiwen Soi and Nicolas van Shaik, for all their 
 
 A heartfelt thank-you to my co-chairs: Mohammad Sadoghi (UC Davis) at Middleware'25, Miguel Correia (INESC-ID) at DSN'26, and Pramod Bhatotia (TU Munich) and Andreas Haeberlen (UPenn) at EuroSys'27. None of this would have been possible without them.
 
-<div style="text-align: right"><a href="#top">Back to top &uarr;</a></div>
+<div style="text-align: right"><a href="#top" title="Back to top"><i class="fas fa-arrow-circle-up"></i> Back to top</a></div>
 
 ## Four decisions that shape everything else
 
@@ -78,7 +78,7 @@ Matching has two parts: computing a score for every paper-reviewer pair, and tur
 
 **Assignment.** Given the scores, you still choose an objective. Maximizing the total score gives the best average match but can leave some papers with weak reviewers. Maximizing the worst match protects every paper but can lower the average. At 1,200 papers, the unlucky tail is large, so this choice matters.
 
-<div style="text-align: right"><a href="#top">Back to top &uarr;</a></div>
+<div style="text-align: right"><a href="#top" title="Back to top"><i class="fas fa-arrow-circle-up"></i> Back to top</a></div>
 
 ## Publication databases and reviewer identity
 
@@ -106,7 +106,7 @@ The overall challenge is identifying unique people from names, emails and affili
 
 The sections below show how this plays out in practice. TPMS relies on its own curated profiles, keyed by email. Our pipeline uses ORCID as the key and treats the other databases as sources of content: DBLP for the publication list and OpenAlex for the abstracts.
 
-<div style="text-align: right"><a href="#top">Back to top &uarr;</a></div>
+<div style="text-align: right"><a href="#top" title="Back to top"><i class="fas fa-arrow-circle-up"></i> Back to top</a></div>
 
 ## Middleware'25: a long journey of two cycles
 
@@ -122,7 +122,7 @@ Middleware ran smoothly overall. Two points were tricky: (i) handling revise-and
 
 This elaborate process runs for an entire year. Reviewers at Middleware'25 received review assignments almost every month, plus many tasks and emails during the discussion and decision phases. **This is a very heavy load for reviewers who contribute to the community voluntarily.**
 
-<div style="text-align: right"><a href="#top">Back to top &uarr;</a></div>
+<div style="text-align: right"><a href="#top" title="Back to top"><i class="fas fa-arrow-circle-up"></i> Back to top</a></div>
 
 ## DSN'26: growing the PC after the abstract deadline
 
@@ -134,7 +134,7 @@ Right after the second round, we moved straight into a two-week author rebuttal 
 
 Compared with Middleware'25, DSN'26 had one hiccup: about 30% more submissions than we expected. However, there was only one review cycle, no revise-and-resubmit complications, and only a small number of shepherded papers. **Personally, I found the workload as a chair much lighter, and I was able to do all my tasks with enthusiasm.**
 
-<div style="text-align: right"><a href="#top">Back to top &uarr;</a></div>
+<div style="text-align: right"><a href="#top" title="Back to top"><i class="fas fa-arrow-circle-up"></i> Back to top</a></div>
 
 ## EuroSys'27 spring: HotCRP with TPMS
 
@@ -183,7 +183,7 @@ TPMS works well, but it is an external service run by people over email. Budget 
 
 The lesson: **TPMS quality depends on profile quality**, and the timeline depends on how few round trips you need. You can also ask the TPMS team for a report on matching quality.
 
-<div style="text-align: right"><a href="#top">Back to top &uarr;</a></div>
+<div style="text-align: right"><a href="#top" title="Back to top"><i class="fas fa-arrow-circle-up"></i> Back to top</a></div>
 
 ## EuroSys'27 fall: reserve reviewers, two HotCRP instances and two matching routes
 
@@ -239,7 +239,7 @@ The key design decision for the second instance is the review form. Do PC member
 
 In our case, the original instance handled PC reviews and the second instance handled reserve reviewers. Both used the same numerical scores, but with differently worded questions, to reflect the different levels of expertise and experience among reserve reviewers.
 
-<div style="text-align: right"><a href="#top">Back to top &uarr;</a></div>
+<div style="text-align: right"><a href="#top" title="Back to top"><i class="fas fa-arrow-circle-up"></i> Back to top</a></div>
 
 ## Our own matching pipeline
 
@@ -283,7 +283,7 @@ The pipeline needs four HotCRP exports. Each has one precondition that must hold
 
 The practical consequence: **make ORCID mandatory in both the PC profile and the submission form**, and check it before the deadline, not after.
 
-<div style="text-align: right"><a href="#top">Back to top &uarr;</a></div>
+<div style="text-align: right"><a href="#top" title="Back to top"><i class="fas fa-arrow-circle-up"></i> Back to top</a></div>
 
 ## A final personal remark
 
@@ -291,5 +291,5 @@ After running five review cycles back to back, and as a very active author at AI
 
 We will open-source everything soon: our scripts for HotCRP and TPMS and our matching pipeline. If you are chairing a systems conference soon and want to compare notes or reuse our scripts, feel free to reach out.
 
-<div style="text-align: right"><a href="#top">Back to top &uarr;</a></div>
+<div style="text-align: right"><a href="#top" title="Back to top"><i class="fas fa-arrow-circle-up"></i> Back to top</a></div>
 
