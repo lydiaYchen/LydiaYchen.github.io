@@ -183,6 +183,8 @@ TPMS works well, but it is an external service run by people over email. Budget 
 
 The lesson: **TPMS quality depends on profile quality**, and the timeline depends on how few round trips you need. You can also ask the TPMS team for a report on matching quality.
 
+**How the load felt.** Like Middleware'25, the EuroSys'27 spring cycle was a very elaborate process, with a large PC and the complications of revise-and-resubmit. The additional complication was TPMS, which was a big unknown for us: I spent hours figuring out how to use it, based on discussions with other chairs who had experience with TPMS. At the same time, we had three chairs to share the load.
+
 <div style="text-align: right"><a href="#top" title="Back to top"><i class="fas fa-arrow-circle-up"></i> Back to top</a></div>
 
 ## EuroSys'27 fall: reserve reviewers, two HotCRP instances and two matching routes
