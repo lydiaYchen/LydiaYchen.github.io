@@ -1,21 +1,33 @@
----
-layout: page
-title: Scaling Conference Review Process
----
 **Lydia Y. Chen**, Professor, University of Neuch&acirc;tel &middot; [lydiaychen.com](https://lydiaychen.com/)
 
 *September 29, 2026*
 
 **Contents**
 
-1. [Four decisions that shape everything else](#four-decisions-that-shape-everything-else)
-2. [Publication databases and reviewer identity](#publication-databases-and-reviewer-identity)
-3. [Middleware'25: a long journey of two cycles](#middleware25-a-long-journey-of-two-cycles)
-4. [DSN'26: growing the PC after the abstract deadline](#dsn26-growing-the-pc-after-the-abstract-deadline)
-5. [EuroSys'27 spring: HotCRP with TPMS](#eurosys27-spring-hotcrp-with-tpms)
-6. [EuroSys'27 fall: reserve reviewers, two HotCRP instances and two matching routes](#eurosys27-fall-reserve-reviewers-two-hotcrp-instances-and-two-matching-routes)
-7. [Our own matching pipeline](#our-own-matching-pipeline)
-8. [A final personal remark](#a-final-personal-remark)
+- [Why this post](#why-this-post)
+- [Four decisions that shape everything else](#four-decisions-that-shape-everything-else)
+  - [1. Which review system?](#1-which-review-system)
+  - [2. Who should review?](#2-who-should-review)
+  - [3. How should reviews run?](#3-how-should-reviews-run)
+  - [4. Which matching algorithm?](#4-which-matching-algorithm)
+- [Publication databases and reviewer identity](#publication-databases-and-reviewer-identity)
+  - [The hard part: knowing who is who](#the-hard-part-knowing-who-is-who)
+- [Middleware'25: a long journey of two cycles](#middleware25-a-long-journey-of-two-cycles)
+- [DSN'26: growing the PC after the abstract deadline](#dsn26-growing-the-pc-after-the-abstract-deadline)
+- [EuroSys'27 spring: HotCRP with TPMS](#eurosys27-spring-hotcrp-with-tpms)
+  - [Before the abstract deadline](#before-the-abstract-deadline)
+  - [After the submission deadline](#after-the-submission-deadline)
+- [EuroSys'27 fall: reserve reviewers, two HotCRP instances and two matching routes](#eurosys27-fall-reserve-reviewers-two-hotcrp-instances-and-two-matching-routes)
+  - [Recruiting reserve reviewers from authors](#recruiting-reserve-reviewers-from-authors)
+    - [Before the submission deadline](#before-the-submission-deadline)
+    - [After the submission deadline](#after-the-submission-deadline-1)
+  - [Running reserve reviewers on a second HotCRP instance](#running-reserve-reviewers-on-a-second-hotcrp-instance)
+- [Our own matching pipeline](#our-own-matching-pipeline)
+  - [Conflicts of interest](#conflicts-of-interest)
+  - [Expertise signatures](#expertise-signatures)
+  - [Scores](#scores)
+  - [Inputs from HotCRP](#inputs-from-hotcrp)
+- [A final personal remark](#a-final-personal-remark)
 
 *Disclaimer: I came up with the draft of this post entirely myself; the text was polished with the help of Claude.*
 
@@ -171,7 +183,7 @@ TPMS works well, but it is an external service run by people over email. Budget 
 ### After the submission deadline
 
 1. **Finalize the reviewable set.** Automate the desk-reject rules: submission limits per author, missing or inappropriate form fields, and format violations. HotCRP's CSV and JSON exports are the raw input for these scripts. The scripts filter out most cases; the rest, especially formatting issues, need manual inspection. One important question is how strictly to enforce these rules, especially when authors request changes after submission.
-2. **Resolve conflicts of interest in HotCRP.** HotCRP flags potential conflicts on its assignment-conflict page, an HTML list per reviewer. Each one must be confirmed or dismissed. The list can approach reviewers x papers entries, so clicking through it in the web interface is not realistic. We wrote a script that extracts the key fields from that HTML into a CSV for fast review. Skipping this step is costly: unresolved conflicts make the later bulk import of the TPMS assignment fail.
+2. **Resolve conflicts of interest in HotCRP.** HotCRP flags potential conflicts on its assignment-conflict page, an HTML list per reviewer. Each one can be confirmed or dismissed. The list can approach reviewers x papers entries, so clicking through it in the web interface is not realistic. We wrote a script that extracts the key fields from that HTML into a CSV for fast review. The list of conflicts is generated dynamically, so getting rid of all COI warnings may take several rounds of cleaning.
 3. **Prepare the three TPMS input files.** Each needs a specific format, so expect to reshape HotCRP's exports:
     - Submitted PDFs, named with TPMS's required paper-ID format (mandatory).
     - The reviewer list: TPMS email, name, and number of papers each will review.
@@ -214,7 +226,7 @@ There are many ways to grow the reviewer pool from the author community. Here is
 
 1. **Change the submission form as soon as the abstract deadline is known.** We added a required field asking each submission to nominate one reserve reviewer with PhD-equivalent experience: name, email and website. *Improvement for next time:* use separate, structured fields for each item so the answers need no cleanup before selection.
 2. **Prepare the desk-reject script** to check (i) the number of submissions per unique author, (ii) whether a reserve reviewer was provided, and (iii) formatting.
-3. **Prepare the reserve-reviewer extraction script.** It pulls the nominees and adds attributes useful for selection, such as how many papers the nominee submitted and how many publications they have in recent years according to their ORCID.
+3. **Prepare the reserve-reviewer extraction script.** It pulls the nominees and adds attributes useful for selection, such as how many papers the nominee submitted and how many publications they have in recent years, according to their ORCID in DBLP. These statistics come from the part of our pipeline that curates COIs: to identify COIs, we first need to identify each reviewer's publication track record (almost) accurately, by combining publication databases and user attributes.
 
 #### After the submission deadline
 
@@ -244,13 +256,13 @@ In our case, the original instance handled PC reviews and the second instance ha
 
 ## Our own matching pipeline
 
-For the second route, we built our own pipeline on open data. It builds on the reviewer-paper matching tool that Paul Gratz developed for the HPCA 2027 program committee ([hpca2027-reviewer-match](https://github.com/pgratz1/hpca2027-reviewer-match)), and we are grateful to him for making it available. Like the HPCA tool, we use SPECTER2 to embed papers and compute reviewer-paper affinity from those embeddings.
+For the second route, we built our own pipeline on open data. It builds on the reviewer-paper matching pipeline that Paul Gratz developed for the HPCA 2027 program committee ([hpca2027-reviewer-match](https://github.com/pgratz1/hpca2027-reviewer-match)), and we are grateful to him for making it available. Like the HPCA pipeline, we use SPECTER2 to embed papers and compute reviewer-paper affinity from those embeddings.
 
-We made two main changes on top of the HPCA pipeline. First, we build each reviewer's publication record from their ORCID, whereas the HPCA tool uses the DBLP entry provided by each reviewer. Second, our reviewer affinity vector is based on the titles and abstracts of their papers, extracted automatically from OpenAlex, whereas the HPCA tool relies on titles. As a result, **the backbone of our pipeline is one identifier: ORCID.** We will open-source the pipeline soon.
+We made two main changes on top of the HPCA pipeline. First, we build each reviewer's publication record from their ORCID, whereas the HPCA pipeline uses the DBLP entry provided by each reviewer. Second, our reviewer affinity vector is based on the titles and abstracts of their papers, extracted automatically from OpenAlex, whereas the HPCA pipeline relies on titles. As a result, **the backbone of our pipeline is one identifier: ORCID.** We will open-source the pipeline soon.
 
-The table below compares the three matching routes: TPMS alone, the HPCA 2027 tool, and our pipeline.
+The table below compares the three matching routes: TPMS alone, the HPCA 2027 pipeline, and our pipeline.
 
-|  | TPMS only | HPCA 2027 tool | Our pipeline |
+|  | TPMS only | HPCA 2027 pipeline | Our pipeline |
 | --- | --- | --- | --- |
 | **Conflict-of-interest inputs** | HotCRP conflict file | HotCRP conflict file, plus publication history from the unique DBLP entry each reviewer provides | HotCRP conflict file, plus publication history from DBLP entries found through each reviewer's ORCID |
 | **Affinity vector built from** | PDFs of the reviewer's recent publications | Titles of recent publications | Titles and abstracts of recent publications |
@@ -258,18 +270,29 @@ The table below compares the three matching routes: TPMS alone, the HPCA 2027 to
 
 ### Conflicts of interest
 
-- Author-reviewer conflicts are derived from ORCID entries in DBLP, which gives us co-authorship automatically.
-- Collaboration and institutional history flagged by HotCRP is added on top.
+- Author-reviewer conflicts are derived from ORCID entries in DBLP, which gives us co-authorship automatically. This is the tricky part: despite our best efforts to track people down through their unique IDs, there remains a small fraction of cases where a reviewer's ORCID and DBLP entries are not aligned.
+- Collaboration and institutional history flagged by HotCRP is added on top. HotCRP uses fuzzy matching, and its flags depend on the COIs that have already been declared. A flagged COI does not by itself block an assignment.
+
+A conflict removes a reviewer from a paper before any matching happens. Every reviewer-paper pair goes through all the checks below, and a single hit is enough to exclude the pair:
+
+1. **Declared conflicts.** Conflicts marked in HotCRP by authors (and chairs). Authors can only mark people who were already on the PC when they submitted, so this check says almost nothing about the reserve reviewers; checks 3-5 cover them.
+2. **Own paper.** Anyone listed as an author or contact of the paper.
+3. **Recent co-authors (last five years, from DBLP).** We look up reviewers and authors on DBLP by the ORCID in their HotCRP profile. When both are found, they conflict only if DBLP shows a paper they wrote together, so someone who wrote with a namesake of an author is not blocked. When either cannot be found (about 4 in 10 authors, mostly students), we fall back to matching names (e.g., "Wei Zhang" and "Wei Zhang"), which errs on the side of blocking.
+4. **Declared collaborators.** Names that reviewers list as collaborators in their HotCRP profile, and names that authors list on the submission form, matched by name.
+5. **Same institution.** The same email domain (cs.x.edu counts as mails.x.edu; gmail and similar providers are ignored) or the same affiliation after normalization ("Huawei Technologies Co., Ltd." = "Huawei"). In the fall cycle, this check alone caught about 5,000 reviewer-paper pairs involving reserve reviewers.
+6. **Disliked topics.** Not a conflict, but treated as one: a reviewer who rated any of a paper's topics negatively in HotCRP never gets that paper.
 
 ### Expertise signatures
 
-- A reviewer's signature uses their publications from the past four years in DBLP, **excluding arXiv preprints**, plus the topics of interest they declare in HotCRP.
+- A reviewer's signature uses their publications from the past four years in DBLP, **excluding arXiv preprints**, plus the topics of interest they declare in HotCRP. Which venues to include or exclude is configurable; for example, we could select venues relevant to EuroSys.
 - DBLP has no abstracts, so we fetch each paper's title and abstract automatically from OpenAlex and embed them with SPECTER2 to form the signature vectors.
-- Each submission gets a SPECTER2 signature from its own abstract.
+- Each submission gets a SPECTER2 signature from its own abstract and the topics declared in HotCRP.
 
 ### Scores
 
 The match score for a paper-reviewer pair is the cosine similarity between the reviewer's expertise signature and the paper's abstract signature.
+
+Many parameters affect the matching outcome. For instance, setting upper or lower bounds on the number of PC and reserve-reviewer reviews can change the assignment a lot. Before finalizing the assignment, we changed the parameters several times, trying to improve the worst matches. There are always hard cases, such as papers on rare topics, or reviewers whose publication records and declared topics do not match, which can end up as the worst matches. **The tip: try a few settings and eyeball the scores of the worst matches.**
 
 ### Inputs from HotCRP
 
