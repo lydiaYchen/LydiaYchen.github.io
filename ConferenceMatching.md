@@ -41,7 +41,7 @@ This post shares what we did, what broke, and what I would do again. I hope it i
 
 I am grateful to Paul Gratz (Texas A&M, HPCA'27 TPC co-chair), Cristina Nita-Rotaru (Northeastern University, S&P'26 TPC co-chair), and Mark Silberstein (Technion, EuroSys'24 and ASPLOS'26 TPC co-chair) for generously sharing their experience in our discussions about running large program committees. Many ideas in this post took shape in those conversations.
 
-A big thank-you to my students, Zhiwen Soi and Nicolas van Shaik, for all their help behind the scenes.
+A big thank-you to my students, Zhiwen Soi and Nicolas van Schaik, for all their help behind the scenes.
 
 A heartfelt thank-you to my co-chairs: Mohammad Sadoghi (UC Davis) at Middleware'25, Miguel Correia (INESC-ID) at DSN'26, and Pramod Bhatotia (TU Munich) and Andreas Haeberlen (UPenn) at EuroSys'27. None of this would have been possible without them.
 
