@@ -71,6 +71,26 @@ Giulio Segalini, Aditya Shankar, Jérémie Decouchant, Lydia Y. Chen
 </details>
 
 ---
+## Cadence: Music-Responsive Stage Lighting in Concert Video Generation
+
+Jean Pool Pereyra Principe, Zhi Wen Soi, Lydia Chen
+
+#### NeurIPS 2026 Creative AI Track: Agency: [📄 : Paper](https://openreview.net/pdf?id=grYGtRGLcn)
+
+<details>
+<summary>Citation</summary>
+<pre>
+@inproceedings{principe2026cadence,
+ title={Cadence: Music-Responsive Stage Lighting in Concert Video Generation},
+ author={Jean Pool Pereyra Principe and Zhi Wen Soi and Lydia Chen},
+ booktitle={The Fortieth Annual Conference on Neural Information Processing Systems Creative AI Track: Agency},
+ year={2026},
+ url={https://openreview.net/forum?id=grYGtRGLcn}
+}
+</pre>
+</details>
+
+---
 
 ### Measuring Legislature-Aligned Privacy Risks in Synthetic Graphs
 
