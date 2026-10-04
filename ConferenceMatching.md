@@ -256,17 +256,18 @@ The table below compares the three matching routes: TPMS alone, the HPCA 2027 pi
 ### Conflicts of interest
 
 - Author-reviewer conflicts are derived from ORCID entries in DBLP, which gives us co-authorship automatically. This is the tricky part: despite our best efforts to track people down through their unique IDs, there remains a small fraction of cases where a reviewer's ORCID and DBLP entries are not aligned.
-- Collaboration and institutional history flagged by HotCRP is added on top. HotCRP uses fuzzy matching, and its flags depend on the COIs that have already been declared. A flagged COI does not by itself block an assignment.
+- Collaboration and institutional history flagged by HotCRP is added on top. HotCRP uses fuzzy matching, and its flags depend on the COIs that have already been declared. A flagged COI does not by itself block an assignment, until explicitly confirmed. The confirmation procedure described in spring cycle can be applied here.
 
+<!--
 A conflict removes a reviewer from a paper before any matching happens. Every reviewer-paper pair goes through all the checks below, and a single hit is enough to exclude the pair:
 
 1. **Declared conflicts.** Conflicts marked in HotCRP by authors (and chairs). Authors can only mark people who were already on the PC when they submitted, so this check says almost nothing about the reserve reviewers; checks 3-5 cover them.
 2. **Own paper.** Anyone listed as an author or contact of the paper.
 3. **Recent co-authors (last five years, from DBLP).** We look up reviewers and authors on DBLP by the ORCID in their HotCRP profile. When both are found, they conflict only if DBLP shows a paper they wrote together, so someone who wrote with a namesake of an author is not blocked. When either cannot be found (about 4 in 10 authors, mostly students), we fall back to matching names (e.g., "Wei Zhang" and "Wei Zhang"), which errs on the side of blocking.
 4. **Declared collaborators.** Names that reviewers list as collaborators in their HotCRP profile, and names that authors list on the submission form, matched by name.
-5. **Same institution.** The same email domain (cs.x.edu counts as mails.x.edu; gmail and similar providers are ignored) or the same affiliation after normalization ("Huawei Technologies Co., Ltd." = "Huawei"). In the fall cycle, this check alone caught about 5,000 reviewer-paper pairs involving reserve reviewers.
+5. **Same institution.** The same email domain (cs.x.edu counts as mails.x.edu; gmail and similar providers are ignored) or the same affiliation after normalization.
 6. **Disliked topics.** Not a conflict, but treated as one: a reviewer who rated any of a paper's topics negatively in HotCRP never gets that paper.
-
+-->
 ### Expertise signatures
 
 - A reviewer's signature uses their publications from the past four years in DBLP, **excluding arXiv preprints**, plus the topics of interest they declare in HotCRP. Which venues to include or exclude is configurable; for example, we could select venues relevant to EuroSys.
