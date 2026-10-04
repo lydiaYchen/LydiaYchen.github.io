@@ -277,6 +277,8 @@ A conflict removes a reviewer from a paper before any matching happens. Every re
 
 The match score for a paper-reviewer pair is the cosine similarity between the reviewer's expertise signature and the paper's abstract signature.
 
+Assignment algorithm: paper-proposing deferred acceptance (the algorithm used to match medical residents to hospitals). Three passes: each paper first gets its best-matching PC member, then its remaining slots are filled from everyone including extra-reviewers. Finally, any slot still empty is filled by moving reviewers along short chains, every additional constraints, e.g., no. of review per PC and reserved reviewers, loads of PC, and geographic affinity, still holding.
+
 Many parameters affect the matching outcome. For instance, setting upper or lower bounds on the number of PC and reserve-reviewer reviews can change the assignment a lot. Before finalizing the assignment, we changed the parameters several times, trying to improve the worst matches. There are always hard cases, such as papers on rare topics, or reviewers whose publication records and declared topics do not match, which can end up as the worst matches. **The tip: try a few settings and eyeball the scores of the worst matches.**
 
 ### Inputs from HotCRP
