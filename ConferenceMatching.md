@@ -288,7 +288,7 @@ The pipeline needs four HotCRP exports. Each has one precondition that must hold
 
 | File | What it provides | Must be true before export |
 | --- | --- | --- |
-| `pcconflict` | Confirmed reviewer conflicts | Every HotCRP-flagged conflict is resolved. Otherwise the bulk assignment import fails. |
+| `pcconflict` | Confirmed reviewer conflicts | Every HotCRP-flagged conflict is resolved. Otherwise the bulk assignment import may fail. |
 | `pcinfo` | PC members and reviewers | Every reviewer has entered an accurate ORCID. It is the key for automatic conflict detection. |
 | `data.json` | Submissions and metadata | Every author has provided an ORCID. |
 | `authors.csv` | Author list per paper | Every author has provided an ORCID. |
