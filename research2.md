@@ -1,5 +1,5 @@
 
-A complete list from [dblp](publicationlist.md)
+A complete list from [dblp](https://dblp.org/pid/93/2896.html)
 
 ---
 ## All papers with code
